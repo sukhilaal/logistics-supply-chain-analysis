@@ -1,0 +1,11 @@
+﻿Customer_ID,Customer_Name,Loyalty_Tier,shipment_count,returns,return_rate,total_cost
+CUST2125,Lindsay Savage,Silver,5,3,0.6,19698.44
+CUST2237,Tina Key MD,Gold,5,3,0.6,35005.65
+CUST2469,Joshua Lee,Platinum,5,3,0.6,43763.29
+CUST2519,Charles Watson,Silver,5,3,0.6,67477.67
+CUST1950,Jon Warner,Gold,7,4,0.5714,84739.31
+CUST1085,Timothy Anderson,Gold,6,3,0.5,43553.71
+CUST1669,Derek Richardson,Silver,6,3,0.5,56062.19
+CUST1746,Brandon Huff,Silver,6,3,0.5,45815.99
+CUST2219,Amanda Chambers,Gold,6,3,0.5,63516.94
+CUST2319,Tyler Castro,Platinum,6,3,0.5,30768.92

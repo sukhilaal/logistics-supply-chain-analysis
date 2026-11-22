@@ -1,0 +1,4 @@
+﻿Shipment_ID,Carrier_ID,Warehouse_ID,Delivery_Mode,Dispatch_to_Delivery_Days,Delivery_Distance_km,Product_Weight_kg,Cost_Incurred
+SHP10012,CR012,WH025,Air,10.0,1871.71,49.58,9570.44
+SHP10019,CR008,WH023,Surface,10.0,1337.75,40.82,8938.68
+SHP10035,CR005,WH004,Air,10.0,1509.43,33.54,16630.44

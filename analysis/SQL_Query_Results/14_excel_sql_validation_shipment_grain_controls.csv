@@ -1,0 +1,2 @@
+﻿rows,unique_shipments,missing_delivery_dates,cancelled_without_delivery_date,cancelled_with_delivery_date
+10000,10000,486,486,0

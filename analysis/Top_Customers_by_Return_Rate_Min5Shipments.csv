@@ -1,0 +1,11 @@
+﻿Customer_ID,Customer_Name,Loyalty_Tier,Is_Active,Signup_Date,Shipments,Total_Cost,Returns,Return_Rate,First_Order_Date,Last_Order_Date,Days_Since_Last_Order,Churn_Risk_180d
+CUST2125,Lindsay Savage,Silver,False,2024-06-02,5,19698.44,3,0.6,2025-01-08,2025-07-20,11,False
+CUST2237,Tina Key MD,Gold,False,2023-12-22,5,35005.65,3,0.6,2024-08-29,2025-04-24,98,False
+CUST2469,Joshua Lee,Platinum,True,2021-10-01,5,43763.29,3,0.6,2024-10-26,2025-06-06,55,False
+CUST2519,Charles Watson,Silver,True,2022-01-23,5,67477.67,3,0.6,2024-11-16,2025-06-26,35,False
+CUST1950,Jon Warner,Gold,True,2022-02-08,7,84739.31,4,0.5714285714285714,2024-08-10,2025-07-10,21,False
+CUST1085,Timothy Anderson,Gold,True,2022-01-16,6,43553.71,3,0.5,2024-08-13,2025-05-31,61,False
+CUST1669,Derek Richardson,Silver,True,2024-02-16,6,56062.19,3,0.5,2024-08-14,2025-05-01,91,False
+CUST1746,Brandon Huff,Silver,True,2021-11-23,6,45815.99,3,0.5,2024-10-06,2025-05-14,78,False
+CUST2219,Amanda Chambers,Gold,True,2021-11-22,6,63516.939999999995,3,0.5,2024-09-03,2025-07-14,17,False
+CUST2319,Tyler Castro,Platinum,True,2023-11-02,6,30768.920000000002,3,0.5,2024-09-11,2025-05-14,78,False

@@ -1,0 +1,2001 @@
+﻿Customer_ID,Customer_Name,Gender,Age,Sign_Up_Date,Loyalty_Tier,City,State,Is_Active
+CUST1000,Jonathan Porter,Other,25.0,2022-04-03,Silver,South Martin,Florida,False
+CUST1001,Angela Underwood,Male,65.0,2023-11-14,Gold,Sherriborough,New York,True
+CUST1002,Amy Sweeney,Female,33.0,2023-01-09,Silver,Juanville,Iowa,True
+CUST1003,Jeffrey Anderson,Male,26.0,2022-08-18,Silver,Milesside,Minnesota,False
+CUST1004,Stephanie Welch,Other,24.0,2021-11-29,Gold,West Stephaniefort,Minnesota,True
+CUST1005,Nicole Garcia,Other,65.0,2023-06-29,Silver,North Tonyashire,Louisiana,False
+CUST1006,Mr. Robert Johnson MD,Other,23.0,2023-03-27,Platinum,South Kathleen,Wyoming,True
+CUST1007,Aaron Ellis,Other,45.0,2022-08-10,Silver,Allenside,Alaska,True
+CUST1008,Mr. Jason Hayes,Male,19.0,2023-08-24,Silver,Port Gregoryport,Massachusetts,True
+CUST1009,Scott Jackson,Male,31.0,2024-03-25,Silver,Port Alanmouth,Missouri,True
+CUST1010,Caroline Harris,Male,50.0,2023-08-02,Gold,Sabrinaburgh,South Dakota,True
+CUST1011,Gina Carter,Other,19.0,2022-03-15,Silver,West Michael,Michigan,True
+CUST1012,Stephen Charles,Other,30.0,2023-03-05,Silver,East Kristen,Colorado,True
+CUST1013,Kayla Becker,Other,59.0,2021-12-17,Silver,North Jesse,South Carolina,True
+CUST1014,Nathan Mcgrath,Other,52.0,2024-02-21,Gold,East Bruce,Montana,True
+CUST1015,Laura Johnson,Female,32.0,2021-12-22,Gold,Fowlerton,Nebraska,True
+CUST1016,Johnathan Taylor,Female,55.0,2023-10-02,Silver,Lake Judithmouth,New Mexico,False
+CUST1017,Ryan Gill,Female,18.0,2022-12-24,Platinum,Matthewsland,Nevada,False
+CUST1018,Theodore Anderson,Male,62.0,2024-07-16,Silver,Laurenborough,Alabama,True
+CUST1019,Edward Collins,Female,39.0,2022-08-15,Gold,Ramirezbury,Rhode Island,True
+CUST1020,Danny Sanders,Female,27.0,2023-08-29,Silver,East Tammymouth,Iowa,True
+CUST1021,Daniel Gomez,Male,39.0,2022-08-25,Silver,Kennedymouth,New Hampshire,False
+CUST1022,Cindy Scott,Male,23.0,2022-07-11,Silver,Garrettland,Ohio,True
+CUST1023,Melissa Clayton,Female,24.0,2023-12-25,Silver,Port Laurahaven,Utah,True
+CUST1024,Brianna Anderson,Female,40.0,2023-05-07,Gold,Jonesstad,Minnesota,True
+CUST1025,Courtney Cherry,Other,34.0,2023-04-26,Platinum,South Charles,Mississippi,True
+CUST1026,Samantha Jones,Male,64.0,2022-12-30,Platinum,Debbieberg,New Hampshire,False
+CUST1027,Natasha Payne,Female,52.0,2023-01-24,Gold,Keytown,Idaho,False
+CUST1028,Laura Cruz,Male,42.0,2022-01-22,Silver,Lake Rachelhaven,Arizona,True
+CUST1029,James Donovan,Male,53.0,2024-02-24,Silver,Lake Dennis,Oregon,True
+CUST1030,Steven Harper,Female,58.0,2023-07-12,Silver,Tanyafurt,Arkansas,True
+CUST1031,Michele Young,Other,41.0,2023-04-12,Platinum,Craigton,Maryland,True
+CUST1032,Lucas Zamora,Other,30.0,2023-11-05,Silver,New Joystad,Illinois,True
+CUST1033,Leah Blake,Other,22.0,2022-08-28,Silver,Charleshaven,Nevada,False
+CUST1034,Barbara Brown,Male,60.0,2023-01-27,Silver,Davidmouth,Pennsylvania,False
+CUST1035,Matthew Hodges,Male,36.0,2023-08-26,Gold,South Jeffreymouth,Louisiana,True
+CUST1036,Thomas Baird,Male,32.0,2022-10-10,Silver,Teresashire,North Carolina,False
+CUST1037,Mark Martinez,Male,42.0,2023-03-02,Gold,North Martinland,Montana,True
+CUST1038,Michael Williams,Female,47.0,2023-11-08,Gold,Lake Nicoleton,North Carolina,True
+CUST1039,Angel Powell,Other,41.0,2022-07-03,Silver,New Nicholastown,California,True
+CUST1040,Allison Cameron,Male,41.0,2023-12-19,Platinum,Simmonsside,Pennsylvania,True
+CUST1041,Sean Jackson,Female,31.0,2023-01-30,Silver,Jefferyton,Oklahoma,True
+CUST1042,Madison Smith,Other,35.0,2023-08-31,Silver,Turnerview,Hawaii,True
+CUST1043,Tiffany Avila,Other,61.0,2022-08-01,Gold,West David,Wisconsin,True
+CUST1044,Chris Sheppard,Other,22.0,2022-09-30,Platinum,Port Joseph,Hawaii,True
+CUST1045,Anne Smith,Other,58.0,2022-09-06,Silver,East Michele,Ohio,True
+CUST1046,Courtney Franco,Male,52.0,2024-05-31,Gold,Freemanhaven,Oklahoma,True
+CUST1047,Kyle Lucas,Other,33.0,2022-06-19,Gold,Tonymouth,Idaho,True
+CUST1048,Alyssa Anderson,Male,47.0,2022-07-08,Gold,Port Jamesside,Idaho,True
+CUST1049,Ann Cooper,Female,35.0,2022-10-29,Silver,East Debrahaven,Wyoming,True
+CUST1050,Alexis Vaughan,Other,62.0,2022-09-02,Silver,East Steven,Maine,True
+CUST1051,Kristen Burton,Other,32.0,2022-07-16,Silver,Rhondaborough,Connecticut,True
+CUST1052,Danielle Le,Other,38.0,2021-12-21,Platinum,Danielmouth,Alaska,True
+CUST1053,Matthew Johnson,Male,32.0,2022-01-14,Silver,Stevensonbury,South Carolina,True
+CUST1054,Sean Parker,Male,38.0,2022-06-13,Silver,North Rickton,Wisconsin,True
+CUST1055,Gabrielle Bell,Female,35.0,2023-10-13,Silver,South Garychester,Iowa,True
+CUST1056,Angela Reese,Male,31.0,2022-07-21,Platinum,Sextonview,Illinois,False
+CUST1057,Tyler Cantrell,Other,63.0,2021-11-03,Gold,Lake Christopher,Florida,False
+CUST1058,Amanda Mckinney,Female,31.0,2023-11-28,Platinum,South Elizabethhaven,Vermont,True
+CUST1059,Cody Jordan,Other,49.0,2023-03-13,Platinum,East Taylormouth,Pennsylvania,True
+CUST1060,Gina Brown,Female,59.0,2023-02-26,Platinum,North Theresa,North Carolina,False
+CUST1061,Kevin Estrada,Female,27.0,2023-11-22,Silver,Dawnview,Alaska,True
+CUST1062,Samantha Cook,Female,26.0,2022-09-19,Silver,Williamport,South Carolina,True
+CUST1063,Steve Frazier,Male,65.0,2023-10-26,Platinum,Jonathanside,New Hampshire,False
+CUST1064,Marc Russell,Other,52.0,2023-09-04,Silver,Jacobshire,New Jersey,True
+CUST1065,Krystal Johnson,Female,65.0,2023-08-11,Silver,Bryanmouth,Utah,True
+CUST1066,Amy Bush,Other,45.0,2023-02-11,Silver,East Katelynshire,Idaho,True
+CUST1067,Travis Hays,Other,43.0,2024-04-28,Platinum,Wilsonview,Wisconsin,True
+CUST1068,Michael Haynes,Female,32.0,2024-03-12,Gold,East Katie,Georgia,True
+CUST1069,Alexis Miller,Male,50.0,2022-04-05,Silver,Port Davidstad,Arizona,False
+CUST1070,Barry Jones,Female,23.0,2021-08-27,Platinum,Brownhaven,Mississippi,True
+CUST1071,Kylie Morgan MD,Male,25.0,2022-07-07,Silver,East Heatherchester,Mississippi,True
+CUST1072,Karla Graham,Male,58.0,2021-11-09,Silver,South Dennisberg,Michigan,True
+CUST1073,Craig Young,Male,61.0,2023-09-22,Gold,New Billy,Nevada,True
+CUST1074,Bailey Fitzgerald,Female,56.0,2022-08-30,Silver,Georgeville,Arkansas,True
+CUST1075,Paula Knapp,Male,42.0,2022-01-30,Platinum,West Maria,Virginia,True
+CUST1076,Alexander Rollins,Female,56.0,2022-09-28,Silver,Robinville,Michigan,True
+CUST1077,Andrew Kennedy,Female,51.0,2023-11-22,Platinum,East Jessica,Virginia,True
+CUST1078,Darlene Chung,Female,53.0,2023-10-27,Gold,Danabury,Utah,True
+CUST1079,Timothy Waters,Male,61.0,2022-09-17,Silver,New Brianmouth,Utah,True
+CUST1080,Miranda Mathews,Other,25.0,2022-03-18,Silver,Michellebury,Oregon,True
+CUST1081,Bryan Black,Other,52.0,2022-05-21,Gold,Thomasbury,Mississippi,True
+CUST1082,Marc Foster,Female,59.0,2023-02-12,Silver,Goodmanfort,Idaho,False
+CUST1083,Jeffrey Morales,Female,25.0,2021-08-21,Silver,Lake Nicole,Kansas,True
+CUST1084,Mr. Thomas Holder MD,Female,45.0,2021-11-23,Silver,North Lisafort,Idaho,True
+CUST1085,Timothy Anderson,Male,47.0,2022-01-16,Gold,Garcialand,Washington,True
+CUST1086,Abigail Lozano,Male,64.0,2023-04-29,Gold,Smithland,Utah,True
+CUST1087,Dan Kim,Other,34.0,2024-05-01,Gold,Williamfurt,Pennsylvania,True
+CUST1088,Laura Williams,Other,29.0,2022-06-22,Gold,Garyfort,Nebraska,True
+CUST1089,Sara Hill,Other,24.0,2024-07-31,Platinum,West Michael,Alaska,True
+CUST1090,Shelly Walton,Other,37.0,2023-06-08,Silver,Savannahstad,Maine,True
+CUST1091,Morgan Poole,Other,50.0,2022-03-12,Platinum,Wadeview,Georgia,False
+CUST1092,Tiffany Moore,Other,30.0,2022-05-18,Silver,Cherrymouth,South Carolina,True
+CUST1093,Joshua Blair,Male,41.0,2023-05-30,Platinum,Cantrellmouth,Illinois,True
+CUST1094,Michael Stewart,Male,52.0,2023-12-20,Gold,Davidmouth,Kansas,True
+CUST1095,Steven Casey,Other,18.0,2022-03-24,Silver,Hallberg,Wyoming,False
+CUST1096,Thomas Gill,Other,38.0,2024-01-06,Platinum,East Amberstad,Arizona,True
+CUST1097,Catherine Mcdonald,Female,19.0,2021-11-17,Silver,Guzmanland,Kentucky,True
+CUST1098,Mikayla Lozano,Male,41.0,2024-02-25,Gold,East Tamarafurt,California,False
+CUST1099,Gabriel Harrington,Female,33.0,2023-07-25,Platinum,New Tammyshire,Kentucky,True
+CUST1100,Shannon Alexander,Male,33.0,2022-12-08,Gold,Jeffreyside,Hawaii,True
+CUST1101,Nathan Doyle,Other,23.0,2023-03-17,Silver,Riddlehaven,Arkansas,False
+CUST1102,Matthew Wright,Male,64.0,2023-06-25,Gold,Nicholsonberg,Florida,True
+CUST1103,Mark Jones,Female,22.0,2024-07-30,Silver,Kellybury,Arizona,True
+CUST1104,Robert Hernandez,Other,26.0,2021-10-10,Silver,Romanmouth,Alabama,True
+CUST1105,Michael Elliott,Male,60.0,2022-05-30,Gold,South Christina,Colorado,True
+CUST1106,Timothy Doyle,Female,53.0,2024-03-31,Gold,North Patrick,New York,True
+CUST1107,Charles Gonzales,Male,34.0,2023-08-29,Gold,Kevintown,Alabama,True
+CUST1108,April Christian MD,Other,56.0,2022-01-20,Silver,Monicaside,Delaware,True
+CUST1109,Sarah Mcdonald,Female,31.0,2024-05-30,Gold,Piercemouth,Minnesota,False
+CUST1110,Timothy Hester,Other,64.0,2021-10-26,Gold,Lake Robertofurt,Nevada,True
+CUST1111,Jonathan Cain,Other,30.0,2023-11-15,Silver,Lake Markfurt,Idaho,True
+CUST1112,David Martin,Other,37.0,2022-03-02,Silver,North Ambershire,New Jersey,True
+CUST1113,Tami Dixon,Female,60.0,2023-04-16,Platinum,Frenchside,Alabama,True
+CUST1114,Tara Green,Other,41.0,2022-04-14,Platinum,New Stacystad,Louisiana,True
+CUST1115,Andrew Liu,Female,51.0,2022-04-03,Gold,Lake Kathleen,California,True
+CUST1116,Frances Garcia,Female,25.0,2021-10-15,Gold,Jasonchester,New York,True
+CUST1117,Rodney Fletcher,Male,32.0,2022-09-23,Silver,Langmouth,Louisiana,True
+CUST1118,Henry Mccann,Male,39.0,2021-11-26,Silver,Shermanbury,California,True
+CUST1119,Bridget Edwards,Male,55.0,2023-07-02,Gold,Mikeview,Louisiana,True
+CUST1120,Ruth Kramer,Other,32.0,2024-05-03,Platinum,Caitlintown,New Jersey,False
+CUST1121,Lynn Jones,Other,32.0,2024-07-01,Platinum,Amandashire,Alabama,True
+CUST1122,Julie Newman,Male,22.0,2021-12-03,Silver,Gilmorefort,Arizona,False
+CUST1123,Frank Johnson,Other,58.0,2021-10-20,Silver,New Angela,Maine,False
+CUST1124,Matthew Lee,Male,32.0,2024-06-09,Platinum,West Cindy,Iowa,False
+CUST1125,Sarah Mccarty,Male,20.0,2023-08-07,Silver,Bennettchester,Georgia,True
+CUST1126,Richard Wilson,Female,22.0,2023-04-04,Platinum,South Travisburgh,North Carolina,True
+CUST1127,Elizabeth Lindsey,Other,33.0,2021-09-11,Silver,Melissabury,South Dakota,True
+CUST1128,Shannon Duran,Female,60.0,2023-04-07,Platinum,Keithburgh,North Dakota,True
+CUST1129,Kelly Jones,Female,31.0,2024-03-25,Gold,Adamside,Maryland,True
+CUST1130,Carrie Cruz,Other,26.0,2023-03-28,Gold,Larsenmouth,Alaska,False
+CUST1131,Ryan Campbell,Other,54.0,2023-12-18,Silver,New Joshuabury,Vermont,True
+CUST1132,John Norton,Other,48.0,2022-04-01,Platinum,Hillport,Pennsylvania,True
+CUST1133,David Brown,Male,48.0,2023-09-09,Gold,Millerborough,Pennsylvania,True
+CUST1134,Emily Ruiz,Female,30.0,2021-11-25,Silver,Romeroview,California,True
+CUST1135,Daniel Singleton,Male,24.0,2022-01-29,Platinum,Leview,Wyoming,False
+CUST1136,Rachel Camacho,Other,45.0,2023-10-30,Platinum,West Cheryl,Colorado,False
+CUST1137,Brent Evans,Female,45.0,2024-05-15,Gold,Lake Tiffanyside,Vermont,True
+CUST1138,Annette Perez,Female,47.0,2024-02-05,Gold,North Katiemouth,Oregon,True
+CUST1139,Cynthia Espinoza,Other,21.0,2023-08-09,Gold,Port Joeview,South Carolina,True
+CUST1140,Melissa Sanders,Other,59.0,2023-02-20,Platinum,East Susan,Rhode Island,True
+CUST1141,Debra Jenkins,Other,24.0,2024-04-22,Silver,West Travisland,Alabama,True
+CUST1142,Robert Myers,Male,43.0,2024-05-06,Gold,Abbotttown,Louisiana,True
+CUST1143,Benjamin Moore,Other,39.0,2023-01-14,Silver,Lake Courtney,New Mexico,True
+CUST1144,Mrs. Hannah Fritz,Male,33.0,2022-01-18,Silver,Latoyahaven,Delaware,True
+CUST1145,Lawrence Gibson,Male,30.0,2023-12-21,Silver,Davisville,California,True
+CUST1146,Candace Gonzalez,Other,46.0,2022-06-09,Platinum,Powellmouth,North Carolina,True
+CUST1147,Samuel Novak,Male,45.0,2022-10-17,Silver,Webbport,Illinois,True
+CUST1148,Jonathan Thomas DVM,Male,35.0,2023-09-17,Gold,Lake Mariahtown,South Dakota,True
+CUST1149,Amy Jimenez,Female,33.0,2024-01-22,Gold,Evansshire,Texas,True
+CUST1150,Jennifer Neal,Male,46.0,2023-03-20,Silver,Rodriguezfurt,Connecticut,True
+CUST1151,Cesar Rose,Other,24.0,2022-11-25,Gold,East Stephanieview,Utah,True
+CUST1152,Jennifer Wilson,Male,59.0,2023-12-09,Gold,Richardfort,Colorado,False
+CUST1153,Alexandra Spears,Other,18.0,2023-12-06,Gold,Sandraton,New Mexico,True
+CUST1154,Nicole Woods,Male,33.0,2024-02-04,Gold,South Teresatown,Pennsylvania,True
+CUST1155,Sarah Lopez,Male,44.0,2024-02-08,Silver,Williamsburgh,New Jersey,True
+CUST1156,Scott Stone,Female,48.0,2021-11-08,Silver,Port Melissa,Rhode Island,False
+CUST1157,Stephanie Good,Male,43.0,2024-03-17,Platinum,Lake Jonathanfort,Connecticut,True
+CUST1158,Eddie Davis,Male,28.0,2023-11-04,Silver,New Christy,Oregon,True
+CUST1159,Eric Gardner,Female,18.0,2024-07-20,Silver,West Kathryn,Kentucky,True
+CUST1160,Chad Turner,Female,34.0,2024-01-11,Gold,South Jamieburgh,Iowa,True
+CUST1161,James Schneider,Female,36.0,2024-05-07,Gold,Robertstad,South Carolina,True
+CUST1162,Hannah Curtis,Female,62.0,2022-12-18,Platinum,North Levi,Michigan,True
+CUST1163,Kathleen Johnson,Other,53.0,2023-03-12,Gold,Christopherhaven,Massachusetts,True
+CUST1164,William Estrada,Other,63.0,2023-05-06,Silver,Brooksberg,California,True
+CUST1165,Emily Turner,Female,27.0,2021-09-13,Silver,Spencerburgh,Massachusetts,True
+CUST1166,Matthew Smith,Male,36.0,2022-12-07,Silver,Mooreborough,Pennsylvania,True
+CUST1167,Darren Navarro,Male,21.0,2022-07-11,Silver,South Mark,Indiana,True
+CUST1168,Susan Caldwell,Other,65.0,2024-03-27,Platinum,Biancastad,Louisiana,True
+CUST1169,Ellen Hall,Other,21.0,2022-03-30,Silver,Paynemouth,Oklahoma,True
+CUST1170,Benjamin Farmer,Other,38.0,2023-01-14,Silver,North Kathryn,North Dakota,True
+CUST1171,Joshua Thomas,Male,21.0,2021-11-03,Silver,Amandaburgh,Virginia,True
+CUST1172,Laura Davis MD,Other,48.0,2023-09-30,Silver,East Todd,West Virginia,True
+CUST1173,Carmen Everett,Other,51.0,2023-08-03,Gold,Castilloview,North Dakota,True
+CUST1174,Jessica Miller,Male,21.0,2022-04-27,Silver,Lake Troy,Wyoming,True
+CUST1175,Patricia Booker,Other,23.0,2023-02-11,Gold,Port Thomas,Alabama,False
+CUST1176,Mrs. Megan Cummings,Male,22.0,2021-12-03,Gold,Port Erinberg,Montana,True
+CUST1177,Margaret Foster,Other,22.0,2023-07-26,Silver,New Michaelville,Maryland,True
+CUST1178,Patricia Obrien,Other,33.0,2023-10-07,Silver,Hernandezshire,Vermont,True
+CUST1179,Susan Frye,Female,25.0,2023-05-13,Platinum,Malonehaven,Maine,True
+CUST1180,Carly Sutton,Other,33.0,2022-11-26,Silver,West Jeffrey,Ohio,True
+CUST1181,Alexander Johnson,Other,56.0,2023-02-27,Silver,Leview,Maryland,True
+CUST1182,Bobby Gibson,Male,57.0,2022-12-13,Platinum,Vancemouth,Iowa,True
+CUST1183,Jennifer Jones,Male,44.0,2022-12-28,Platinum,Nicholasville,Pennsylvania,False
+CUST1184,Kimberly Ross,Other,55.0,2023-05-28,Silver,New Philip,New York,True
+CUST1185,Kathy Winters,Other,51.0,2023-03-24,Silver,Markfurt,Mississippi,True
+CUST1186,Amber Payne MD,Female,34.0,2023-09-09,Silver,West Amber,Tennessee,True
+CUST1187,Katherine Floyd,Male,60.0,2024-05-24,Silver,Christopherchester,Oregon,True
+CUST1188,Sophia Thomas,Other,38.0,2022-09-01,Platinum,Phillipmouth,Iowa,True
+CUST1189,Daniel Porter,Male,34.0,2024-01-14,Platinum,Lake Jonathanton,Hawaii,True
+CUST1190,Ashley Cardenas,Female,26.0,2023-11-17,Silver,Cantuborough,Kentucky,True
+CUST1191,Heather Berg,Other,59.0,2023-07-07,Gold,Port Michealbury,Kansas,False
+CUST1192,Katherine Shah,Female,47.0,2021-11-03,Gold,Grantfort,Oklahoma,False
+CUST1193,Richard Gould,Female,22.0,2024-06-02,Silver,South Gregory,Iowa,True
+CUST1194,Peter Herrera,Male,47.0,2024-06-05,Gold,Port Larryhaven,Mississippi,False
+CUST1195,Melissa Hall,Other,54.0,2022-10-14,Platinum,Washingtonborough,Virginia,True
+CUST1196,Amanda Burns,Male,22.0,2022-09-18,Silver,Charleshaven,West Virginia,True
+CUST1197,Erica Morales,Other,31.0,2021-09-23,Silver,East Kenneth,West Virginia,False
+CUST1198,Stephen Navarro,Other,34.0,2022-12-25,Platinum,Port Nathan,Connecticut,True
+CUST1199,Andrew Zimmerman II,Male,40.0,2022-06-15,Gold,West Emily,Ohio,True
+CUST1200,Gene Hoover,Male,33.0,2022-11-12,Silver,Kennethbury,Utah,False
+CUST1201,Bridget Thompson,Female,36.0,2024-01-21,Gold,East Kyle,Pennsylvania,False
+CUST1202,Tina Gutierrez,Male,46.0,2024-05-06,Silver,Brownland,Vermont,False
+CUST1203,Kristen Graves,Other,63.0,2023-06-22,Silver,Leeborough,Oregon,True
+CUST1204,Steven Carter,Female,57.0,2022-08-19,Platinum,East Elizabeth,Kansas,True
+CUST1205,Samantha Lopez,Other,51.0,2021-11-05,Silver,Kerrifort,New York,False
+CUST1206,Jennifer Parker,Male,60.0,2022-10-09,Platinum,Port Danastad,Massachusetts,True
+CUST1207,Sara Evans,Other,37.0,2023-04-23,Gold,West Rachelchester,Nevada,True
+CUST1208,Cassandra Robertson,Other,24.0,2024-05-13,Silver,Patriciamouth,Kentucky,True
+CUST1209,Timothy Rosario,Male,34.0,2024-02-06,Gold,Ericaberg,Pennsylvania,True
+CUST1210,Karla Anderson,Male,24.0,2021-10-18,Gold,Port Adam,Vermont,True
+CUST1211,Laurie Lopez,Other,53.0,2021-12-28,Silver,Petertown,Iowa,True
+CUST1212,Debbie Mullins,Male,35.0,2021-08-19,Silver,Brownville,Florida,True
+CUST1213,Aaron Chavez,Female,56.0,2021-09-15,Silver,Shannonburgh,Pennsylvania,False
+CUST1214,Joshua Dixon,Male,63.0,2021-10-02,Silver,Brittneystad,Nevada,True
+CUST1215,Anna Hill,Female,31.0,2024-06-12,Silver,New Joshuachester,Nebraska,True
+CUST1216,Todd Hoffman,Other,58.0,2022-01-07,Gold,North Jared,West Virginia,True
+CUST1217,Caleb Francis,Female,50.0,2023-12-18,Silver,New Heatherstad,Michigan,True
+CUST1218,Mark Gray,Female,34.0,2021-09-27,Silver,Bakerfort,Alabama,False
+CUST1219,Gabrielle Marks,Male,23.0,2021-12-20,Gold,West Lisa,Kentucky,True
+CUST1220,George Brown,Other,45.0,2022-02-14,Silver,Hammondburgh,Mississippi,False
+CUST1221,Heidi Allen,Female,20.0,2023-07-12,Silver,East John,Tennessee,True
+CUST1222,George Harvey,Male,39.0,2022-11-26,Platinum,New Kelly,Illinois,False
+CUST1223,Daniel Johnson,Male,58.0,2023-08-09,Platinum,Rossville,New Mexico,True
+CUST1224,Kristina Deleon DDS,Female,28.0,2022-05-15,Silver,Edwardmouth,Colorado,True
+CUST1225,Christina Flowers,Other,46.0,2022-05-05,Gold,South Brianburgh,Hawaii,True
+CUST1226,Jacqueline Miller,Other,63.0,2022-04-08,Silver,Clarkfurt,Vermont,False
+CUST1227,Ryan Anderson,Female,53.0,2023-01-03,Silver,North Thomasborough,Minnesota,True
+CUST1228,Cathy Cook,Male,25.0,2022-06-12,Silver,West Jordanbury,Washington,True
+CUST1229,Jason Hill,Male,62.0,2024-05-27,Silver,West Curtisbury,Rhode Island,True
+CUST1230,Christopher Torres,Male,52.0,2022-06-12,Silver,East Sarah,Utah,True
+CUST1231,James Drake,Male,41.0,2022-05-01,Gold,Port Emily,New York,True
+CUST1232,Stephen Silva,Other,53.0,2023-04-01,Platinum,New Julie,Hawaii,True
+CUST1233,Robert Wolfe,Male,45.0,2021-11-27,Silver,South Ashleeton,Alabama,False
+CUST1234,Cheryl Martin,Male,20.0,2021-09-27,Silver,New Robertland,Indiana,False
+CUST1235,Patricia Martinez,Female,41.0,2024-04-22,Silver,Manuelshire,Tennessee,False
+CUST1236,Diana Martinez,Male,40.0,2022-12-27,Silver,Cantrellhaven,North Carolina,False
+CUST1237,Nicole Schmidt,Male,61.0,2021-11-13,Gold,Muellerburgh,Arizona,False
+CUST1238,Maria Johnson,Male,60.0,2021-10-02,Silver,West Patriciastad,Arizona,True
+CUST1239,James Mcclain,Male,40.0,2024-04-27,Platinum,North Davidland,Maryland,True
+CUST1240,Stephen Sanders,Other,44.0,2022-03-15,Gold,Phillipmouth,Louisiana,True
+CUST1241,Joan Larsen,Other,65.0,2023-07-15,Silver,Johnsonside,Alaska,True
+CUST1242,Dustin Lynn,Male,33.0,2021-10-03,Gold,Wilkersonbury,New Mexico,False
+CUST1243,Paul Smith,Male,29.0,2022-06-03,Silver,Sparksborough,South Carolina,True
+CUST1244,John Ball,Female,19.0,2022-01-30,Platinum,North James,Virginia,False
+CUST1245,Devin Allen,Male,65.0,2023-11-22,Silver,Cobbland,Delaware,True
+CUST1246,Debbie Schneider,Female,44.0,2021-10-14,Silver,Markfurt,Florida,True
+CUST1247,Joshua Johnson,Other,65.0,2022-10-02,Silver,North Thomasland,Oklahoma,True
+CUST1248,Kevin Patel,Male,35.0,2023-11-06,Gold,Port James,Tennessee,True
+CUST1249,Anthony Underwood,Male,62.0,2023-04-04,Platinum,Rachaelmouth,Massachusetts,False
+CUST1250,Felicia Reynolds,Male,42.0,2024-07-26,Gold,Tylerburgh,Massachusetts,True
+CUST1251,Barbara Greer,Male,48.0,2023-12-25,Silver,Port Terrifort,Kansas,False
+CUST1252,Rachel Hodge,Male,30.0,2023-02-08,Gold,Lake Meghantown,Delaware,True
+CUST1253,Jessica Matthews,Female,40.0,2022-07-03,Platinum,Amandafurt,Oklahoma,False
+CUST1254,Bradley Simon,Female,32.0,2022-03-21,Platinum,Lake Rickyfort,Delaware,True
+CUST1255,Raymond Jenkins,Male,19.0,2022-03-05,Gold,Westchester,Tennessee,True
+CUST1256,Tracey Hood,Other,30.0,2023-05-17,Platinum,East Jaclynmouth,South Carolina,False
+CUST1257,Jose Jefferson,Female,39.0,2022-03-22,Silver,Lake Levi,North Carolina,True
+CUST1258,Ryan Merritt,Female,22.0,2022-12-03,Silver,East Susanfort,Nevada,False
+CUST1259,Danielle Alvarez,Female,40.0,2022-10-30,Platinum,North Susan,Colorado,True
+CUST1260,Jessica Bright,Other,50.0,2024-06-22,Gold,South Kellychester,Oklahoma,True
+CUST1261,Michelle Bailey,Female,61.0,2022-03-11,Platinum,Ronnieport,Kentucky,False
+CUST1262,Donald Kirk,Other,39.0,2022-10-23,Platinum,East Rachelborough,Missouri,True
+CUST1263,Mark Gomez,Male,25.0,2023-02-27,Silver,West Shawnshire,Vermont,True
+CUST1264,Michael Taylor,Female,29.0,2024-05-19,Silver,West Kevin,Wyoming,False
+CUST1265,Amber Wilson,Other,34.0,2022-11-28,Platinum,Christinabury,California,False
+CUST1266,Dr. Andrew York,Male,24.0,2022-07-22,Platinum,Andersonfort,Oregon,True
+CUST1267,Mary Brown,Other,45.0,2024-05-16,Gold,Port April,Minnesota,False
+CUST1268,Virginia Orr,Female,64.0,2023-03-13,Platinum,Stevenbury,Colorado,True
+CUST1269,Jennifer Pittman,Female,45.0,2023-02-11,Silver,North Timothyfurt,California,True
+CUST1270,Victor Armstrong,Other,50.0,2023-03-26,Platinum,West Roger,Vermont,True
+CUST1271,Maria Ward,Male,42.0,2022-12-07,Silver,Christopherstad,Maryland,True
+CUST1272,Courtney Chapman,Other,30.0,2024-01-01,Gold,New David,Nebraska,True
+CUST1273,Laura Martin,Female,20.0,2021-10-08,Silver,Garyview,Rhode Island,True
+CUST1274,Sandra Gibbs,Other,45.0,2024-04-24,Gold,South Stacey,South Carolina,True
+CUST1275,Kyle Bryan,Male,51.0,2022-02-23,Gold,Parkerfurt,Hawaii,False
+CUST1276,Wanda Vazquez,Other,61.0,2022-12-15,Gold,North James,Alaska,True
+CUST1277,Victoria Coleman,Other,65.0,2021-11-20,Platinum,East Marktown,Indiana,True
+CUST1278,Amanda Howell,Other,60.0,2022-12-18,Silver,Rodriguezberg,Louisiana,True
+CUST1279,Sarah Fleming,Male,41.0,2022-11-12,Gold,Port Dylanton,Louisiana,True
+CUST1280,Melissa Myers,Female,22.0,2024-06-02,Gold,Andersonborough,Washington,True
+CUST1281,John Hernandez,Other,39.0,2023-07-01,Silver,Jessicachester,Georgia,True
+CUST1282,Kimberly Thomas,Other,38.0,2021-08-18,Silver,Jenniferview,New Jersey,True
+CUST1283,Mr. Paul West,Other,25.0,2021-10-15,Silver,East Helen,New Mexico,True
+CUST1284,Kristina Quinn,Other,37.0,2021-08-18,Platinum,Mooreshire,Kentucky,True
+CUST1285,Brianna Carlson,Other,37.0,2023-12-22,Gold,Parkerchester,Florida,True
+CUST1286,Laurie Warren,Other,44.0,2023-10-07,Silver,Markport,Nevada,True
+CUST1287,Christine Ferguson,Female,43.0,2021-11-20,Platinum,East Justin,Tennessee,False
+CUST1288,Anthony Horn,Other,36.0,2022-01-16,Silver,New Darren,Delaware,False
+CUST1289,Mallory Wagner,Other,26.0,2023-10-08,Silver,Manningberg,Arkansas,True
+CUST1290,Lonnie Green,Male,44.0,2021-09-25,Silver,East Keithfurt,Colorado,False
+CUST1291,Hector Aguilar DDS,Other,42.0,2022-12-17,Silver,East Austin,Kentucky,True
+CUST1292,Emily Jones,Other,65.0,2022-05-26,Gold,Jennifermouth,Kansas,True
+CUST1293,Justin Rodriguez,Male,57.0,2023-06-18,Silver,East Rhonda,Kansas,True
+CUST1294,Susan Allen,Other,37.0,2021-09-19,Silver,Chaveztown,West Virginia,True
+CUST1295,Kelly Ingram,Female,53.0,2024-04-12,Silver,New Kathleenshire,Illinois,True
+CUST1296,Brandon Murphy,Male,37.0,2021-10-23,Silver,West Leah,New Jersey,True
+CUST1297,Robert Mendoza,Female,31.0,2021-09-07,Platinum,New Patricia,North Dakota,True
+CUST1298,Mr. Kelly Garza,Female,55.0,2022-03-26,Gold,Lorimouth,Utah,True
+CUST1299,Kristina Hubbard,Other,59.0,2022-07-03,Silver,Port Mark,Indiana,True
+CUST1300,Jeffrey Thompson,Female,47.0,2022-11-12,Silver,Mayerstad,Wyoming,True
+CUST1301,Kelli Castro,Female,46.0,2023-03-30,Silver,Lake Robertport,Montana,True
+CUST1302,Carolyn Ponce,Other,31.0,2021-12-10,Silver,Brandyshire,California,True
+CUST1303,Laura Mcdowell,Other,48.0,2024-07-27,Silver,Thompsonhaven,California,True
+CUST1304,Diane Erickson,Other,28.0,2024-04-29,Gold,Derektown,Massachusetts,True
+CUST1305,Miranda Waters,Other,23.0,2021-08-09,Silver,Farmerchester,Delaware,True
+CUST1306,David Snyder,Female,50.0,2023-01-13,Gold,Reedhaven,Montana,True
+CUST1307,Patricia Santos,Other,58.0,2023-09-19,Platinum,Alexandraport,Arkansas,False
+CUST1308,Olivia Horton,Other,39.0,2024-04-13,Silver,Kruegerstad,Michigan,True
+CUST1309,Corey Newman,Male,33.0,2022-11-27,Platinum,Dickersonhaven,Michigan,True
+CUST1310,Sandra White,Other,37.0,2023-02-14,Silver,Hunterville,North Dakota,True
+CUST1311,Jennifer Jefferson,Male,30.0,2023-01-23,Silver,Lake Jonathan,Alaska,True
+CUST1312,Jessica Rush,Male,19.0,2023-01-05,Gold,Rogersmouth,Alaska,True
+CUST1313,Joe Evans,Male,33.0,2021-08-30,Silver,Rodriguezland,Kansas,True
+CUST1314,Lori Wagner,Female,57.0,2024-02-28,Silver,Lake Rachel,Massachusetts,True
+CUST1315,Vincent Cortez,Male,47.0,2022-05-15,Gold,North Kimberly,Nevada,False
+CUST1316,Kayla Ortiz,Female,58.0,2022-10-23,Gold,Fryview,Utah,True
+CUST1317,Amanda Bartlett,Other,30.0,2024-06-06,Silver,Camachoport,Alabama,True
+CUST1318,Kelly Gilbert,Other,62.0,2021-12-07,Gold,East Karenport,Virginia,True
+CUST1319,Eddie Morris,Female,49.0,2024-05-20,Silver,New Heather,New Jersey,True
+CUST1320,Gary Schwartz,Female,33.0,2023-05-11,Silver,East Robert,California,True
+CUST1321,Wanda Smith,Male,59.0,2024-01-19,Silver,Port Barbarashire,Vermont,True
+CUST1322,Paul Gould,Other,18.0,2023-06-16,Silver,Juliaview,Washington,False
+CUST1323,Martin Summers,Male,45.0,2022-10-29,Gold,West Carlosbury,North Dakota,True
+CUST1324,Anthony Allen,Male,29.0,2021-08-09,Gold,West Lesliestad,Indiana,True
+CUST1325,Dan Williams,Other,51.0,2023-11-29,Silver,Hallfurt,Wyoming,True
+CUST1326,Stephanie Glenn,Female,21.0,2023-07-07,Gold,West Anthony,New Hampshire,True
+CUST1327,Kimberly Patterson,Other,33.0,2023-11-10,Silver,North Robert,California,True
+CUST1328,Lori Wilkinson,Male,47.0,2022-09-23,Silver,East Timothy,North Carolina,True
+CUST1329,James Maynard,Male,47.0,2023-01-21,Gold,South Susan,Wisconsin,True
+CUST1330,William Hess,Other,51.0,2023-07-29,Silver,New Vincentport,South Dakota,False
+CUST1331,Dustin Green,Other,56.0,2024-04-08,Gold,Phillipsport,North Carolina,True
+CUST1332,Jennifer Smith,Female,46.0,2022-10-13,Silver,Loganborough,Montana,True
+CUST1333,Kelly Jensen,Other,64.0,2023-05-22,Silver,Spenceburgh,Vermont,True
+CUST1334,Sabrina Joseph,Other,45.0,2023-07-08,Silver,New Martin,Tennessee,True
+CUST1335,Roger Williams,Other,46.0,2023-04-25,Silver,Colemouth,Virginia,False
+CUST1336,Victor Garcia,Male,65.0,2024-04-28,Silver,Nancybury,Tennessee,True
+CUST1337,James Macias,Female,46.0,2024-06-05,Silver,South Matthewside,Colorado,False
+CUST1338,Mark Hicks,Female,33.0,2024-06-20,Silver,New Matthew,Delaware,True
+CUST1339,Michelle Ortiz,Other,35.0,2023-11-01,Platinum,East Nicholasshire,Minnesota,False
+CUST1340,Douglas Johnson,Other,49.0,2022-09-08,Platinum,South Kristina,Alabama,True
+CUST1341,Brandi Davidson,Other,33.0,2024-02-11,Silver,North Anthonyburgh,Nebraska,True
+CUST1342,John Patel,Female,46.0,2023-08-18,Platinum,Lake Willie,Delaware,True
+CUST1343,Rebecca Calderon,Male,63.0,2024-06-28,Gold,Port Stevenstad,Kentucky,True
+CUST1344,David Avila,Female,33.0,2023-03-13,Gold,Jordanhaven,New Mexico,True
+CUST1345,Andrew Whitaker,Female,39.0,2022-11-24,Silver,Cortezview,Virginia,True
+CUST1346,April Jones,Female,52.0,2022-08-16,Gold,East Bruce,South Carolina,True
+CUST1347,Abigail Richard PhD,Male,26.0,2023-07-23,Silver,Lake Ashleyfurt,Idaho,True
+CUST1348,Mrs. Renee Gordon,Male,32.0,2023-07-08,Silver,New Ross,North Dakota,True
+CUST1349,Brittany Smith,Female,62.0,2022-11-17,Silver,Matthewsview,Colorado,True
+CUST1350,Krista Payne,Male,63.0,2024-04-21,Gold,Paulamouth,Delaware,True
+CUST1351,Kevin Mcpherson,Male,22.0,2022-02-24,Silver,Whiteheadton,Delaware,True
+CUST1352,Jennifer Hopkins,Female,44.0,2021-11-02,Silver,Englishville,Arkansas,False
+CUST1353,Gregory Brown,Female,52.0,2023-07-21,Silver,South Victoria,Kentucky,False
+CUST1354,Joseph Gonzalez,Female,44.0,2023-05-01,Silver,Michelleport,Mississippi,True
+CUST1355,Michelle Davis,Male,31.0,2023-09-30,Gold,East Abigail,Connecticut,True
+CUST1356,Terri Alvarado,Female,42.0,2022-03-12,Silver,Elizabethville,Georgia,True
+CUST1357,Kimberly Tran,Other,62.0,2024-06-10,Silver,Watsonberg,South Carolina,False
+CUST1358,Omar Diaz,Male,54.0,2024-07-18,Platinum,Lake Jeanette,Utah,False
+CUST1359,Kristie English,Female,48.0,2024-03-24,Silver,Lake Chelsea,Michigan,True
+CUST1360,William Walsh,Male,40.0,2021-12-27,Platinum,Port Leslieborough,New Mexico,True
+CUST1361,Patrick Lee,Female,42.0,2024-03-23,Silver,Juliemouth,Connecticut,True
+CUST1362,Eric Anderson,Female,52.0,2022-07-18,Gold,South Taylor,Mississippi,False
+CUST1363,Randy Austin,Other,65.0,2023-10-07,Silver,Richardport,Montana,True
+CUST1364,Joan Smith MD,Other,56.0,2022-06-21,Silver,Ashleyville,Louisiana,True
+CUST1365,Angela Hunter,Male,49.0,2022-05-23,Silver,Lake Tiffany,Wisconsin,False
+CUST1366,David Guzman,Male,35.0,2022-01-13,Gold,Heatherland,Nevada,True
+CUST1367,Rachel Roberts,Female,49.0,2022-11-11,Silver,South Elizabethborough,Wisconsin,False
+CUST1368,Robert Moreno,Male,42.0,2024-02-14,Silver,Port Rachael,Arkansas,False
+CUST1369,Michael Moore,Female,60.0,2021-10-21,Silver,Lake Jessicamouth,Oregon,True
+CUST1370,Justin Lane,Other,43.0,2022-05-23,Silver,South Suzanne,Florida,True
+CUST1371,Adrian Gibbs,Other,28.0,2022-10-23,Gold,Port Gabrielafurt,North Dakota,True
+CUST1372,Scott Robinson,Female,26.0,2023-02-28,Silver,Andersonside,New York,False
+CUST1373,Stephanie Lopez,Other,52.0,2023-12-02,Silver,Sarahbury,Michigan,True
+CUST1374,Nicholas Cole,Male,43.0,2022-01-22,Platinum,Jerryport,Oklahoma,True
+CUST1375,Donna Woods,Other,54.0,2022-09-16,Silver,Williamside,California,False
+CUST1376,Joseph Garcia,Other,19.0,2022-10-09,Gold,Woodchester,Tennessee,True
+CUST1377,Nancy Harrison,Male,59.0,2021-10-24,Silver,Port Brittanyberg,Hawaii,True
+CUST1378,Raymond Smith,Female,26.0,2022-11-06,Gold,Johnsonview,South Dakota,True
+CUST1379,Joseph Stephens,Female,29.0,2022-05-11,Platinum,Weissville,Nevada,True
+CUST1380,Jeffrey Martin,Male,34.0,2024-03-10,Silver,South Nancymouth,Maine,True
+CUST1381,Jay Bailey,Female,38.0,2023-07-25,Silver,New Davidborough,Oregon,True
+CUST1382,Michelle Roy,Male,47.0,2021-09-27,Silver,West Evanhaven,Texas,True
+CUST1383,Nicholas Ayala,Female,39.0,2023-08-08,Gold,Garyton,Vermont,False
+CUST1384,Jessica Ellis,Female,35.0,2021-08-14,Silver,Joshuashire,Washington,False
+CUST1385,Derek Campbell,Female,34.0,2024-05-22,Silver,Nicholasshire,Illinois,False
+CUST1386,Sabrina Keller,Male,48.0,2022-12-25,Silver,New Susanborough,Oklahoma,True
+CUST1387,Krista Crawford,Male,65.0,2021-08-25,Gold,Matthewbury,Vermont,True
+CUST1388,Barbara Chase,Other,21.0,2022-01-01,Silver,Avilaport,Hawaii,True
+CUST1389,Ronald Lawrence,Female,32.0,2024-01-03,Gold,South Dawnmouth,Utah,True
+CUST1390,Patrick Valencia,Other,22.0,2024-02-02,Gold,Michaelton,South Carolina,True
+CUST1391,Jessica Ruiz,Other,20.0,2024-07-15,Silver,Andrewland,Kansas,True
+CUST1392,Travis Morrow,Male,33.0,2022-09-02,Silver,North Darrenfort,Delaware,False
+CUST1393,Donald Pierce,Male,19.0,2021-10-12,Gold,East Teresa,Georgia,True
+CUST1394,Nathaniel Fletcher,Other,27.0,2023-06-16,Silver,Jasonside,Alaska,False
+CUST1395,Ashley Henderson,Male,26.0,2022-08-11,Silver,East Tina,Idaho,True
+CUST1396,Aaron Grimes,Female,60.0,2022-02-27,Gold,East Ann,Missouri,True
+CUST1397,Jamie Wilson,Male,54.0,2022-02-15,Silver,North Lawrence,New York,False
+CUST1398,Corey Barton,Male,47.0,2023-10-19,Platinum,Floydborough,Nebraska,True
+CUST1399,Michael Brooks,Other,34.0,2024-04-14,Gold,East Patricialand,Maine,False
+CUST1400,Lisa Scott,Female,28.0,2022-10-03,Gold,Elizabethstad,Massachusetts,True
+CUST1401,Amy Kaiser,Other,56.0,2022-06-10,Gold,Osborneside,Wyoming,True
+CUST1402,Alexis Gross,Other,63.0,2023-11-20,Silver,Port Richardburgh,New Hampshire,True
+CUST1403,Corey Schwartz,Male,28.0,2022-03-09,Platinum,Michaelville,Nevada,False
+CUST1404,Matthew Martinez,Female,24.0,2021-08-05,Silver,South Carlytown,Kentucky,True
+CUST1405,Carolyn Stein,Other,19.0,2023-04-12,Platinum,Estesstad,Illinois,False
+CUST1406,Kelly Lynch,Female,54.0,2023-12-18,Silver,South Jeffreytown,Missouri,False
+CUST1407,Margaret Hicks,Other,42.0,2022-03-31,Platinum,Christinaton,Wisconsin,True
+CUST1408,Eric Frazier,Female,63.0,2023-02-11,Gold,Lake Roberto,New Jersey,True
+CUST1409,Stephen Watson,Male,22.0,2022-05-05,Silver,West Jimmy,New Jersey,True
+CUST1410,Kyle Jackson,Other,62.0,2023-08-20,Platinum,Brownside,Tennessee,True
+CUST1411,Miguel Smith,Other,33.0,2023-02-22,Silver,Nataliemouth,Texas,True
+CUST1412,Michael Rodgers,Male,62.0,2024-02-24,Gold,South Mark,Kansas,False
+CUST1413,Maria Rose,Female,61.0,2022-04-19,Silver,West Cameron,Utah,True
+CUST1414,David Ramos,Other,25.0,2022-09-01,Gold,Lindsaymouth,Arizona,True
+CUST1415,Lawrence Townsend,Other,20.0,2023-11-27,Silver,Travisburgh,New Mexico,True
+CUST1416,Maxwell Yates,Female,52.0,2023-11-12,Silver,Hancocktown,Kentucky,True
+CUST1417,Douglas Maldonado,Female,60.0,2021-10-25,Silver,Terryfort,Washington,True
+CUST1418,Teresa Allen,Female,22.0,2021-08-20,Platinum,Rachelville,Connecticut,True
+CUST1419,Tracy Griffin,Other,59.0,2023-02-15,Gold,Blackfort,Mississippi,True
+CUST1420,Lynn Castaneda,Female,18.0,2024-05-04,Silver,Mejiamouth,Hawaii,True
+CUST1421,Lori Gaines,Female,49.0,2022-12-14,Silver,Lake Christopher,Nevada,False
+CUST1422,Leslie Zavala,Male,45.0,2021-12-18,Silver,South Nathanielfurt,Rhode Island,True
+CUST1423,Patricia Tucker,Female,58.0,2022-05-01,Silver,Vasquezhaven,Massachusetts,False
+CUST1424,Tiffany Espinoza,Female,63.0,2024-02-08,Gold,Amyhaven,Delaware,True
+CUST1425,Kyle Glover,Male,45.0,2022-09-19,Silver,Paulahaven,New Jersey,True
+CUST1426,Sherri Scott,Male,64.0,2023-12-06,Silver,New Tyler,Kentucky,False
+CUST1427,Willie Rodriguez,Other,59.0,2023-02-08,Silver,Coryberg,Hawaii,True
+CUST1428,Robert Pena,Female,57.0,2022-03-10,Silver,West Andrew,New York,True
+CUST1429,Jennifer Frost,Other,48.0,2022-03-13,Gold,East Sean,North Carolina,True
+CUST1430,Tasha Nguyen,Female,45.0,2023-08-20,Gold,Bergerview,Alabama,True
+CUST1431,Damon Ibarra,Other,55.0,2023-01-26,Gold,Palmerberg,Nevada,True
+CUST1432,Lisa Austin,Female,38.0,2021-09-15,Silver,East Angela,South Dakota,True
+CUST1433,Hunter Garrett,Male,23.0,2022-03-29,Silver,Simmonsville,North Dakota,True
+CUST1434,Teresa Hubbard,Female,46.0,2022-07-31,Platinum,West Philip,Minnesota,False
+CUST1435,Cameron Webb,Male,47.0,2022-10-31,Silver,North Erikchester,Alabama,True
+CUST1436,Andrew White,Other,57.0,2024-02-07,Gold,New Ashley,Texas,True
+CUST1437,Wesley Bruce,Other,42.0,2023-05-01,Silver,Port Jared,West Virginia,True
+CUST1438,Jack Wilson Jr.,Female,19.0,2022-11-18,Gold,Anthonystad,Florida,True
+CUST1439,John Bennett,Female,38.0,2022-09-15,Silver,Michellehaven,Alaska,True
+CUST1440,Travis Watkins,Male,49.0,2022-01-26,Silver,West Francesmouth,Kentucky,True
+CUST1441,Kelly Rose,Male,40.0,2021-12-27,Silver,Tanyabury,California,True
+CUST1442,David Freeman,Female,39.0,2022-06-09,Gold,New Kristinburgh,Nevada,True
+CUST1443,Gregory Meyer,Female,56.0,2022-07-10,Gold,Cartershire,Alaska,True
+CUST1444,Leah Alvarez,Other,35.0,2022-03-06,Silver,Tamaraborough,Maine,True
+CUST1445,Crystal Friedman,Other,18.0,2024-07-25,Gold,Stephenberg,Virginia,False
+CUST1446,Mary Reynolds,Other,30.0,2021-12-13,Platinum,Hernandezville,Tennessee,True
+CUST1447,Eric Carter,Male,33.0,2024-07-06,Gold,West Dominiquebury,Tennessee,True
+CUST1448,Jennifer Vasquez,Other,44.0,2022-01-23,Silver,Maytown,Washington,False
+CUST1449,Dr. Melissa Anderson,Female,53.0,2024-03-11,Silver,Port Anthonyton,Alaska,True
+CUST1450,Martin Ortega,Male,62.0,2022-06-18,Silver,Port Mistyton,Louisiana,True
+CUST1451,Todd Mcdowell,Female,59.0,2024-05-26,Silver,Lake Kennethberg,Oregon,True
+CUST1452,Brandy Gonzalez,Other,49.0,2022-08-29,Silver,Joycemouth,Alaska,False
+CUST1453,John Nelson,Female,19.0,2022-05-28,Platinum,Brooksstad,Kansas,True
+CUST1454,Megan Herrera,Male,36.0,2023-07-30,Silver,Samanthaside,Kentucky,True
+CUST1455,Karen Adams,Male,43.0,2021-10-06,Gold,Haleyburgh,Vermont,True
+CUST1456,Gilbert Hurst,Other,33.0,2022-03-27,Gold,Mccormickfort,Nevada,True
+CUST1457,Abigail Lewis PhD,Female,60.0,2023-07-09,Gold,Lake Justinton,Ohio,True
+CUST1458,Samantha Robertson,Other,41.0,2022-09-15,Silver,West Michaelstad,California,False
+CUST1459,Allen Smith,Female,53.0,2024-04-03,Gold,Lake Matthew,Virginia,True
+CUST1460,Jeffrey Briggs,Other,40.0,2022-04-13,Platinum,South Tina,Connecticut,True
+CUST1461,Tammy Rhodes,Female,65.0,2022-01-20,Platinum,Isaiahbury,Florida,True
+CUST1462,Robert Ayala,Other,39.0,2023-10-27,Silver,East Wesleyton,Illinois,True
+CUST1463,Dennis Anderson,Female,62.0,2022-12-06,Silver,Walkerton,Oklahoma,True
+CUST1464,Andrew Davis,Female,35.0,2022-02-09,Gold,Milesport,Missouri,True
+CUST1465,Kevin Hartman,Female,34.0,2022-01-25,Silver,Amyport,California,False
+CUST1466,Miss Crystal Merritt,Male,25.0,2023-05-09,Platinum,Evansville,New Mexico,True
+CUST1467,Allen Adams,Other,30.0,2022-02-04,Silver,Ericaborough,New York,True
+CUST1468,Ann White,Female,25.0,2021-08-16,Silver,North Maria,Virginia,False
+CUST1469,Jacob Newman,Other,52.0,2024-04-24,Silver,Petersonland,Wyoming,True
+CUST1470,Adam Chan,Other,29.0,2024-01-08,Silver,West Katie,Colorado,True
+CUST1471,Billy Jones,Male,31.0,2022-12-29,Gold,Katherinefurt,South Carolina,False
+CUST1472,Ronald Jones,Other,48.0,2022-06-05,Silver,Lake Brettfurt,Utah,True
+CUST1473,Mitchell Shaw,Female,64.0,2023-03-10,Silver,Angelamouth,Pennsylvania,False
+CUST1474,Carl Valenzuela,Other,51.0,2022-01-02,Platinum,South Stephanie,Maryland,True
+CUST1475,Thomas Chang,Other,36.0,2022-05-08,Gold,Lisastad,Vermont,True
+CUST1476,Vanessa Bell,Male,30.0,2023-03-21,Silver,West Juliafurt,Minnesota,False
+CUST1477,Lacey Sanchez,Female,32.0,2023-08-27,Silver,Martinezmouth,Washington,True
+CUST1478,Ryan Carroll,Female,29.0,2024-05-10,Gold,Rodriguezchester,Tennessee,True
+CUST1479,Sarah Thomas,Female,18.0,2022-08-10,Silver,Port Morgan,Wisconsin,True
+CUST1480,Timothy Rosario,Other,52.0,2023-11-09,Silver,Stuartshire,Texas,True
+CUST1481,Deanna Beltran,Male,35.0,2023-07-02,Silver,Port Carolynborough,Virginia,True
+CUST1482,Wendy Daniels,Male,21.0,2023-06-14,Silver,Adamsmouth,Maryland,True
+CUST1483,Kevin Carroll,Other,36.0,2021-10-31,Gold,Justinbury,Hawaii,True
+CUST1484,Lawrence Washington,Other,26.0,2024-07-11,Gold,East Michelle,Utah,True
+CUST1485,Dylan Walker,Other,49.0,2023-10-27,Gold,Holderchester,Arkansas,False
+CUST1486,Danny Clark,Male,18.0,2022-07-21,Gold,Port Reneebury,Louisiana,True
+CUST1487,Mrs. Morgan Clay,Other,36.0,2022-06-12,Silver,North Crystal,Mississippi,True
+CUST1488,Phillip Martin,Female,48.0,2023-06-02,Gold,Lake Edward,Vermont,True
+CUST1489,Todd Smith,Female,39.0,2023-07-26,Silver,Deanberg,Kentucky,True
+CUST1490,Spencer Payne,Male,21.0,2023-07-26,Silver,South Monica,Utah,True
+CUST1491,Ashley Christensen,Female,48.0,2023-07-09,Silver,Gonzalezstad,Mississippi,True
+CUST1492,Allison Smith,Male,22.0,2021-10-10,Gold,Loganbury,Florida,True
+CUST1493,Stacy Anderson DDS,Female,49.0,2022-04-12,Gold,Lake Katherine,Hawaii,True
+CUST1494,Randy Gordon,Male,54.0,2023-01-24,Silver,East Diane,Missouri,False
+CUST1495,Robert Mcclure,Other,61.0,2024-07-10,Gold,Tranmouth,Tennessee,True
+CUST1496,Barbara Keller,Male,27.0,2021-09-04,Silver,Marktown,Washington,True
+CUST1497,Andrew Williams,Male,54.0,2021-08-15,Silver,East Danielle,Vermont,True
+CUST1498,Ashley Barron,Female,23.0,2021-12-31,Platinum,Glennmouth,Nevada,True
+CUST1499,Shannon Callahan,Male,25.0,2022-06-20,Platinum,Destinychester,Ohio,True
+CUST1500,Megan Carter,Other,44.0,2023-06-14,Silver,Lake Williamton,Virginia,True
+CUST1501,Brendan Collins,Other,56.0,2023-04-28,Platinum,Bushmouth,California,True
+CUST1502,Brian Hooper,Other,32.0,2021-10-06,Platinum,North Rebecca,Wisconsin,True
+CUST1503,Erica Hill,Other,42.0,2023-09-18,Gold,Gillespieland,Oregon,False
+CUST1504,Eric Knight,Female,46.0,2022-09-20,Silver,Nancyport,Minnesota,True
+CUST1505,Amy Marshall,Female,55.0,2021-08-31,Silver,North Javierhaven,Louisiana,False
+CUST1506,Kristi Tucker,Female,37.0,2023-09-26,Platinum,Bennettshire,Hawaii,True
+CUST1507,Alexandra Duke,Other,57.0,2022-12-03,Gold,Abigailmouth,Illinois,False
+CUST1508,Sydney Fisher,Male,57.0,2021-12-17,Silver,Juliatown,Arizona,True
+CUST1509,Michael Byrd,Other,24.0,2022-09-02,Platinum,Brownport,Tennessee,True
+CUST1510,Caitlin Chang,Male,58.0,2023-11-20,Gold,New Darleneville,Florida,True
+CUST1511,Jennifer Brewer,Male,34.0,2022-04-07,Platinum,Floresberg,Maryland,False
+CUST1512,Crystal Porter,Other,23.0,2022-11-27,Platinum,North Kevinview,Arkansas,True
+CUST1513,John Howell,Male,33.0,2024-01-20,Platinum,Port Mary,Alabama,False
+CUST1514,Jennifer Barber,Male,53.0,2023-04-27,Silver,New Dawn,Tennessee,False
+CUST1515,Gary Snyder,Male,28.0,2023-03-10,Silver,Bullockhaven,Hawaii,True
+CUST1516,Anthony Barron,Male,44.0,2022-04-10,Silver,South Kelly,West Virginia,True
+CUST1517,Toni Frederick,Female,62.0,2024-07-12,Silver,Brianburgh,Rhode Island,True
+CUST1518,Mr. Adrian Allen,Other,48.0,2024-03-01,Silver,Adamsview,Colorado,True
+CUST1519,Joy Bryant,Female,20.0,2022-09-02,Silver,Port Elizabethfort,Nevada,True
+CUST1520,Cheryl Carter,Male,36.0,2022-01-12,Gold,Andersonborough,Massachusetts,True
+CUST1521,David Moore,Other,36.0,2023-01-07,Silver,Craigport,Maine,True
+CUST1522,David Gibson,Other,47.0,2022-10-17,Platinum,South Sherrystad,Rhode Island,True
+CUST1523,Joshua Gallagher MD,Male,61.0,2024-02-19,Silver,Saraland,Nebraska,True
+CUST1524,Veronica Beck,Male,34.0,2022-03-21,Platinum,Billyport,Delaware,True
+CUST1525,Gloria Lopez,Other,55.0,2023-12-28,Platinum,South Bradleybury,North Dakota,True
+CUST1526,Jennifer Meyer,Other,30.0,2022-05-04,Platinum,Aaronmouth,Virginia,True
+CUST1527,Jonathan Griffin,Female,25.0,2022-05-11,Platinum,West Christopher,West Virginia,True
+CUST1528,Erica Petersen,Other,32.0,2024-07-15,Gold,West Calvin,Kentucky,True
+CUST1529,Luis Hansen,Other,27.0,2022-04-27,Silver,Murphyfurt,California,True
+CUST1530,Edwin Thomas,Female,27.0,2022-12-11,Platinum,North Derek,Kansas,False
+CUST1531,Melissa Ray,Male,21.0,2024-02-19,Gold,Wilsonport,Ohio,True
+CUST1532,Bradley Avery,Male,37.0,2023-04-23,Silver,Hardingland,Vermont,True
+CUST1533,Juan Conner,Other,65.0,2021-12-24,Silver,Port Eric,Michigan,True
+CUST1534,John Martin,Other,36.0,2022-08-13,Silver,Debrachester,North Carolina,True
+CUST1535,Ashley Hayes,Female,25.0,2023-05-28,Silver,East Susanside,Tennessee,True
+CUST1536,Lisa Hicks,Female,62.0,2023-01-13,Silver,New Taylorland,Kentucky,True
+CUST1537,David Bryant,Female,62.0,2023-01-27,Platinum,Gomezchester,Minnesota,True
+CUST1538,Karen Williams,Female,35.0,2022-12-02,Silver,Port Robert,Utah,True
+CUST1539,Mario Miller,Other,52.0,2024-03-07,Silver,Maureenfort,Connecticut,False
+CUST1540,Dalton Carter,Female,46.0,2022-05-08,Gold,Martinezhaven,South Dakota,True
+CUST1541,William Price,Male,56.0,2023-02-24,Silver,Davidview,Nebraska,False
+CUST1542,Rachael Payne,Male,45.0,2023-08-12,Platinum,West Joelland,Wyoming,True
+CUST1543,Michael Davis,Other,38.0,2023-02-09,Gold,Lyonsstad,Hawaii,True
+CUST1544,Timothy Woods,Other,34.0,2022-11-08,Platinum,Timothyland,Mississippi,True
+CUST1545,Jerry Ortega,Male,23.0,2022-07-25,Platinum,Sarahview,West Virginia,True
+CUST1546,Stephanie Cooper,Male,61.0,2023-10-20,Gold,North Lindafurt,South Dakota,True
+CUST1547,Thomas Moore,Other,55.0,2024-03-16,Silver,Brendanland,Maryland,True
+CUST1548,Aaron Mcgee,Male,61.0,2023-03-23,Silver,Hamiltonville,Delaware,True
+CUST1549,Melissa Black,Female,54.0,2022-01-14,Gold,Levineburgh,Georgia,True
+CUST1550,Thomas Wallace,Male,29.0,2024-07-18,Silver,North Keith,Montana,False
+CUST1551,John Carter,Female,51.0,2023-04-15,Platinum,South Danielview,Louisiana,False
+CUST1552,Laura Rodriguez,Other,46.0,2022-03-19,Platinum,Jonesstad,New Mexico,True
+CUST1553,Dawn Jones,Female,29.0,2021-11-19,Silver,North Lindseyfort,Ohio,True
+CUST1554,Bruce Riley,Other,45.0,2024-04-25,Gold,New James,Oklahoma,True
+CUST1555,Scott Griffin,Other,49.0,2023-06-06,Platinum,Lisaside,Nebraska,True
+CUST1556,Robert Davis,Male,48.0,2024-07-26,Silver,South Christopherview,West Virginia,True
+CUST1557,Susan White,Female,44.0,2022-12-24,Gold,Jamesberg,Hawaii,True
+CUST1558,Denise Buchanan,Female,38.0,2024-06-01,Silver,Lake Victoriaville,Kansas,False
+CUST1559,Mitchell Shah,Other,24.0,2022-03-26,Silver,South Brandon,Montana,True
+CUST1560,Kyle Rodriguez,Male,39.0,2021-11-15,Platinum,Matthewfort,Kentucky,False
+CUST1561,John Farmer,Female,62.0,2023-07-26,Platinum,Williammouth,Indiana,False
+CUST1562,Morgan Smith,Female,36.0,2022-01-28,Gold,West Anthonychester,Missouri,True
+CUST1563,Debra Ward,Other,43.0,2023-09-15,Silver,Gibbsfort,Delaware,True
+CUST1564,Alex Payne,Other,20.0,2023-10-12,Silver,Stewartland,Kentucky,True
+CUST1565,Susan Jones,Female,23.0,2023-03-17,Gold,Michaelside,Montana,True
+CUST1566,Taylor Hoover,Female,34.0,2022-01-07,Silver,Vanessafort,Massachusetts,True
+CUST1567,Katie Hayden,Female,25.0,2024-02-01,Gold,Ortizside,Colorado,True
+CUST1568,Joseph Ramos Jr.,Female,50.0,2023-07-19,Platinum,North Ashley,New York,True
+CUST1569,Daniel Barnes,Male,60.0,2024-06-17,Silver,Laurieview,Mississippi,True
+CUST1570,Angel Robertson,Other,47.0,2021-11-25,Platinum,South Nathanborough,Virginia,True
+CUST1571,Robert Anderson,Female,21.0,2024-01-13,Gold,Davidfurt,Nevada,True
+CUST1572,Shelley Meadows,Male,51.0,2023-02-16,Silver,West Juanbury,Wisconsin,False
+CUST1573,Michael King,Female,57.0,2024-01-08,Gold,Jackberg,Illinois,True
+CUST1574,Kyle Mcclain,Female,58.0,2024-07-26,Platinum,Port Kevin,Idaho,False
+CUST1575,Jessica Ochoa,Female,21.0,2023-09-21,Gold,Brendaside,Oregon,False
+CUST1576,Crystal Thomas,Male,35.0,2022-09-04,Gold,East Jorgebury,Maryland,True
+CUST1577,Joseph Smith,Other,26.0,2023-08-24,Gold,East Jack,Iowa,True
+CUST1578,Ryan Bowman,Female,46.0,2024-04-04,Silver,Cookeshire,North Carolina,False
+CUST1579,Patricia James,Other,49.0,2023-05-17,Platinum,North Nicholasport,Virginia,True
+CUST1580,Kyle Cruz,Male,19.0,2024-05-11,Platinum,Whitechester,Kansas,True
+CUST1581,Martha Morton,Other,56.0,2023-12-27,Silver,Thomaston,Illinois,True
+CUST1582,Jonathan Montoya,Male,63.0,2024-02-01,Silver,North Pamela,Idaho,False
+CUST1583,Sally Carey,Male,37.0,2021-12-20,Platinum,North Jennifer,Ohio,True
+CUST1584,Tara Malone,Other,18.0,2022-07-07,Silver,New Kevinmouth,Alaska,True
+CUST1585,John Quinn,Other,44.0,2023-07-30,Gold,South Katrinachester,Nebraska,False
+CUST1586,Ashley Schmidt,Male,32.0,2024-07-26,Gold,Hoffmanshire,Arkansas,True
+CUST1587,Carrie House,Male,47.0,2022-10-29,Gold,Lake Casey,Indiana,True
+CUST1588,Randall Proctor,Male,59.0,2024-04-07,Gold,Jasonmouth,Delaware,True
+CUST1589,Diane Banks,Male,49.0,2023-10-24,Gold,North Kevin,Virginia,True
+CUST1590,Sheryl Lopez,Other,36.0,2022-12-17,Platinum,East James,New Hampshire,True
+CUST1591,Catherine Ware,Other,63.0,2022-07-10,Gold,West Zacharyview,Mississippi,False
+CUST1592,Rebecca Avery,Female,44.0,2022-04-11,Silver,Garciamouth,Vermont,False
+CUST1593,Christy Bryant,Female,48.0,2024-04-19,Gold,Bobmouth,New Hampshire,True
+CUST1594,Henry White,Male,47.0,2024-05-13,Silver,Lake Patricia,Georgia,True
+CUST1595,Stephanie Browning,Other,27.0,2022-09-10,Silver,West Ericmouth,Ohio,True
+CUST1596,Jordan Smith,Female,30.0,2022-09-11,Silver,Lake Brittany,North Dakota,True
+CUST1597,Tanya Hampton,Other,50.0,2023-01-06,Silver,Michaelside,West Virginia,False
+CUST1598,Christopher Ramos PhD,Other,26.0,2023-07-05,Platinum,Marshallfurt,Connecticut,False
+CUST1599,Jason Atkinson MD,Male,35.0,2024-01-20,Gold,South Derekshire,Indiana,True
+CUST1600,Jacob Kelley,Female,39.0,2023-10-28,Gold,Perkinsberg,Alabama,True
+CUST1601,Tyler Reed,Other,35.0,2024-05-08,Silver,North Scott,Iowa,True
+CUST1602,Alicia Lee,Male,36.0,2024-02-18,Silver,North Jamesfurt,Vermont,True
+CUST1603,William Brown,Other,37.0,2024-07-10,Gold,West Ashleyborough,North Carolina,True
+CUST1604,Christian Boyd,Other,55.0,2022-08-12,Silver,Ramirezfurt,Michigan,False
+CUST1605,Jack Sheppard,Other,49.0,2022-06-09,Silver,Dianaberg,Georgia,True
+CUST1606,Scott Meadows,Male,46.0,2022-12-30,Silver,Katherinetown,Florida,True
+CUST1607,Heather Boyd,Other,48.0,2023-05-11,Gold,Scottmouth,Georgia,True
+CUST1608,Stephen Stevens,Female,39.0,2023-06-05,Silver,Kyleview,Idaho,True
+CUST1609,Whitney Stewart,Other,52.0,2021-09-08,Gold,South Amyberg,Tennessee,True
+CUST1610,Toni Hubbard,Female,47.0,2023-10-24,Platinum,Billychester,Louisiana,True
+CUST1611,Jon Cooke,Female,30.0,2023-02-05,Silver,Angelicastad,Utah,False
+CUST1612,Richard Martin,Other,33.0,2024-06-19,Silver,Lake Kathleen,Arizona,True
+CUST1613,Troy Casey,Other,42.0,2023-11-07,Silver,West Marcus,Oregon,True
+CUST1614,Ralph Martinez,Male,44.0,2021-09-14,Platinum,Anthonystad,Idaho,True
+CUST1615,Sandy Fischer,Male,38.0,2021-11-27,Platinum,Danielleshire,Rhode Island,True
+CUST1616,Steven Nixon,Other,48.0,2024-03-17,Silver,East Mariah,Missouri,True
+CUST1617,Melissa Reed,Other,42.0,2024-07-20,Gold,Dixontown,New Mexico,True
+CUST1618,Ernest Peck,Female,60.0,2024-05-20,Platinum,Ashleychester,Kentucky,True
+CUST1619,Matthew White,Other,27.0,2024-06-20,Platinum,Kyleshire,California,True
+CUST1620,Tiffany Smith,Female,20.0,2022-08-20,Platinum,West Joseph,Delaware,True
+CUST1621,Jessica Martin,Male,50.0,2022-11-03,Gold,Smithland,Michigan,False
+CUST1622,James Haney,Other,39.0,2021-10-13,Gold,West Davidfurt,New Mexico,True
+CUST1623,Sonya Elliott,Male,46.0,2022-02-03,Silver,Port Jesus,Minnesota,True
+CUST1624,Michael Hayes,Male,51.0,2022-12-22,Platinum,Evanmouth,Hawaii,True
+CUST1625,Jeffery Barnes,Female,18.0,2023-10-09,Gold,Lake Donaldview,Florida,True
+CUST1626,Michelle Sanders,Other,27.0,2022-01-16,Silver,East Benjaminstad,Mississippi,True
+CUST1627,Valerie Garcia,Female,59.0,2023-08-18,Gold,East Alexander,Hawaii,True
+CUST1628,Jacob Wyatt,Male,22.0,2021-08-22,Silver,East Amberfurt,Nevada,True
+CUST1629,Daniel Salinas,Female,34.0,2021-11-06,Silver,Veronicaberg,New Hampshire,True
+CUST1630,Jerry Morton,Female,57.0,2022-08-18,Silver,East Timothyhaven,Idaho,True
+CUST1631,Carlos Mora,Other,43.0,2022-09-16,Silver,Port Douglas,Maine,True
+CUST1632,Angela Schaefer,Other,23.0,2022-12-10,Silver,Mercedesside,Oregon,True
+CUST1633,Kelly Diaz,Female,61.0,2022-12-08,Silver,Port Darrenburgh,Massachusetts,True
+CUST1634,Joseph Anderson,Other,42.0,2023-08-29,Gold,Guerrerotown,Minnesota,True
+CUST1635,Ashley Edwards,Female,58.0,2023-09-20,Gold,Wilkersonburgh,Kansas,False
+CUST1636,Jacob Berry,Other,49.0,2023-01-02,Gold,Bridgesburgh,Arkansas,True
+CUST1637,Dawn Ferguson,Other,20.0,2022-04-04,Silver,Samanthafurt,Tennessee,True
+CUST1638,Hailey Johnson,Other,22.0,2023-08-04,Silver,Port Stevechester,Montana,False
+CUST1639,Raymond Watson,Male,58.0,2021-10-19,Silver,Lake Joehaven,Nevada,True
+CUST1640,Juan Cruz,Other,36.0,2021-11-17,Gold,Lake Victoriaside,Arkansas,True
+CUST1641,Kimberly Sanchez,Male,65.0,2021-12-20,Gold,Kimberlyport,Hawaii,True
+CUST1642,Jodi Welch,Male,45.0,2022-01-19,Silver,South Andrewfort,Indiana,True
+CUST1643,Joshua Soto,Male,58.0,2022-09-30,Silver,East Susanbury,South Dakota,True
+CUST1644,Matthew Sawyer,Other,24.0,2022-02-03,Silver,Jamesville,Wyoming,True
+CUST1645,Anne Salinas,Female,28.0,2022-04-14,Silver,North Lisaton,Mississippi,True
+CUST1646,Carrie Miller,Other,37.0,2023-10-02,Gold,Davidfort,Ohio,True
+CUST1647,Tina West,Male,20.0,2024-06-27,Platinum,Gomezview,New Hampshire,True
+CUST1648,Anthony Cruz,Female,21.0,2023-12-29,Silver,Lake Nicholas,South Carolina,True
+CUST1649,Dustin Waters,Female,40.0,2023-11-10,Gold,Lake Tiffanyland,Ohio,True
+CUST1650,Bryce Martinez,Female,45.0,2022-09-10,Silver,Raymondburgh,Delaware,False
+CUST1651,Daniel Adams,Male,33.0,2022-08-20,Silver,Gregoryshire,Tennessee,True
+CUST1652,Samuel Chen,Other,44.0,2021-08-13,Gold,Jennifershire,North Dakota,False
+CUST1653,Jessica Taylor,Other,61.0,2024-03-02,Gold,South Ashleyfurt,Wisconsin,False
+CUST1654,Erika Walker,Male,28.0,2024-03-20,Silver,New Monicaton,New Hampshire,False
+CUST1655,Jennifer Evans,Male,23.0,2022-03-24,Silver,Davidton,Nevada,False
+CUST1656,Connie Beasley,Other,42.0,2024-07-31,Gold,East Jesusport,New Jersey,False
+CUST1657,Thomas Rosales,Other,61.0,2022-02-21,Silver,East Jamesport,California,True
+CUST1658,Debra Preston,Male,49.0,2023-04-07,Gold,West Kayleeton,North Carolina,True
+CUST1659,Amanda Taylor,Other,27.0,2022-12-18,Silver,East Stephanieview,New Hampshire,True
+CUST1660,Debra Lane,Male,47.0,2022-12-08,Silver,Lake Marcland,North Dakota,True
+CUST1661,Joseph Cain,Other,34.0,2022-03-30,Platinum,Hebertmouth,Indiana,True
+CUST1662,Rebecca Green,Female,34.0,2022-01-01,Platinum,Danielport,Kentucky,True
+CUST1663,Michael Gonzales,Other,18.0,2022-06-21,Silver,Davisstad,Georgia,True
+CUST1664,Jon Lee,Female,36.0,2022-12-26,Gold,New Michaelland,West Virginia,True
+CUST1665,Kimberly Murray,Other,52.0,2022-02-14,Gold,Bradyshire,South Dakota,True
+CUST1666,William Reed,Male,22.0,2023-11-07,Silver,New Mason,Indiana,False
+CUST1667,Alfred Mcintyre,Female,40.0,2024-02-05,Platinum,Nicolefurt,Nevada,True
+CUST1668,Zachary Pruitt,Other,37.0,2024-01-08,Silver,Websterbury,Ohio,True
+CUST1669,Derek Richardson,Other,45.0,2024-02-16,Silver,South Claudia,Ohio,True
+CUST1670,Sydney Payne,Other,34.0,2024-02-01,Silver,Alanhaven,Vermont,True
+CUST1671,Tiffany Velez,Female,37.0,2021-11-22,Platinum,Port Wandaland,Utah,True
+CUST1672,Joseph Nichols,Male,42.0,2022-07-24,Gold,West Joshua,Wyoming,True
+CUST1673,Jodi Meyer DDS,Female,24.0,2022-04-10,Silver,Crystalborough,Mississippi,True
+CUST1674,Walter Martin,Male,42.0,2022-10-11,Platinum,North Marcus,Maine,True
+CUST1675,Andrew Green,Other,40.0,2023-09-23,Platinum,Amyborough,Massachusetts,True
+CUST1676,Robert Poole,Other,36.0,2023-03-21,Silver,New Michael,South Dakota,True
+CUST1677,Robert Wise,Other,36.0,2023-10-17,Silver,Bryanville,Maryland,False
+CUST1678,Sheryl Snyder,Male,60.0,2021-12-08,Platinum,Gonzalesport,New Jersey,True
+CUST1679,Mr. John Munoz,Female,35.0,2024-03-17,Silver,New Mary,Oregon,True
+CUST1680,Stephanie Roberts,Male,54.0,2022-08-11,Platinum,Kyleborough,Nebraska,True
+CUST1681,Charles Buchanan,Other,65.0,2023-02-20,Gold,Lake Nicholasmouth,Illinois,True
+CUST1682,Kimberly Nelson,Male,56.0,2021-10-10,Gold,North Michaelstad,Wyoming,True
+CUST1683,Michelle Gonzales,Other,49.0,2022-12-22,Gold,Matthewstad,Rhode Island,False
+CUST1684,Andrew Reid,Female,32.0,2023-11-05,Silver,West Josephchester,Maryland,True
+CUST1685,Sabrina Ryan,Other,40.0,2023-12-12,Platinum,Murphyshire,Delaware,True
+CUST1686,Mrs. Leah Thomas,Male,58.0,2022-09-12,Platinum,West Austin,Illinois,True
+CUST1687,Raymond Herrera,Male,57.0,2023-11-22,Silver,Port Danielleshire,North Carolina,False
+CUST1688,Tina Mahoney,Female,61.0,2023-07-05,Silver,Ashleybury,Colorado,True
+CUST1689,Andrew Williams,Other,60.0,2024-05-05,Silver,East Kevinshire,Pennsylvania,True
+CUST1690,David Hernandez,Other,26.0,2023-01-30,Silver,Emilyhaven,Rhode Island,True
+CUST1691,James Smith,Other,24.0,2023-10-03,Platinum,Port Thomas,Alaska,True
+CUST1692,Thomas Mason,Other,59.0,2021-12-21,Gold,Loribury,North Dakota,True
+CUST1693,Sheila Mueller,Male,37.0,2023-08-09,Gold,Christopherhaven,New Mexico,True
+CUST1694,Heather Perez,Female,20.0,2021-11-15,Platinum,Jonesborough,Delaware,True
+CUST1695,Michael Estes,Other,41.0,2024-01-20,Silver,Foleyville,New Hampshire,True
+CUST1696,Elizabeth Stewart,Other,26.0,2024-04-20,Silver,Austinhaven,New York,True
+CUST1697,Steve Fernandez,Male,36.0,2024-07-01,Silver,Garzaside,Georgia,False
+CUST1698,Karen Lowe,Female,65.0,2021-10-14,Silver,Ortizberg,Utah,True
+CUST1699,Ryan Jones,Female,29.0,2023-04-04,Gold,Scottmouth,Tennessee,True
+CUST1700,Kevin Parks,Male,26.0,2022-01-05,Silver,East Curtis,Maryland,True
+CUST1701,William Hunter,Other,41.0,2022-06-05,Silver,Jaredhaven,Mississippi,True
+CUST1702,Jonathan Miller,Other,50.0,2023-10-12,Gold,East Joshuamouth,Maine,True
+CUST1703,Michael Cox,Female,28.0,2023-08-25,Platinum,Tapiaburgh,New Mexico,False
+CUST1704,Corey Johnston,Female,48.0,2022-05-17,Gold,New William,Oklahoma,False
+CUST1705,Johnny Cobb,Female,65.0,2023-04-27,Silver,East Kara,Mississippi,True
+CUST1706,Olivia Morris,Female,25.0,2023-01-16,Silver,West Jay,Utah,True
+CUST1707,Sean Jones,Female,22.0,2023-08-13,Gold,Robertville,Maryland,False
+CUST1708,Jillian Davis,Male,32.0,2022-12-20,Silver,East Joseph,Alaska,True
+CUST1709,Matthew Davidson,Other,64.0,2023-08-29,Silver,Johnshire,Iowa,False
+CUST1710,Brian Miller,Other,43.0,2024-02-01,Silver,East Danielland,Indiana,True
+CUST1711,Jay Johnson,Other,41.0,2024-03-18,Silver,Parkermouth,Connecticut,True
+CUST1712,Terry Mckinney,Male,43.0,2023-02-01,Platinum,North Amanda,Tennessee,False
+CUST1713,Seth Gonzalez,Male,34.0,2023-03-13,Silver,Andersonside,New Mexico,False
+CUST1714,Lori Brown,Other,25.0,2023-04-07,Gold,Caseyport,Florida,False
+CUST1715,Stacy White,Female,41.0,2024-06-21,Silver,North Alexis,Maine,True
+CUST1716,Felicia Carroll,Other,65.0,2022-11-02,Silver,Tannerland,Arizona,True
+CUST1717,Caitlin Reyes,Other,34.0,2022-05-13,Silver,West Jason,Maine,True
+CUST1718,Raymond Crawford,Other,42.0,2023-03-16,Silver,Jamesbury,West Virginia,True
+CUST1719,Dylan Gonzalez,Other,41.0,2023-01-22,Silver,Arroyoton,New York,True
+CUST1720,Nathan Clark,Male,61.0,2023-12-05,Platinum,Porterside,Montana,True
+CUST1721,Kelsey Green,Male,48.0,2023-04-10,Gold,New Danielside,Rhode Island,True
+CUST1722,James Wells,Male,57.0,2023-03-18,Platinum,Blackville,South Carolina,True
+CUST1723,Jonathan Lawrence,Other,38.0,2023-08-12,Gold,South Nancyberg,New Hampshire,False
+CUST1724,Ashley Harris,Other,32.0,2023-03-08,Platinum,North Peterside,Minnesota,True
+CUST1725,Robert Garcia,Other,22.0,2023-07-11,Silver,Orozcoberg,Louisiana,True
+CUST1726,Michael Stanley,Other,47.0,2022-08-14,Platinum,Brownport,Arkansas,True
+CUST1727,Erica Tapia,Other,37.0,2021-12-09,Silver,Emilyshire,Indiana,False
+CUST1728,Melanie Carter,Other,44.0,2023-03-02,Gold,East Nicole,Florida,True
+CUST1729,Stephanie Robles,Male,26.0,2022-04-03,Silver,Jonathanport,Vermont,True
+CUST1730,Brian Perez,Male,20.0,2021-09-20,Silver,Mariaside,New York,True
+CUST1731,William Bates,Female,49.0,2023-02-12,Silver,Michaelland,Idaho,True
+CUST1732,Brian Rubio,Male,24.0,2021-10-26,Platinum,Christineland,Illinois,True
+CUST1733,Kathryn Moore,Male,52.0,2024-01-29,Platinum,Sandraport,Michigan,True
+CUST1734,Jeffrey Parks,Male,42.0,2022-08-14,Platinum,Lake Jessica,Idaho,True
+CUST1735,Dustin Thomas,Female,41.0,2023-06-09,Gold,North Kendra,Arkansas,True
+CUST1736,Brian Fox,Other,65.0,2024-05-26,Platinum,East Arianachester,Tennessee,True
+CUST1737,Whitney Russell,Other,52.0,2021-12-14,Silver,New Jennifer,Pennsylvania,True
+CUST1738,Scott Rodriguez,Female,55.0,2023-06-09,Platinum,West Christopherview,Pennsylvania,True
+CUST1739,Elizabeth Dixon,Other,64.0,2021-10-13,Gold,North Bethany,North Dakota,True
+CUST1740,Matthew Ballard,Male,44.0,2023-11-14,Platinum,North Kaitlyn,Minnesota,True
+CUST1741,Jacqueline Harrison,Other,24.0,2023-05-20,Gold,South Ryanville,Colorado,True
+CUST1742,Stephanie Carpenter,Female,57.0,2023-08-11,Silver,Aguilarberg,Idaho,True
+CUST1743,Shannon Green,Female,35.0,2024-07-24,Silver,Browntown,Utah,True
+CUST1744,Kelly Gibson,Male,62.0,2024-04-15,Silver,Lake Donnashire,Idaho,True
+CUST1745,Jeffrey Anderson,Female,31.0,2024-05-11,Silver,North Stephenshire,Tennessee,True
+CUST1746,Brandon Huff,Female,46.0,2021-11-23,Silver,Aprilfurt,Maryland,True
+CUST1747,Jeremiah Avila,Male,41.0,2022-01-09,Gold,Willieport,New Hampshire,True
+CUST1748,Zachary Wilson,Male,61.0,2022-12-04,Gold,South Anthonyberg,West Virginia,True
+CUST1749,Samantha Cain,Female,52.0,2024-07-07,Silver,North Kevin,Pennsylvania,False
+CUST1750,Blake Brown,Other,40.0,2021-12-23,Gold,Romerofort,Delaware,True
+CUST1751,Jon Burgess,Male,43.0,2023-09-26,Silver,West Michael,Tennessee,True
+CUST1752,Tamara Sullivan,Female,30.0,2023-03-07,Silver,East David,Arkansas,True
+CUST1753,Tracy Hernandez,Male,47.0,2022-03-23,Gold,Lake Christopherchester,Washington,True
+CUST1754,Holly Anderson,Male,60.0,2022-11-01,Gold,Molinastad,Arizona,True
+CUST1755,Crystal Johnson,Male,59.0,2022-02-16,Platinum,Whitefort,Idaho,True
+CUST1756,Denise Bautista,Other,56.0,2022-10-07,Platinum,Lewistown,Idaho,True
+CUST1757,Angela Cobb,Male,21.0,2023-06-05,Silver,Harrisfurt,Oregon,True
+CUST1758,Kevin Owen,Female,33.0,2023-05-17,Gold,Bensonfurt,Massachusetts,False
+CUST1759,Taylor Macias,Male,54.0,2024-02-18,Silver,Mullenland,Pennsylvania,False
+CUST1760,Mercedes Blackburn,Male,22.0,2023-04-28,Silver,Fieldsville,Connecticut,False
+CUST1761,Sarah Maldonado,Other,31.0,2022-08-17,Silver,Michaelhaven,Kansas,True
+CUST1762,Catherine Manning,Other,31.0,2022-09-22,Silver,Michelleside,Georgia,True
+CUST1763,Penny Rodriguez,Male,39.0,2021-11-01,Silver,Goodmanton,Louisiana,True
+CUST1764,Elizabeth Thomas,Male,56.0,2023-03-23,Platinum,Annaborough,Florida,True
+CUST1765,Monique Reeves,Male,35.0,2022-12-01,Silver,Keithside,Louisiana,True
+CUST1766,Tonya Benson,Male,26.0,2022-05-14,Gold,New Cathy,Missouri,True
+CUST1767,Mitchell Gonzales,Other,34.0,2022-03-21,Silver,Solischester,Rhode Island,True
+CUST1768,Andrew Kidd,Male,25.0,2023-02-02,Silver,West Alanshire,Michigan,True
+CUST1769,Tiffany Fitzpatrick,Other,19.0,2021-08-08,Silver,Port Emmashire,Wisconsin,True
+CUST1770,Jonathan Walter,Male,18.0,2021-12-24,Gold,Lake Shannonstad,Louisiana,True
+CUST1771,Omar Lopez,Female,33.0,2023-01-03,Gold,Ramirezburgh,Tennessee,True
+CUST1772,Robin Robles,Other,38.0,2023-01-25,Platinum,Clarkfort,Colorado,True
+CUST1773,Gary Ward,Male,29.0,2022-05-29,Platinum,West Maryfurt,Alabama,True
+CUST1774,Shawn Vega,Female,21.0,2023-11-24,Silver,Kristenside,New Hampshire,True
+CUST1775,Mary Rivera,Male,65.0,2021-10-16,Platinum,East Cindyfurt,Texas,True
+CUST1776,Ashley Green,Female,51.0,2022-08-07,Platinum,Reyesburgh,Maine,False
+CUST1777,Harry Carson,Male,65.0,2024-04-29,Silver,South Eduardo,Montana,True
+CUST1778,Pamela Johnston,Male,48.0,2024-01-16,Gold,East Wesleyfort,Indiana,True
+CUST1779,Frank Howard DVM,Female,41.0,2023-11-05,Platinum,South Kevin,Kansas,False
+CUST1780,Robert Sandoval,Other,55.0,2024-01-22,Silver,Port Bryanmouth,Oklahoma,True
+CUST1781,Dr. Melissa Mueller DVM,Male,46.0,2024-02-21,Gold,West Christophertown,Iowa,True
+CUST1782,Joshua Stewart,Other,32.0,2022-06-15,Platinum,Lake Karen,Kansas,True
+CUST1783,Courtney Cox,Other,20.0,2022-04-19,Gold,Hayesbury,Wisconsin,True
+CUST1784,Anthony Hernandez,Other,60.0,2024-03-06,Gold,Lake Erinstad,New Jersey,True
+CUST1785,Misty Rogers,Other,37.0,2024-03-10,Gold,Lake Sonyabury,Indiana,True
+CUST1786,Dana Moran,Female,59.0,2022-10-31,Gold,Fosterside,New Jersey,False
+CUST1787,Evelyn Ortiz,Male,21.0,2023-10-08,Silver,Middletonfort,Wyoming,True
+CUST1788,James Smith,Female,43.0,2021-12-19,Silver,South Christopherburgh,Iowa,True
+CUST1789,Thomas Perez,Female,61.0,2022-11-04,Gold,New Elizabeth,Delaware,True
+CUST1790,Darrell Shah,Male,49.0,2023-10-09,Silver,Batesstad,Arizona,True
+CUST1791,Mark Brown,Other,46.0,2022-08-22,Gold,New Curtis,Oregon,True
+CUST1792,Amanda Thompson,Male,23.0,2023-08-23,Platinum,South Natalie,Texas,True
+CUST1793,Veronica Jackson,Female,56.0,2023-03-31,Gold,New Shannonfurt,Vermont,True
+CUST1794,Rhonda Gomez,Male,22.0,2021-12-27,Silver,Port Leslie,Texas,True
+CUST1795,Wayne Scott,Male,35.0,2022-10-26,Gold,South Johnborough,Massachusetts,False
+CUST1796,Isabella Mooney,Other,58.0,2023-03-01,Silver,Port Sandra,California,True
+CUST1797,Amber Anderson,Other,53.0,2022-03-29,Gold,Lake Glenn,Delaware,True
+CUST1798,Anthony Cooper,Other,38.0,2022-07-15,Silver,East Sandrahaven,New Hampshire,True
+CUST1799,Carrie Garcia,Female,56.0,2022-05-27,Silver,North Leah,Oklahoma,False
+CUST1800,Brandon James,Other,36.0,2024-06-26,Silver,North Robert,Colorado,True
+CUST1801,Amy Galvan,Female,50.0,2022-05-21,Silver,Port Kristin,Utah,True
+CUST1802,Shane Patterson,Other,45.0,2024-07-12,Silver,Emilyfort,Iowa,True
+CUST1803,Aaron Mckinney,Male,62.0,2022-08-03,Silver,Markport,North Dakota,False
+CUST1804,David Molina,Male,59.0,2023-05-02,Silver,Nicolebury,Utah,True
+CUST1805,Austin Jones,Other,53.0,2021-09-06,Platinum,East Sophia,Pennsylvania,True
+CUST1806,John Chapman,Other,31.0,2023-01-28,Gold,Lake Natalie,Florida,True
+CUST1807,Kelly Mcfarland,Female,46.0,2023-09-21,Silver,Victoriaborough,Missouri,True
+CUST1808,Theresa Riley,Male,44.0,2022-04-09,Platinum,North Stephanie,Connecticut,True
+CUST1809,Angela Hall,Female,47.0,2022-09-19,Gold,Port Frankhaven,Indiana,True
+CUST1810,Richard Burnett,Female,44.0,2021-12-16,Silver,West Kristenville,Idaho,True
+CUST1811,Peter Anderson,Other,24.0,2022-12-22,Gold,Bradleyview,Indiana,False
+CUST1812,Mrs. Kristina Smith MD,Female,45.0,2022-12-24,Silver,Millertown,Vermont,True
+CUST1813,Sonya Taylor,Female,60.0,2024-04-23,Silver,East Gregory,Delaware,True
+CUST1814,Jennifer Allen,Female,41.0,2024-01-27,Silver,Pricehaven,Florida,True
+CUST1815,Debra Ingram,Male,61.0,2022-10-29,Gold,East Kimberlymouth,Maryland,True
+CUST1816,Evelyn Johnson,Female,22.0,2022-08-16,Gold,Rodriguezmouth,Virginia,True
+CUST1817,Dr. Vanessa Stanley,Male,23.0,2021-12-22,Platinum,Turnerfort,Alabama,True
+CUST1818,Christopher Blair,Male,45.0,2021-10-14,Silver,Gibsonside,New York,True
+CUST1819,James Miller,Male,65.0,2022-01-22,Platinum,Lauratown,Utah,False
+CUST1820,James Becker,Other,41.0,2021-08-04,Gold,Gonzaleztown,Washington,False
+CUST1821,Karen Howard,Male,53.0,2024-01-31,Gold,Petersonhaven,New Jersey,True
+CUST1822,Michael Fox,Male,55.0,2022-06-09,Silver,Lauraton,Arizona,True
+CUST1823,Carrie Mccarthy,Other,53.0,2022-03-05,Silver,New Peterstad,Kansas,False
+CUST1824,Elizabeth Wright,Female,60.0,2022-06-25,Gold,Taylorborough,Montana,True
+CUST1825,Tyler Myers,Male,44.0,2023-08-20,Silver,South Kimberlymouth,Washington,True
+CUST1826,Julie Flores MD,Female,60.0,2022-11-01,Silver,Port Jose,Massachusetts,True
+CUST1827,Anthony Anthony,Female,64.0,2021-10-31,Silver,Cruzhaven,Nevada,False
+CUST1828,Cole Mathews,Male,36.0,2021-09-02,Gold,Port Jacobtown,Wisconsin,True
+CUST1829,Jorge Coleman,Other,37.0,2023-04-08,Silver,West Richardborough,New York,True
+CUST1830,Elijah Williams,Female,24.0,2022-03-24,Gold,Kiarahaven,Massachusetts,True
+CUST1831,Daniel Larson,Other,50.0,2021-11-26,Platinum,South Kyle,Massachusetts,True
+CUST1832,Lori Sanchez,Male,27.0,2023-09-04,Platinum,North Alexaberg,Minnesota,False
+CUST1833,Michael Wilkinson,Other,48.0,2023-08-15,Silver,New Adam,Tennessee,False
+CUST1834,Cynthia Morris,Male,24.0,2022-09-18,Silver,East Joside,New Hampshire,False
+CUST1835,Todd Ritter,Female,53.0,2022-10-28,Silver,Smithmouth,South Dakota,False
+CUST1836,Curtis Evans,Female,25.0,2023-10-11,Platinum,Patricialand,Tennessee,False
+CUST1837,Jeffery Lam,Female,54.0,2022-09-08,Gold,Bakerland,Missouri,True
+CUST1838,Julie Paul,Male,45.0,2022-01-16,Silver,South Tyler,Rhode Island,True
+CUST1839,Katie Potter,Other,57.0,2023-03-29,Silver,East Gregoryborough,Texas,True
+CUST1840,Amy Jones,Other,61.0,2024-01-20,Silver,West Justinton,Vermont,False
+CUST1841,Timothy Freeman,Other,53.0,2024-06-27,Gold,West Rachelshire,Nevada,False
+CUST1842,Emily Goodwin,Male,56.0,2022-12-31,Silver,Davisfort,Minnesota,False
+CUST1843,Shawn Ponce,Other,62.0,2022-01-02,Platinum,Ortizview,Michigan,True
+CUST1844,Melissa Wilson,Female,19.0,2022-09-26,Gold,West Monica,Washington,True
+CUST1845,Lisa Harris,Male,35.0,2022-05-23,Silver,Carrollview,Alabama,True
+CUST1846,Todd Daniel,Other,37.0,2024-06-16,Silver,North Mark,Maryland,True
+CUST1847,Oscar Mitchell,Female,40.0,2022-09-06,Silver,Justinland,Alaska,True
+CUST1848,Patricia Nichols,Male,29.0,2023-07-29,Silver,East Jamesbury,Utah,True
+CUST1849,Carla Newman,Male,54.0,2023-01-22,Platinum,Johnburgh,Georgia,True
+CUST1850,Jeremy Brown,Other,43.0,2024-06-12,Platinum,Crawfordview,New York,True
+CUST1851,Tina Fowler,Male,27.0,2024-04-27,Silver,Castillomouth,Indiana,True
+CUST1852,Jeremy Mcgee,Other,58.0,2021-09-03,Silver,North Laceyland,Idaho,True
+CUST1853,Thomas Anderson,Male,23.0,2022-03-16,Gold,Chadtown,Utah,True
+CUST1854,Jimmy Little,Other,51.0,2022-04-02,Gold,Smithbury,Texas,True
+CUST1855,Lisa Jones,Male,42.0,2023-12-25,Silver,Port Brandon,Kentucky,True
+CUST1856,Kirk Pittman,Female,47.0,2022-11-02,Gold,Powellchester,Kentucky,True
+CUST1857,Sandra Moses,Female,28.0,2022-02-07,Silver,North Nathanielbury,North Carolina,False
+CUST1858,Lori Skinner,Female,37.0,2022-10-16,Silver,New Brandonland,Iowa,True
+CUST1859,Susan Mckenzie,Other,38.0,2024-07-22,Platinum,North Madison,Ohio,True
+CUST1860,Robert Ingram,Other,56.0,2023-05-24,Silver,West Melissaview,Louisiana,True
+CUST1861,Kevin Rodriguez,Male,21.0,2021-12-25,Silver,West Andreafurt,Wyoming,True
+CUST1862,Jacqueline Kim,Male,28.0,2023-02-14,Gold,Younghaven,Alaska,True
+CUST1863,Charles Mccoy,Other,21.0,2022-02-24,Gold,New Lisa,North Carolina,False
+CUST1864,Brian Wood,Other,23.0,2024-05-26,Platinum,Beckton,Wisconsin,True
+CUST1865,David Archer MD,Female,46.0,2024-06-20,Silver,Davisshire,Mississippi,True
+CUST1866,Ashley Jenkins,Other,45.0,2022-12-12,Gold,East Yesenia,New Mexico,True
+CUST1867,Michael Krause,Female,56.0,2021-11-30,Silver,Sarachester,Iowa,False
+CUST1868,Sarah Bolton,Female,44.0,2022-08-10,Silver,Williamschester,Kansas,True
+CUST1869,Steven Jones,Female,31.0,2022-12-20,Silver,East Elizabethville,South Dakota,True
+CUST1870,Kristi Ramos,Other,25.0,2021-08-28,Platinum,East Aaron,Illinois,True
+CUST1871,Tiffany Miller,Female,45.0,2022-03-10,Gold,Shannonport,North Dakota,True
+CUST1872,Joel Smith,Male,36.0,2023-09-12,Silver,Parsonsland,Ohio,True
+CUST1873,Jeremy Johnston,Other,61.0,2023-01-18,Silver,Lake Brianview,Colorado,True
+CUST1874,Denise Marshall,Other,49.0,2024-03-13,Gold,North Lorifort,Pennsylvania,True
+CUST1875,Timothy Jackson,Other,60.0,2022-08-24,Gold,Kevinhaven,California,True
+CUST1876,Danny Williams,Female,20.0,2024-01-10,Silver,East Rebeccafurt,Michigan,True
+CUST1877,Jennifer Mitchell,Male,43.0,2022-02-10,Platinum,Port Travis,Wisconsin,False
+CUST1878,Elizabeth Lang,Other,21.0,2024-07-17,Platinum,Jenniferchester,Arizona,True
+CUST1879,Kathryn Herrera,Male,31.0,2022-04-23,Silver,Popechester,South Dakota,True
+CUST1880,William Byrd,Female,31.0,2022-11-02,Silver,East Tashamouth,Tennessee,False
+CUST1881,Caroline Roberts,Male,34.0,2022-01-31,Silver,Patrickstad,Oregon,True
+CUST1882,Arthur Cox,Female,38.0,2023-01-11,Silver,North Stevenport,Colorado,True
+CUST1883,Juan Gibbs,Male,18.0,2023-06-08,Gold,Courtneyland,Montana,True
+CUST1884,Denise Murphy,Female,65.0,2023-04-26,Silver,Brandyfurt,Vermont,True
+CUST1885,Patrick Gay,Female,29.0,2021-10-29,Silver,Christianville,Wyoming,True
+CUST1886,Mrs. Heidi Cuevas PhD,Male,42.0,2021-08-29,Platinum,Drakebury,New Hampshire,False
+CUST1887,Larry Allen,Other,63.0,2024-07-27,Gold,North Johnfort,Nevada,True
+CUST1888,Christopher Bryant,Male,50.0,2022-02-10,Gold,Smithburgh,Alabama,True
+CUST1889,Anthony Gonzalez,Other,60.0,2022-11-06,Silver,Blackburnborough,Maine,False
+CUST1890,Anthony Nelson,Female,22.0,2023-03-03,Silver,East Josephside,Washington,False
+CUST1891,Cynthia Lewis,Female,65.0,2024-05-07,Silver,Edgarbury,Alabama,True
+CUST1892,Richard Leon,Male,45.0,2022-12-10,Gold,Richardsonmouth,Minnesota,False
+CUST1893,Alexander Chandler,Male,47.0,2023-04-04,Gold,East Michael,South Dakota,True
+CUST1894,Christina Williams,Male,38.0,2023-01-12,Silver,Port Amandafurt,South Carolina,True
+CUST1895,David Hughes,Other,45.0,2024-02-24,Silver,West Sherri,Indiana,True
+CUST1896,Mr. Frank Larson,Other,43.0,2022-04-06,Gold,Fieldsville,Rhode Island,True
+CUST1897,Jonathan Hill,Other,58.0,2023-06-14,Silver,South Isabellaville,Iowa,True
+CUST1898,Corey Harding,Female,36.0,2023-12-17,Gold,South Nathan,Michigan,True
+CUST1899,Daniel Hamilton,Male,43.0,2022-11-01,Silver,New Yvonneport,Mississippi,True
+CUST1900,Brittany Nguyen,Male,38.0,2022-11-01,Platinum,New Johntown,Washington,True
+CUST1901,Mario Sanchez,Male,57.0,2023-01-12,Silver,Danielburgh,Maryland,True
+CUST1902,Charles Reyes,Female,62.0,2022-01-17,Silver,Johnfurt,Tennessee,True
+CUST1903,Leslie Ingram,Female,23.0,2022-09-26,Gold,Lake Leahtown,North Dakota,True
+CUST1904,Lauren Arroyo,Female,24.0,2022-11-10,Silver,West Jamesville,Arkansas,True
+CUST1905,Joshua Baker,Male,45.0,2022-04-04,Gold,Samanthaton,Mississippi,True
+CUST1906,Linda Klein,Other,43.0,2024-04-28,Silver,North Johnland,Nebraska,True
+CUST1907,Nicholas Matthews,Other,23.0,2021-08-24,Silver,Lake Tonyaside,Connecticut,False
+CUST1908,Timothy Davis,Female,37.0,2022-10-10,Silver,South Mallory,South Carolina,True
+CUST1909,Katherine Carney,Other,39.0,2023-09-05,Gold,North Joshualand,Rhode Island,True
+CUST1910,Austin Garrison,Male,39.0,2024-06-12,Silver,Nolanberg,Colorado,True
+CUST1911,Douglas Patterson,Male,22.0,2022-02-24,Gold,New Jacobchester,Kentucky,True
+CUST1912,Daniel Davis,Other,58.0,2023-05-04,Gold,Sarahstad,Delaware,True
+CUST1913,Richard Stewart,Male,51.0,2023-08-18,Silver,Lake Annamouth,Arkansas,False
+CUST1914,William Downs,Other,30.0,2023-06-24,Gold,North Kendra,Arizona,True
+CUST1915,Lawrence Griffin,Female,40.0,2024-07-11,Platinum,Lake Cassandra,Michigan,True
+CUST1916,Sarah Trevino,Other,59.0,2023-12-25,Gold,West Sherryville,Virginia,True
+CUST1917,Cameron Valenzuela,Male,33.0,2022-07-19,Platinum,Sharonside,Alabama,True
+CUST1918,Matthew Cox,Male,27.0,2023-12-20,Silver,South Edward,Tennessee,True
+CUST1919,Lisa Vega,Female,30.0,2023-08-03,Platinum,Alexisborough,Louisiana,True
+CUST1920,Haley Ruiz,Male,56.0,2023-08-25,Silver,Sanderschester,Rhode Island,True
+CUST1921,Jaclyn Fox,Male,59.0,2023-04-06,Silver,Robbinsport,New Hampshire,True
+CUST1922,Amanda Russell,Male,29.0,2024-07-08,Platinum,New Darrenland,Wyoming,True
+CUST1923,David Johnson,Other,49.0,2024-05-15,Silver,New Dawn,Ohio,True
+CUST1924,Jamie Warren,Female,54.0,2023-11-16,Platinum,Marshallberg,Florida,True
+CUST1925,Catherine Cochran,Other,46.0,2022-07-18,Silver,Eugeneview,Ohio,False
+CUST1926,Marcus Dennis,Other,54.0,2024-02-25,Platinum,Jenniferview,Hawaii,False
+CUST1927,Michelle Jackson,Other,58.0,2022-10-27,Platinum,Port Lawrence,South Dakota,True
+CUST1928,Robert Perry,Other,38.0,2024-07-27,Gold,Bethtown,Alabama,True
+CUST1929,Monica Page,Other,38.0,2022-04-03,Platinum,North James,North Carolina,True
+CUST1930,Rhonda Meadows,Male,46.0,2022-01-18,Gold,East Katelynmouth,Nebraska,True
+CUST1931,Alexandra Khan,Male,48.0,2023-04-28,Silver,Griffithhaven,Connecticut,True
+CUST1932,Robin Roberts,Female,58.0,2022-07-22,Platinum,Lake Linda,South Carolina,False
+CUST1933,Jose Alexander,Female,35.0,2023-09-02,Silver,Port Mirandaville,Rhode Island,True
+CUST1934,Lindsay Brown,Other,21.0,2023-06-22,Silver,Nguyenberg,Tennessee,True
+CUST1935,Robert Campbell,Female,50.0,2023-02-08,Platinum,Adambury,Colorado,True
+CUST1936,Mercedes Johnson,Male,37.0,2023-06-10,Gold,Teresashire,Connecticut,False
+CUST1937,Kara Jackson,Female,46.0,2021-12-28,Gold,Mosleyburgh,Colorado,True
+CUST1938,Calvin Patrick,Male,21.0,2023-04-26,Gold,Christophertown,Illinois,True
+CUST1939,Cody Gonzales,Female,36.0,2021-08-27,Silver,North Debra,Nebraska,True
+CUST1940,Mrs. Pamela Frazier,Male,59.0,2022-08-28,Gold,South Stephanie,West Virginia,False
+CUST1941,Wendy Carey,Male,57.0,2024-06-07,Gold,Josephtown,Alabama,True
+CUST1942,Debbie Ferguson,Other,50.0,2024-04-12,Silver,Lake Jose,South Carolina,True
+CUST1943,Frank Ayers,Female,47.0,2022-10-30,Silver,Port David,Rhode Island,True
+CUST1944,Steven Fuller,Other,53.0,2023-02-18,Gold,Adkinsmouth,New Jersey,False
+CUST1945,Andrea Lee,Other,20.0,2022-08-04,Silver,Rebeccaview,Rhode Island,True
+CUST1946,Samantha Pugh,Female,54.0,2021-10-26,Platinum,Port Johnny,Maine,True
+CUST1947,Ruth Lopez,Other,30.0,2022-10-07,Gold,Kellyberg,South Carolina,True
+CUST1948,Jessica Jensen,Female,56.0,2023-08-13,Gold,Lake Jacquelineview,Indiana,True
+CUST1949,Isaiah Hicks,Female,50.0,2024-03-01,Silver,East Megan,Ohio,True
+CUST1950,Jon Warner,Male,21.0,2022-02-08,Gold,Danielburgh,North Dakota,True
+CUST1951,Monica Little,Female,24.0,2021-08-03,Gold,Port Amanda,Kansas,True
+CUST1952,Carol Walker,Female,63.0,2021-12-29,Gold,Shawview,Kentucky,True
+CUST1953,Bryan Frye,Male,50.0,2022-03-17,Platinum,South Keith,Arizona,True
+CUST1954,Virginia Ferguson,Other,29.0,2023-03-15,Silver,Moorehaven,Georgia,True
+CUST1955,Kathryn Lee,Male,33.0,2023-07-19,Silver,Port Sarah,Minnesota,False
+CUST1956,Brittany Barnes,Other,46.0,2024-05-10,Platinum,Toddbury,Oregon,True
+CUST1957,James Morse,Female,51.0,2022-03-31,Silver,Lake Lynnshire,South Dakota,True
+CUST1958,Troy Gonzalez,Other,57.0,2024-06-28,Platinum,Webbland,West Virginia,True
+CUST1959,Patrick Anderson,Male,41.0,2021-09-17,Silver,Port Amberborough,West Virginia,True
+CUST1960,Daniel Simpson,Female,36.0,2022-12-19,Gold,Allenburgh,Wyoming,True
+CUST1961,Melissa Johnson,Female,44.0,2024-07-12,Gold,New Joshua,Minnesota,True
+CUST1962,Kim Edwards,Female,61.0,2024-04-17,Gold,South Amanda,Missouri,True
+CUST1963,Brandon Smith,Other,21.0,2023-01-11,Gold,Savageshire,California,True
+CUST1964,Shawn Williams,Other,59.0,2023-04-29,Gold,New Francisco,Georgia,True
+CUST1965,Dale Cox,Female,22.0,2022-09-22,Gold,Port Stacyberg,Louisiana,True
+CUST1966,Gary Hanson DVM,Female,24.0,2023-02-13,Gold,Sandyburgh,Missouri,True
+CUST1967,Kimberly Mckenzie,Other,61.0,2024-01-19,Gold,New Douglasstad,Minnesota,False
+CUST1968,Barbara Brown,Female,36.0,2021-08-29,Silver,Fostertown,Illinois,False
+CUST1969,Aaron Lee,Female,64.0,2024-06-25,Silver,Lake Brianview,Missouri,True
+CUST1970,Tamara Simmons,Other,56.0,2022-02-17,Silver,Jamieview,Alaska,True
+CUST1971,Matthew Ball,Male,39.0,2021-12-06,Gold,Parkermouth,West Virginia,True
+CUST1972,Rebecca Gonzalez,Male,55.0,2022-08-28,Gold,New Bill,Oregon,True
+CUST1973,Julie Rodriguez DDS,Other,27.0,2022-06-18,Silver,East Jonathanborough,Oregon,True
+CUST1974,Michael Miller,Female,37.0,2022-06-02,Silver,North Gracehaven,North Dakota,True
+CUST1975,Darren Tanner,Other,62.0,2024-04-05,Silver,West Rachelland,Ohio,True
+CUST1976,Kelsey Edwards,Other,43.0,2024-07-26,Gold,Joshuaville,Oregon,True
+CUST1977,Matthew Madden,Male,56.0,2022-01-12,Platinum,Matthewfurt,Oklahoma,False
+CUST1978,Stephen Garrett,Other,23.0,2024-04-14,Gold,Port Stephenchester,Vermont,True
+CUST1979,Melissa Taylor,Female,53.0,2021-09-11,Gold,Dixonstad,Oklahoma,True
+CUST1980,Arthur Johnston,Female,59.0,2024-01-30,Silver,Bowersville,Georgia,True
+CUST1981,Brittany Smith,Female,26.0,2024-06-14,Platinum,Sharonstad,Delaware,True
+CUST1982,Mike Lara,Other,62.0,2023-02-16,Gold,New Kelly,Vermont,True
+CUST1983,Christopher Clark,Other,61.0,2024-05-19,Silver,North Phillip,New Mexico,True
+CUST1984,Crystal Davis,Other,23.0,2024-02-19,Silver,Kelseyton,Nevada,True
+CUST1985,Kathryn Mann,Other,60.0,2024-06-19,Silver,West Matthew,Hawaii,False
+CUST1986,Antonio Choi,Female,50.0,2022-12-23,Silver,Clarkchester,New Hampshire,True
+CUST1987,Shannon Aguilar,Female,19.0,2023-11-09,Silver,South Luke,West Virginia,False
+CUST1988,Alicia Johnson,Female,37.0,2023-01-18,Silver,New Michelle,South Carolina,True
+CUST1989,Emily Moss,Male,31.0,2023-08-18,Platinum,Lake Cliffordmouth,Wyoming,False
+CUST1990,Danielle Miller,Female,49.0,2023-12-24,Silver,South Alexander,Georgia,False
+CUST1991,Nathan Williams,Male,32.0,2024-07-23,Silver,South Levi,Connecticut,True
+CUST1992,Thomas Morris,Male,27.0,2022-01-08,Silver,Jessicaberg,Mississippi,True
+CUST1993,Terri Wheeler,Male,36.0,2022-01-18,Gold,North Kathleen,New Jersey,True
+CUST1994,Eric Watson,Male,50.0,2024-02-23,Silver,South Graceview,Colorado,True
+CUST1995,John Booth,Other,65.0,2023-02-02,Gold,Davistown,Maryland,True
+CUST1996,Crystal Baker,Other,20.0,2022-11-10,Gold,Stephensonton,West Virginia,True
+CUST1997,Roberta Perez,Other,39.0,2022-02-06,Gold,Anthonyport,Missouri,True
+CUST1998,Kristin Cox,Other,26.0,2021-10-13,Platinum,Atkinstown,Virginia,True
+CUST1999,Robert Houston,Other,42.0,2023-09-15,Silver,Michelleton,Pennsylvania,True
+CUST2000,James Molina,Male,28.0,2023-04-01,Silver,Paulfort,Massachusetts,True
+CUST2001,Michael Taylor,Male,62.0,2024-07-29,Platinum,North Adammouth,Mississippi,True
+CUST2002,Nicole Moore,Other,28.0,2022-11-23,Silver,Gibsonhaven,California,True
+CUST2003,Ashley Johnson,Other,46.0,2023-11-22,Silver,Kevinfort,Rhode Island,True
+CUST2004,Tracy Buchanan,Male,44.0,2023-03-31,Silver,East Paul,Maryland,True
+CUST2005,Miguel Lucas,Female,61.0,2023-03-11,Silver,Trujillostad,Massachusetts,True
+CUST2006,Briana Vega,Other,33.0,2021-11-02,Platinum,Traciside,Florida,True
+CUST2007,Tanya Martinez,Female,57.0,2022-07-22,Gold,Sarahton,New Mexico,True
+CUST2008,Karen Lee,Female,65.0,2024-07-01,Silver,West Nicolemouth,Montana,False
+CUST2009,Christopher Perez DVM,Female,32.0,2021-11-30,Silver,Kristopherview,Minnesota,True
+CUST2010,Joel Li,Other,33.0,2024-03-02,Platinum,Wendyland,South Carolina,True
+CUST2011,Jennifer Hudson,Female,48.0,2024-01-29,Platinum,South Stephanieburgh,Kentucky,True
+CUST2012,Gabriel Rodriguez,Male,41.0,2022-11-26,Silver,South Christopherburgh,South Dakota,True
+CUST2013,Teresa Randolph,Other,54.0,2022-06-09,Gold,East Janet,Massachusetts,False
+CUST2014,Mr. Dan Osborne,Female,47.0,2024-07-04,Silver,Brownburgh,Kansas,True
+CUST2015,Alicia Johnson,Female,42.0,2024-06-07,Silver,North Loribury,Montana,True
+CUST2016,Matthew Fisher,Other,51.0,2024-01-17,Silver,Coreyfurt,Minnesota,False
+CUST2017,Vincent Cooley,Female,28.0,2023-12-11,Gold,New Coryton,Georgia,True
+CUST2018,Brent Burton,Male,56.0,2022-03-15,Silver,New John,South Dakota,True
+CUST2019,Diane Munoz,Male,34.0,2024-06-08,Silver,Karenborough,Delaware,True
+CUST2020,Mark French,Male,59.0,2024-05-17,Platinum,Baileyton,Kansas,True
+CUST2021,Abigail Liu,Female,41.0,2024-03-11,Gold,New Matthewville,Kansas,True
+CUST2022,Ryan Garcia,Other,24.0,2023-09-09,Platinum,Pamelafort,Arizona,True
+CUST2023,Cassandra Rogers,Other,51.0,2022-11-23,Silver,Mannport,Utah,True
+CUST2024,Brian Saunders,Male,36.0,2024-04-09,Gold,Saramouth,Oklahoma,True
+CUST2025,Janet Turner,Male,28.0,2024-02-10,Silver,Port Karen,Arkansas,True
+CUST2026,Susan Cantu,Female,46.0,2023-03-21,Silver,Curtisville,Florida,False
+CUST2027,Jason Campbell,Other,27.0,2021-09-13,Platinum,Natashafurt,Connecticut,True
+CUST2028,Eric Solis,Female,23.0,2024-05-15,Silver,North Jeffrey,Wisconsin,True
+CUST2029,Adam Smith,Male,46.0,2022-10-19,Gold,Wadeberg,Washington,True
+CUST2030,Kelly Newman,Female,19.0,2021-08-06,Silver,New Kevin,Florida,True
+CUST2031,Daniel Greer,Female,21.0,2024-01-26,Platinum,West Jennifer,South Carolina,True
+CUST2032,Dr. Victor Stanton,Female,50.0,2021-09-20,Silver,Kanebury,Florida,True
+CUST2033,Gwendolyn Jarvis,Female,33.0,2023-02-14,Silver,Sandrahaven,Oregon,True
+CUST2034,Donna Kirk,Female,23.0,2023-04-18,Silver,North Larryport,Illinois,True
+CUST2035,Megan Molina,Female,32.0,2022-03-31,Gold,North Scott,Washington,True
+CUST2036,Rachel Daniels,Male,38.0,2023-04-17,Silver,Jeffreyport,Maryland,False
+CUST2037,Ashley Bauer,Male,63.0,2022-07-02,Platinum,New Gabrielberg,Washington,False
+CUST2038,Jennifer Wiggins,Other,39.0,2024-03-28,Silver,Joshuatown,Vermont,True
+CUST2039,Lori Owens,Male,26.0,2022-12-12,Platinum,New Paulfort,South Dakota,True
+CUST2040,Christopher Lawson,Male,36.0,2022-02-20,Silver,West Taylorfort,Arizona,True
+CUST2041,James Perkins,Female,62.0,2023-10-19,Silver,Lake Frankburgh,New Mexico,False
+CUST2042,Anna Turner,Male,63.0,2021-08-12,Gold,South Derek,Arizona,True
+CUST2043,Bradley Graves,Female,46.0,2023-12-16,Silver,Juanborough,Iowa,True
+CUST2044,Cory Mullins,Other,18.0,2023-09-04,Platinum,Fishermouth,Maine,True
+CUST2045,Dennis Patel,Male,19.0,2024-05-02,Gold,East Caitlinton,Delaware,False
+CUST2046,Kathy Bennett,Female,31.0,2022-12-13,Silver,Duncanport,Rhode Island,True
+CUST2047,Joseph Smith,Male,53.0,2023-10-09,Silver,Lake James,Idaho,True
+CUST2048,Nathan Thomas,Other,56.0,2024-02-06,Gold,Benjaminmouth,Alaska,True
+CUST2049,Maureen Cole,Other,45.0,2022-07-27,Gold,New Spencer,North Carolina,True
+CUST2050,Jordan Ibarra,Male,36.0,2022-04-28,Platinum,South Timothy,Arizona,True
+CUST2051,Andrew Herrera,Male,37.0,2021-10-30,Silver,Ramirezport,Nebraska,True
+CUST2052,Debra Shields,Male,21.0,2023-05-12,Gold,Villarrealport,California,True
+CUST2053,Kristin Cross,Male,44.0,2022-10-27,Platinum,Kennedyland,Pennsylvania,False
+CUST2054,Megan Mendez,Other,57.0,2024-07-17,Silver,Johnshire,Utah,False
+CUST2055,Alexandria Dunn,Female,22.0,2021-12-26,Silver,Port Henryshire,Maine,True
+CUST2056,Mr. John Roberts PhD,Male,49.0,2022-03-18,Silver,Matthewfort,North Carolina,False
+CUST2057,Bethany Vincent,Other,52.0,2023-08-03,Gold,East Devin,Tennessee,True
+CUST2058,Sharon Robinson,Male,58.0,2023-12-15,Silver,West Steven,Arkansas,True
+CUST2059,Ashley Brooks,Other,54.0,2022-08-31,Silver,Baxterfort,Texas,False
+CUST2060,Natalie Barber,Male,63.0,2022-04-21,Platinum,South Dana,Texas,True
+CUST2061,David Chambers,Male,36.0,2024-06-29,Platinum,New Johnfort,North Dakota,True
+CUST2062,Rachel Bennett,Female,18.0,2021-11-26,Platinum,Bryanberg,Florida,True
+CUST2063,Alan Garza,Other,40.0,2024-02-25,Gold,Port Kellyberg,Rhode Island,True
+CUST2064,Damon Weaver,Male,54.0,2022-11-21,Platinum,Lowefurt,Idaho,True
+CUST2065,Brandi Trujillo,Female,29.0,2022-06-25,Silver,Port Johnstad,Maryland,True
+CUST2066,Timothy Lewis,Other,60.0,2021-08-31,Gold,North Michaelstad,Missouri,True
+CUST2067,Peter Chaney,Male,51.0,2021-08-28,Gold,North Johnnyshire,Vermont,False
+CUST2068,Ralph Buckley,Female,22.0,2022-08-16,Silver,Nathanview,Missouri,True
+CUST2069,Matthew Smith,Other,52.0,2021-12-14,Silver,Adamstad,Alabama,False
+CUST2070,Michael Phillips,Other,50.0,2024-07-21,Platinum,Williamston,Delaware,True
+CUST2071,Joshua Kelly,Other,19.0,2022-11-26,Gold,Turnerland,Georgia,True
+CUST2072,Christopher Morgan,Female,48.0,2024-05-17,Silver,Phillipsmouth,Washington,False
+CUST2073,Leslie Sanchez,Male,58.0,2022-02-12,Silver,Lake Kevinberg,Maine,True
+CUST2074,Thomas King,Female,41.0,2022-09-12,Silver,Lake Alexandraton,West Virginia,False
+CUST2075,Jessica Miller,Female,65.0,2023-03-15,Silver,Paulafurt,Wisconsin,True
+CUST2076,Tammy Clark,Male,40.0,2023-09-09,Gold,Crystalberg,New Hampshire,False
+CUST2077,Andrew Berg,Male,40.0,2021-09-11,Silver,Annetteside,Alabama,True
+CUST2078,Nancy Newman,Male,64.0,2022-09-18,Silver,Port Johnfurt,Rhode Island,True
+CUST2079,Brittany Davis,Other,58.0,2022-04-16,Silver,East Ashley,South Carolina,True
+CUST2080,Raymond Grant,Male,55.0,2021-12-24,Gold,North Danamouth,Iowa,True
+CUST2081,Christopher Braun,Other,39.0,2022-01-08,Silver,Richardsonhaven,Missouri,False
+CUST2082,Taylor Murray,Male,20.0,2023-08-01,Silver,South Stevenville,Missouri,False
+CUST2083,John Stephens,Female,52.0,2023-10-30,Gold,North Julia,Montana,True
+CUST2084,Adrian Robinson,Female,59.0,2022-12-25,Gold,New Melissa,Alabama,True
+CUST2085,Ashley Camacho,Male,61.0,2023-04-27,Gold,North David,Maryland,True
+CUST2086,Marie Anderson,Female,62.0,2023-07-15,Silver,Morganborough,Wyoming,False
+CUST2087,Tammy Harris,Female,58.0,2021-12-22,Silver,South Christine,Pennsylvania,False
+CUST2088,Isaac Reese,Male,26.0,2023-05-08,Silver,Port Jenniferview,New Mexico,True
+CUST2089,Eric Beck,Male,63.0,2023-12-18,Gold,Lake Kathryn,North Carolina,True
+CUST2090,Ian May,Female,20.0,2024-06-13,Silver,Gregoryshire,Hawaii,True
+CUST2091,Nicole Martin,Female,30.0,2024-07-09,Silver,Williamchester,Oklahoma,True
+CUST2092,Christina Brown,Male,30.0,2024-06-24,Gold,South Jasonshire,Connecticut,False
+CUST2093,Jacob Hanson,Male,38.0,2022-03-05,Platinum,New Michaelhaven,Tennessee,True
+CUST2094,David Daniel,Female,50.0,2023-03-30,Gold,Cathybury,Florida,True
+CUST2095,Peter Freeman,Female,52.0,2022-09-22,Silver,Justinstad,Rhode Island,False
+CUST2096,Amber Shah,Female,34.0,2022-08-10,Gold,South Brandon,Pennsylvania,True
+CUST2097,Cesar Larson,Male,59.0,2023-11-05,Silver,South Stephaniechester,New Mexico,True
+CUST2098,Brian Obrien,Male,36.0,2023-07-06,Silver,Russellmouth,Wisconsin,False
+CUST2099,Mrs. Sabrina Clark,Female,21.0,2022-06-16,Gold,North Cheryl,Minnesota,True
+CUST2100,Alisha Tucker,Other,39.0,2023-04-30,Platinum,Port Lindsey,Washington,True
+CUST2101,Kelly Cole,Female,25.0,2023-08-23,Silver,Cynthialand,Vermont,True
+CUST2102,Deanna Gibbs,Female,45.0,2021-11-27,Gold,Walterbury,Maine,False
+CUST2103,Mark Buckley,Female,65.0,2024-02-20,Silver,Port Ebony,Minnesota,False
+CUST2104,Adam Tapia,Female,42.0,2023-08-01,Silver,South Michelle,Illinois,False
+CUST2105,Matthew Morris,Female,29.0,2021-12-25,Gold,West Suzannefurt,Michigan,False
+CUST2106,Cory Sherman,Female,62.0,2024-04-19,Silver,Lake Paulfurt,Colorado,False
+CUST2107,Samuel Banks,Female,41.0,2023-02-16,Gold,Diazview,Michigan,True
+CUST2108,John Prince,Other,35.0,2021-11-05,Platinum,Chenview,Washington,True
+CUST2109,Lisa Jones,Male,64.0,2022-07-10,Platinum,Port Williamview,Tennessee,True
+CUST2110,Melissa Richmond,Female,23.0,2023-02-03,Gold,Williamstown,Colorado,True
+CUST2111,Jeremy Walters,Female,56.0,2021-08-21,Silver,Port Rachel,Ohio,True
+CUST2112,Carolyn Avery,Male,52.0,2024-03-18,Silver,Lake Evelynborough,Ohio,True
+CUST2113,Randall Bright,Female,38.0,2023-07-04,Silver,Heatherberg,Louisiana,True
+CUST2114,John Hall,Male,23.0,2021-12-28,Silver,East Johnshire,California,True
+CUST2115,Robin Warren,Female,60.0,2023-11-26,Gold,South James,Kentucky,True
+CUST2116,Andrea Long,Female,37.0,2021-08-31,Platinum,East Laceyberg,Nebraska,False
+CUST2117,Bryan Jones,Female,56.0,2021-09-08,Gold,Lake Elizabethstad,Michigan,True
+CUST2118,Heidi Douglas,Other,45.0,2023-10-22,Platinum,Port Savannah,North Dakota,True
+CUST2119,Chelsea Castillo,Male,62.0,2022-05-05,Silver,Huanghaven,Idaho,True
+CUST2120,Hannah Rocha,Female,40.0,2023-11-30,Gold,Port Charlottehaven,New Jersey,True
+CUST2121,Thomas Mcmillan,Female,20.0,2022-06-08,Gold,South Nancyland,Utah,False
+CUST2122,Laura Woods,Other,40.0,2022-05-02,Platinum,Christinafort,Utah,True
+CUST2123,Brandon Rios,Other,45.0,2023-05-30,Silver,Sanchezhaven,Oregon,False
+CUST2124,Sean Phillips,Female,58.0,2021-08-26,Gold,West Belindabury,Connecticut,True
+CUST2125,Lindsay Savage,Male,22.0,2024-06-02,Silver,New Joshuamouth,New York,False
+CUST2126,Barry Edwards,Other,58.0,2023-10-04,Gold,Laurahaven,North Dakota,False
+CUST2127,Nicholas Henderson,Female,41.0,2023-05-01,Platinum,Port Kevinland,Maine,True
+CUST2128,Shannon Watson MD,Other,65.0,2022-01-31,Gold,Walkerport,Missouri,True
+CUST2129,Vanessa Rangel,Other,28.0,2024-01-28,Silver,Jacobstown,Montana,True
+CUST2130,Tyrone Archer,Male,27.0,2024-01-28,Gold,South Jillfurt,Mississippi,True
+CUST2131,Joseph Martinez,Other,61.0,2024-01-13,Platinum,North Jasonville,Indiana,True
+CUST2132,Sarah Taylor,Female,20.0,2022-07-13,Gold,Jennyview,Ohio,True
+CUST2133,Courtney Jones,Male,22.0,2024-03-14,Gold,Williamberg,Montana,True
+CUST2134,Amanda Thomas,Male,59.0,2023-04-24,Silver,Morrischester,Wisconsin,True
+CUST2135,Kristen Jordan,Female,41.0,2024-07-24,Silver,Brownchester,South Dakota,True
+CUST2136,Jeffrey Griffin,Female,54.0,2023-12-18,Silver,Romanhaven,Mississippi,True
+CUST2137,Jeffery Clark,Male,56.0,2024-06-28,Platinum,North Thomas,Missouri,True
+CUST2138,Amy Bishop,Male,61.0,2024-05-24,Gold,Brownhaven,New York,True
+CUST2139,Kimberly Osborne,Female,41.0,2023-06-12,Gold,Bushton,West Virginia,True
+CUST2140,Cynthia Garcia,Female,46.0,2021-10-08,Silver,Joycehaven,Minnesota,True
+CUST2141,Timothy Bennett,Male,54.0,2024-01-27,Silver,Pageberg,Idaho,True
+CUST2142,Adrian Yang,Male,51.0,2023-08-25,Silver,South Yolandafurt,Illinois,True
+CUST2143,Michael Lowery,Female,43.0,2021-08-02,Platinum,South Jeanville,California,True
+CUST2144,Michael Murray,Female,59.0,2024-05-20,Silver,Adamland,Colorado,True
+CUST2145,Eric Hunt,Female,33.0,2023-06-16,Gold,Mcconnellport,Arizona,True
+CUST2146,Jordan Rogers,Male,19.0,2023-09-22,Silver,East Rachael,Connecticut,True
+CUST2147,Matthew Hunt,Other,29.0,2023-04-18,Silver,East Jonathanberg,Massachusetts,True
+CUST2148,Dr. Hayley Fitzgerald,Female,51.0,2022-01-01,Silver,Claytonberg,Indiana,True
+CUST2149,Stuart Lucas,Female,53.0,2022-12-24,Silver,North Mark,Hawaii,True
+CUST2150,Natalie Anderson,Male,34.0,2024-01-19,Platinum,Michealberg,Arizona,True
+CUST2151,Allison Woods,Female,63.0,2024-05-30,Gold,Gallegosland,Mississippi,True
+CUST2152,William Burgess,Female,31.0,2023-01-23,Platinum,New Justin,Illinois,True
+CUST2153,Amanda Rogers,Other,36.0,2022-06-27,Silver,Georgeshire,Arizona,True
+CUST2154,Mark Wang,Other,49.0,2023-07-31,Silver,South Michael,California,True
+CUST2155,Angel Contreras,Male,25.0,2022-09-14,Gold,Port Jessica,Montana,False
+CUST2156,Amy Cook,Male,22.0,2023-11-21,Silver,Madisonton,Montana,True
+CUST2157,Michael Hart,Female,29.0,2023-05-06,Platinum,Lake Dianefort,Mississippi,True
+CUST2158,Joseph Bailey,Other,46.0,2021-11-17,Silver,Brownton,Mississippi,True
+CUST2159,Dr. Danielle Rojas,Male,61.0,2022-07-19,Silver,Port Thomastown,New Mexico,True
+CUST2160,Stephen Morales,Female,60.0,2023-03-15,Platinum,New Jeremyside,Arkansas,True
+CUST2161,Ryan Briggs,Female,63.0,2024-03-19,Gold,Nancychester,Virginia,True
+CUST2162,Lisa Brewer,Male,53.0,2024-03-10,Platinum,Patrickstad,Alaska,False
+CUST2163,Daniel Saunders,Other,36.0,2024-01-18,Platinum,Joshuaton,West Virginia,True
+CUST2164,Ashley Armstrong,Female,28.0,2021-09-27,Gold,West Kristen,Pennsylvania,True
+CUST2165,Evan Chan,Other,63.0,2022-07-31,Silver,Port Brian,South Carolina,True
+CUST2166,Glenn Gray,Other,58.0,2021-12-26,Gold,Owenville,New Hampshire,True
+CUST2167,Erika Robertson,Male,41.0,2024-03-13,Silver,Hicksburgh,Georgia,True
+CUST2168,Larry Moore,Other,32.0,2024-02-17,Silver,Travisshire,New York,True
+CUST2169,Katherine Smith,Male,30.0,2024-03-14,Silver,Smithberg,Washington,True
+CUST2170,Lydia Lopez,Male,33.0,2022-06-22,Gold,Bradleyfort,Oregon,True
+CUST2171,Morgan Reyes,Female,19.0,2023-02-01,Silver,Gallegosberg,Oregon,True
+CUST2172,Cody Arnold,Female,53.0,2022-10-15,Platinum,Heatherhaven,Illinois,True
+CUST2173,Susan Bray,Other,41.0,2024-03-08,Gold,Duranburgh,Connecticut,True
+CUST2174,Chelsea Cain,Female,53.0,2022-11-03,Gold,West Mariaview,North Carolina,True
+CUST2175,Daniel Santiago,Male,57.0,2023-01-05,Gold,Lake Brandon,Mississippi,False
+CUST2176,Calvin Howard,Male,22.0,2022-07-17,Gold,Jeremychester,Florida,False
+CUST2177,Mia Gray,Female,43.0,2022-01-22,Gold,East Robin,Nevada,True
+CUST2178,Matthew Gordon,Other,64.0,2024-03-07,Platinum,Jacquelineton,Pennsylvania,True
+CUST2179,Whitney Anderson,Female,51.0,2022-03-14,Gold,New Joanne,New York,True
+CUST2180,James Crawford,Female,44.0,2023-12-31,Silver,South Daniel,Indiana,True
+CUST2181,Michelle Hudson,Other,22.0,2022-12-10,Silver,North Matthewmouth,Wisconsin,True
+CUST2182,Donna Hoover,Male,38.0,2023-03-16,Gold,Chasestad,Minnesota,True
+CUST2183,Justin Evans,Other,22.0,2024-05-29,Silver,West Samanthastad,Alabama,True
+CUST2184,Marilyn Salazar,Female,47.0,2021-08-24,Silver,Everettburgh,Mississippi,True
+CUST2185,Jacob Gonzalez,Other,51.0,2023-09-21,Gold,Ashleyport,Alaska,False
+CUST2186,Brenda Andersen,Female,26.0,2022-03-12,Gold,Billyton,New Mexico,True
+CUST2187,Michael Larson,Other,58.0,2024-02-24,Gold,Williamsfurt,Vermont,True
+CUST2188,Nathan Freeman,Other,29.0,2022-06-29,Silver,Ballborough,Arkansas,True
+CUST2189,Ryan Taylor,Male,45.0,2022-07-28,Silver,North Troychester,Indiana,True
+CUST2190,Crystal Charles,Other,21.0,2023-09-13,Platinum,Bradleyville,Massachusetts,False
+CUST2191,Julie Walker,Male,51.0,2023-11-13,Platinum,Port Lisafurt,Illinois,True
+CUST2192,Alexis Schaefer,Male,37.0,2023-07-11,Silver,East Jamesbury,Missouri,True
+CUST2193,Jessica Adams,Male,28.0,2021-10-07,Silver,South Meaganbury,Arizona,True
+CUST2194,Jenna Vargas,Female,63.0,2022-12-31,Gold,Port Christy,Vermont,True
+CUST2195,Linda Mccarthy,Male,40.0,2022-03-04,Silver,New Lawrence,Utah,True
+CUST2196,Rebecca Johnson,Other,36.0,2022-09-13,Silver,Walkerhaven,Connecticut,True
+CUST2197,James Adams,Male,34.0,2021-12-11,Platinum,New Nathanielbury,Iowa,True
+CUST2198,James Galloway,Male,58.0,2023-11-22,Silver,West Michelle,Louisiana,True
+CUST2199,Melissa Evans,Other,35.0,2022-12-02,Gold,Vanessaville,Nevada,True
+CUST2200,Jacqueline Jackson,Male,58.0,2022-04-02,Silver,Penaside,Maine,True
+CUST2201,Jeffrey Gonzalez,Female,57.0,2023-06-14,Silver,Garciahaven,New Mexico,True
+CUST2202,Kristin Fox,Other,23.0,2022-08-19,Gold,Kurtchester,North Dakota,True
+CUST2203,Mark Paul,Other,59.0,2021-12-02,Silver,Goodwintown,South Carolina,True
+CUST2204,Jennifer Stone,Male,55.0,2023-04-20,Platinum,West Melissa,Virginia,True
+CUST2205,Chase Schwartz,Other,27.0,2021-11-19,Gold,South Jennifer,South Carolina,True
+CUST2206,Tiffany Edwards,Male,60.0,2022-12-17,Silver,New Michaelbury,Washington,True
+CUST2207,Terry Mcintosh,Other,64.0,2022-08-28,Gold,East Cynthia,Indiana,False
+CUST2208,Grace Anderson,Other,39.0,2024-02-23,Silver,New Jeffreyport,Pennsylvania,True
+CUST2209,Dawn Dominguez,Other,20.0,2021-09-20,Silver,Lake Jason,Minnesota,True
+CUST2210,Jeffrey Floyd,Male,23.0,2024-04-14,Silver,South Josemouth,Florida,True
+CUST2211,Peggy Santiago,Male,59.0,2021-09-13,Gold,New Kim,Utah,True
+CUST2212,Jon Mcknight,Other,34.0,2023-01-14,Silver,Smithview,Maine,False
+CUST2213,Pamela Knight,Other,31.0,2023-02-03,Silver,Danielside,Arizona,False
+CUST2214,Carlos Mann,Other,44.0,2022-09-17,Silver,Port Cory,Oklahoma,False
+CUST2215,Matthew Tucker,Other,58.0,2024-01-11,Gold,Rachelhaven,Missouri,False
+CUST2216,Robert Adams,Male,49.0,2023-01-25,Platinum,New Robert,West Virginia,True
+CUST2217,John Hill,Other,52.0,2023-06-15,Platinum,East Jason,New York,True
+CUST2218,Eileen Phillips,Female,59.0,2023-08-05,Silver,Priceshire,Illinois,True
+CUST2219,Amanda Chambers,Female,48.0,2021-11-22,Gold,Jennymouth,Connecticut,True
+CUST2220,Mark Elliott,Male,61.0,2022-02-13,Gold,North Shelia,Minnesota,True
+CUST2221,Samantha Carpenter,Female,37.0,2022-01-25,Gold,East Jeffrey,North Dakota,False
+CUST2222,Brandon Johnson,Female,22.0,2024-01-19,Silver,Port Stuart,Michigan,True
+CUST2223,George Dudley,Other,21.0,2022-05-30,Silver,Hernandezburgh,Pennsylvania,True
+CUST2224,Emily Thomas,Male,46.0,2023-03-01,Silver,West Davidtown,Wyoming,True
+CUST2225,Troy Ali Jr.,Female,48.0,2022-06-24,Silver,Stephanieville,New Jersey,False
+CUST2226,Ricardo Hernandez,Female,31.0,2021-11-21,Gold,New Josefurt,Nevada,True
+CUST2227,Anthony King,Female,56.0,2021-08-18,Gold,Rothhaven,Michigan,True
+CUST2228,Amanda Simmons,Male,38.0,2023-06-09,Silver,Shannonmouth,Georgia,True
+CUST2229,Misty Santos,Other,38.0,2023-08-03,Silver,Watsonmouth,Iowa,True
+CUST2230,David Davila,Other,40.0,2022-05-27,Platinum,West Scott,Mississippi,False
+CUST2231,Nicholas Gibson,Female,26.0,2022-01-26,Gold,New James,Arkansas,True
+CUST2232,Lindsay Prince,Female,50.0,2024-04-08,Gold,Stephanieborough,Florida,True
+CUST2233,Brooke Byrd,Other,24.0,2024-04-15,Silver,Melanieport,Ohio,True
+CUST2234,Kari Kelly,Female,33.0,2023-12-02,Silver,New Lisa,Michigan,True
+CUST2235,Laura Perry,Female,25.0,2024-06-19,Silver,New Carolyn,Iowa,False
+CUST2236,Michelle Rose,Female,46.0,2023-05-07,Platinum,South Candace,Missouri,True
+CUST2237,Tina Key MD,Male,27.0,2023-12-22,Gold,Rachelfurt,Hawaii,False
+CUST2238,Derrick Allen,Male,21.0,2021-09-04,Silver,Andersonshire,New Jersey,True
+CUST2239,John Lin,Female,42.0,2024-04-12,Silver,Smithton,South Carolina,True
+CUST2240,Laura Rivera,Other,44.0,2022-11-06,Silver,West Tiffany,New Mexico,False
+CUST2241,Valerie Fuller,Male,28.0,2022-03-15,Platinum,Jenniferchester,Wisconsin,True
+CUST2242,Jonathon Griffin,Female,54.0,2024-03-17,Silver,Port Travis,Alabama,False
+CUST2243,Connor Mcbride,Other,38.0,2023-08-29,Silver,Angelaberg,Tennessee,False
+CUST2244,Katherine Castillo,Male,28.0,2023-10-29,Gold,Jennifertown,Montana,True
+CUST2245,Matthew Craig,Female,50.0,2022-07-10,Silver,Gonzalezhaven,Florida,True
+CUST2246,Darren Collins,Female,49.0,2024-06-01,Gold,Port Paulberg,Oklahoma,True
+CUST2247,Donald Hill,Female,49.0,2022-06-29,Gold,Vazquezfort,Missouri,True
+CUST2248,Erin Chandler,Male,23.0,2024-05-11,Gold,Melaniestad,New Jersey,False
+CUST2249,Tina Jones,Female,50.0,2023-11-30,Platinum,New Jodyberg,Maryland,True
+CUST2250,Paul Gonzalez,Female,33.0,2024-01-03,Platinum,Kellyfort,Alaska,True
+CUST2251,Andrew Morales DDS,Male,55.0,2023-02-19,Gold,South Lisaside,Maine,False
+CUST2252,Leah May,Female,21.0,2022-08-03,Silver,Morrisonstad,Alaska,True
+CUST2253,Robert Perry,Male,36.0,2024-03-23,Platinum,East Sarah,Virginia,True
+CUST2254,Jeffrey Cole,Female,56.0,2022-07-25,Platinum,Wrightbury,North Dakota,False
+CUST2255,Jacob Hurst,Other,61.0,2024-05-15,Silver,North Christinaton,North Carolina,False
+CUST2256,Kristen Nguyen,Female,36.0,2023-10-04,Silver,Justinchester,Colorado,True
+CUST2257,Larry Adams,Other,18.0,2023-03-27,Gold,Arielton,Colorado,False
+CUST2258,Ashley Miller,Male,45.0,2022-04-27,Silver,Lake Kathleen,Arkansas,True
+CUST2259,Crystal Nelson,Male,34.0,2021-09-04,Gold,Lake Jasonshire,Wisconsin,True
+CUST2260,Tyler Cook,Other,41.0,2024-07-16,Gold,Jameshaven,Ohio,True
+CUST2261,Carlos Maxwell,Female,41.0,2023-12-29,Silver,North Joshua,Pennsylvania,True
+CUST2262,Cody Hughes,Male,43.0,2023-12-02,Platinum,Harrisonland,Illinois,True
+CUST2263,Leah Barber,Male,54.0,2022-03-11,Silver,North Charles,Vermont,False
+CUST2264,Marie Navarro,Other,30.0,2023-04-02,Silver,Patriciafort,Kentucky,False
+CUST2265,Melissa Mathews,Female,53.0,2021-09-13,Gold,Lake Dustinview,Iowa,False
+CUST2266,David Lee,Female,22.0,2023-03-08,Silver,Caseton,Minnesota,True
+CUST2267,John Brewer,Female,50.0,2021-12-08,Gold,Cassandramouth,Utah,False
+CUST2268,Brenda Ponce,Female,53.0,2022-12-04,Gold,South Anthony,Vermont,True
+CUST2269,Vincent Kelley,Female,57.0,2023-04-03,Gold,East Micheleshire,Hawaii,True
+CUST2270,Jacqueline Hawkins,Other,57.0,2023-06-19,Gold,Lindahaven,Oklahoma,True
+CUST2271,Kevin Fox,Male,26.0,2022-02-17,Platinum,Harrisborough,New Hampshire,True
+CUST2272,Austin Collins,Male,43.0,2022-07-02,Silver,West Eric,Nebraska,True
+CUST2273,Joshua Adams,Female,39.0,2023-03-11,Silver,South Tiffany,Missouri,True
+CUST2274,Denise Schultz,Other,41.0,2022-05-15,Silver,East Karenfort,Alabama,True
+CUST2275,Joseph Marshall,Male,30.0,2022-02-14,Silver,Townsendstad,Florida,True
+CUST2276,Bethany Robinson,Other,50.0,2022-08-28,Platinum,Lake Brandon,South Carolina,False
+CUST2277,Jasmine Smith,Female,50.0,2022-11-01,Silver,East Robert,New Hampshire,False
+CUST2278,Joshua Wilson,Male,20.0,2023-11-22,Gold,Elizabethside,Minnesota,True
+CUST2279,Rebecca Miller,Male,26.0,2023-12-26,Silver,Port Allison,South Carolina,True
+CUST2280,Peter Santiago,Other,39.0,2022-07-16,Gold,Lake Tiffany,Arizona,True
+CUST2281,Morgan James,Female,51.0,2021-12-16,Silver,West Tinaside,South Carolina,True
+CUST2282,Michele Martinez,Female,27.0,2023-05-14,Silver,Millsport,Florida,True
+CUST2283,Alison Johnson,Other,50.0,2022-06-21,Silver,Evansfort,Montana,True
+CUST2284,John Simmons,Male,38.0,2022-05-17,Platinum,East Heidi,Hawaii,False
+CUST2285,Samantha Gibson,Other,38.0,2024-06-28,Silver,West Crystalberg,Iowa,False
+CUST2286,Kara Marshall,Male,43.0,2022-08-26,Silver,Matthewsport,Maryland,True
+CUST2287,Amy Ramos,Other,65.0,2022-04-10,Silver,Marvinberg,Oklahoma,True
+CUST2288,Cindy King,Female,55.0,2022-11-09,Platinum,South Teresa,Washington,True
+CUST2289,Angela Curry,Female,50.0,2024-03-26,Silver,Martinezside,Florida,True
+CUST2290,Richard Walker,Other,52.0,2021-11-04,Silver,Michaelview,Nebraska,False
+CUST2291,Levi Gonzalez,Female,63.0,2023-11-03,Gold,West Ricardoview,Oregon,True
+CUST2292,Michael Martinez,Other,37.0,2022-11-17,Gold,Johnsonview,West Virginia,True
+CUST2293,Kimberly Griffin,Female,19.0,2023-10-31,Silver,West Michaelton,New Hampshire,True
+CUST2294,Zachary Harmon,Female,39.0,2021-12-19,Silver,Priceborough,Florida,True
+CUST2295,Sara Riley,Other,25.0,2022-06-06,Platinum,West Douglastown,Ohio,False
+CUST2296,Erica Neal,Female,55.0,2024-07-01,Gold,New Paulland,New Hampshire,True
+CUST2297,Denise Ray,Female,64.0,2024-01-24,Silver,East Brendaborough,Missouri,True
+CUST2298,Omar Hernandez,Other,58.0,2021-11-21,Silver,Lake William,Florida,True
+CUST2299,Colleen Sosa,Male,56.0,2021-08-23,Silver,East Jeffrey,Oregon,True
+CUST2300,Leslie Simpson,Female,34.0,2024-01-30,Gold,Christopherton,Delaware,True
+CUST2301,Jeffrey Anderson,Other,55.0,2021-11-04,Gold,Emilybury,Virginia,True
+CUST2302,Angela Wiley,Other,32.0,2024-06-27,Silver,Mckayfort,North Carolina,True
+CUST2303,Sheila Vasquez,Other,21.0,2022-05-25,Silver,Rodriguezstad,Iowa,True
+CUST2304,Connie Taylor,Other,48.0,2024-02-04,Gold,Port Jenniferfort,Utah,True
+CUST2305,Kelsey Mora,Male,51.0,2023-04-26,Platinum,New Julieland,New Hampshire,True
+CUST2306,Mandy Baker,Other,64.0,2022-02-28,Silver,Joshuachester,Missouri,True
+CUST2307,Stephen Richardson,Other,42.0,2022-12-29,Silver,Waynehaven,Illinois,True
+CUST2308,Kevin Patterson,Male,61.0,2022-12-11,Silver,Jessicatown,Missouri,True
+CUST2309,Katherine Smith,Male,20.0,2023-06-14,Platinum,Moorefort,California,True
+CUST2310,Robert Johnson,Other,62.0,2022-01-03,Gold,Jackietown,Maryland,False
+CUST2311,Harry Sanchez,Male,30.0,2022-05-19,Silver,New Jessica,Mississippi,False
+CUST2312,Amy Hopkins,Male,46.0,2024-05-25,Silver,South William,Vermont,False
+CUST2313,Rebekah Beard,Female,44.0,2022-04-19,Silver,Port Haleymouth,Nevada,True
+CUST2314,Kathy Rodriguez,Male,44.0,2023-02-27,Silver,North Gregory,New York,True
+CUST2315,Frank Lam,Other,31.0,2024-02-10,Gold,Stephenside,Florida,True
+CUST2316,Derek Anderson,Female,50.0,2024-03-22,Silver,North James,Indiana,True
+CUST2317,Alexandra Barrett DDS,Other,48.0,2024-01-24,Gold,Bakerbury,Florida,True
+CUST2318,Dawn Ortiz,Other,64.0,2022-02-12,Platinum,Williamton,Alaska,True
+CUST2319,Tyler Castro,Male,63.0,2023-11-02,Platinum,Jasonshire,Colorado,True
+CUST2320,Cameron Wheeler,Male,51.0,2024-04-14,Silver,Boltonton,Minnesota,True
+CUST2321,Laura Carter,Male,53.0,2022-05-06,Gold,Lake Michael,Utah,True
+CUST2322,Eric Simon,Female,60.0,2022-03-31,Silver,Davisburgh,Louisiana,True
+CUST2323,Phillip Joseph,Female,51.0,2022-07-01,Platinum,West Peterland,Montana,True
+CUST2324,Brandon Moore,Female,38.0,2023-09-14,Silver,East Stacey,New York,True
+CUST2325,Angelica Copeland,Male,47.0,2023-07-24,Silver,West Sarah,California,True
+CUST2326,Gary Gutierrez III,Other,39.0,2024-07-16,Silver,Lake Kevin,Minnesota,True
+CUST2327,Joseph Rojas,Other,40.0,2022-08-09,Gold,East Danielbury,Minnesota,True
+CUST2328,Keith Bryant,Other,64.0,2024-06-06,Platinum,Thomasshire,Missouri,False
+CUST2329,Rachel Campos,Other,59.0,2023-11-12,Silver,South Rachel,Montana,True
+CUST2330,Tina Ward,Other,34.0,2023-10-15,Silver,Whitehaven,Maryland,False
+CUST2331,Joel Walters,Other,48.0,2023-05-17,Silver,Debraport,Utah,True
+CUST2332,Patricia Alexander,Male,33.0,2024-06-16,Gold,Rhondamouth,Louisiana,True
+CUST2333,George White,Female,53.0,2023-07-11,Silver,East Justin,Alaska,True
+CUST2334,Lisa Benson,Female,32.0,2023-03-09,Gold,New Robertbury,Missouri,True
+CUST2335,Darren Maldonado,Female,36.0,2023-11-24,Gold,East Joeborough,Tennessee,True
+CUST2336,Tonya Dennis,Other,31.0,2022-07-10,Gold,Port Amanda,Colorado,True
+CUST2337,Robert Pratt,Other,63.0,2023-11-23,Platinum,North Kathy,Nevada,True
+CUST2338,Luke Solomon,Female,38.0,2022-01-24,Silver,West Theresahaven,Rhode Island,True
+CUST2339,Rachel Reyes,Female,40.0,2023-10-24,Silver,West Mallory,Connecticut,True
+CUST2340,Christine Fisher,Other,64.0,2023-01-10,Silver,New Susan,Colorado,False
+CUST2341,Tammy Smith,Female,36.0,2022-02-04,Silver,Stephaniehaven,Iowa,True
+CUST2342,Mariah Parker,Male,54.0,2024-05-18,Silver,Hartchester,Alaska,True
+CUST2343,Jeremy Harris,Other,52.0,2023-12-23,Silver,Port Richardville,Kentucky,True
+CUST2344,Richard Gibson,Female,43.0,2022-03-08,Silver,Laurieshire,Montana,True
+CUST2345,John Huber,Female,27.0,2024-02-23,Gold,East Randy,California,True
+CUST2346,Kenneth Johns,Female,20.0,2021-08-31,Silver,Joseville,Illinois,True
+CUST2347,Mr. Brent Perkins,Female,63.0,2022-12-13,Platinum,Traceymouth,Vermont,True
+CUST2348,Patricia Gonzalez,Male,40.0,2024-03-09,Gold,Raymondstad,North Carolina,True
+CUST2349,Lori Pugh,Female,59.0,2022-02-11,Gold,Port Kevinland,Ohio,True
+CUST2350,Barbara Adams,Female,65.0,2021-10-24,Gold,Jaredville,Wisconsin,False
+CUST2351,Rebecca Rivas,Female,31.0,2023-03-09,Silver,Monteshaven,Kansas,True
+CUST2352,Stephanie Jackson,Male,52.0,2022-01-08,Gold,Jamesmouth,North Carolina,False
+CUST2353,James Vargas,Female,53.0,2024-06-03,Silver,South Leslie,Idaho,True
+CUST2354,Dr. Mark Humphrey Jr.,Other,35.0,2023-10-21,Silver,Howardland,New Hampshire,True
+CUST2355,Sara Santos,Male,24.0,2022-06-01,Gold,Gillland,Tennessee,True
+CUST2356,Allison Phelps,Other,65.0,2021-08-03,Silver,Rebeccastad,New York,True
+CUST2357,Adam Brewer,Other,33.0,2021-11-26,Silver,West Jenniferhaven,Delaware,True
+CUST2358,Amanda White,Male,21.0,2023-10-09,Gold,West Matthew,New York,False
+CUST2359,Pamela Williams,Other,51.0,2023-02-22,Platinum,Ruizburgh,New Mexico,True
+CUST2360,Diane Hill,Male,58.0,2024-01-19,Platinum,Robertfurt,Kentucky,True
+CUST2361,Eduardo Powell,Male,21.0,2023-09-25,Gold,West Alexis,Pennsylvania,True
+CUST2362,Brenda Martin,Male,44.0,2023-07-18,Silver,New Carol,North Dakota,True
+CUST2363,Meredith Jones,Female,63.0,2022-09-10,Silver,Matthewton,Kentucky,True
+CUST2364,Kathy Pena,Female,24.0,2022-04-02,Silver,Lake Kristentown,Georgia,True
+CUST2365,Melissa Hester,Other,26.0,2021-11-03,Gold,New Richard,Utah,True
+CUST2366,Curtis Ramirez,Male,53.0,2021-11-30,Silver,North Scottfort,Arkansas,False
+CUST2367,Brett Henry,Male,44.0,2022-11-07,Platinum,West Steven,Rhode Island,True
+CUST2368,Stephanie Sanchez,Other,48.0,2021-10-24,Platinum,West Nicole,Delaware,True
+CUST2369,Janet Phelps,Female,59.0,2023-07-06,Platinum,Matthewmouth,Missouri,True
+CUST2370,Keith Peters,Male,36.0,2023-08-13,Silver,Brownland,Michigan,True
+CUST2371,James Price,Female,36.0,2021-11-21,Silver,Port Stevenfort,New York,True
+CUST2372,Ariel Cook,Other,21.0,2022-09-03,Gold,New Staceyburgh,Nebraska,True
+CUST2373,Frederick Carr,Male,59.0,2022-02-11,Gold,Jasonburgh,Louisiana,True
+CUST2374,Donald Wilson,Other,32.0,2021-11-25,Platinum,New Elizabeth,Virginia,True
+CUST2375,Brenda Brooks,Other,65.0,2023-06-06,Silver,Lake Jaredview,Illinois,True
+CUST2376,Brent Johnson,Other,20.0,2022-06-18,Silver,Port Tammy,Louisiana,True
+CUST2377,Jim Sellers,Male,44.0,2023-01-29,Platinum,Port Steven,Tennessee,True
+CUST2378,Douglas Thompson,Male,20.0,2022-09-18,Silver,East Robertstad,New Mexico,False
+CUST2379,Nicole Mcconnell,Female,49.0,2022-01-13,Gold,Velazquezfort,Georgia,True
+CUST2380,Brandon Garcia,Male,65.0,2023-10-19,Silver,Nelsonstad,New Jersey,True
+CUST2381,Joshua Acevedo,Female,20.0,2022-01-31,Gold,West Gary,Oregon,True
+CUST2382,Brianna Harding,Male,37.0,2022-02-23,Silver,Aguilarstad,Tennessee,False
+CUST2383,Robert Le,Other,56.0,2024-03-29,Gold,West Jasonport,Arkansas,True
+CUST2384,David Bryant,Male,39.0,2023-01-21,Gold,North Rachel,Arkansas,True
+CUST2385,Tammy Murray,Female,47.0,2023-08-03,Silver,Austinview,Alaska,True
+CUST2386,Chase Graves,Other,52.0,2024-07-12,Platinum,South Howardland,Oklahoma,True
+CUST2387,James Powell,Other,49.0,2023-10-26,Gold,East William,Arkansas,True
+CUST2388,David Wilson,Male,50.0,2023-02-27,Silver,North Katelynhaven,Nebraska,True
+CUST2389,Kimberly Moss,Female,35.0,2024-07-27,Silver,South Keith,Texas,True
+CUST2390,Paul Baker,Male,25.0,2022-03-21,Silver,Littlehaven,Kentucky,False
+CUST2391,Ronald Hays,Female,28.0,2023-08-31,Platinum,West Michael,Wyoming,True
+CUST2392,James Smith,Other,47.0,2024-01-24,Platinum,East Joel,Alabama,True
+CUST2393,Courtney Brooks,Other,34.0,2023-10-07,Platinum,Lake Lisa,Mississippi,True
+CUST2394,Mrs. Christina Miller,Other,29.0,2022-11-20,Platinum,Burkeberg,North Dakota,False
+CUST2395,Isabella Chandler,Male,65.0,2023-12-12,Gold,Kimberlystad,Nebraska,False
+CUST2396,Sheri Perez,Female,36.0,2022-11-14,Gold,Port Larrystad,Arkansas,True
+CUST2397,Victor Gomez,Other,61.0,2023-07-06,Silver,Johnsonstad,Arkansas,True
+CUST2398,Michael Barnett,Male,29.0,2022-05-28,Silver,New Victor,Wisconsin,True
+CUST2399,Brandon Acosta,Other,58.0,2024-04-13,Platinum,Webbland,California,True
+CUST2400,Sandra Lynch,Female,45.0,2021-08-19,Gold,Lake Stephanie,Minnesota,False
+CUST2401,Gwendolyn Schroeder,Other,38.0,2021-08-12,Platinum,Moorefort,Wyoming,False
+CUST2402,Brent Davis,Male,43.0,2024-06-09,Gold,New Walterstad,Nebraska,False
+CUST2403,Cory Dean,Other,24.0,2024-01-17,Gold,Wilcoxton,Virginia,True
+CUST2404,Kenneth Kramer,Male,26.0,2021-12-30,Silver,Matthewbury,North Carolina,True
+CUST2405,Maria Henry,Female,38.0,2022-06-21,Silver,New Brandimouth,Kentucky,True
+CUST2406,Regina Griffin,Male,18.0,2024-04-16,Gold,Leonardhaven,New York,True
+CUST2407,Cathy Parker,Female,42.0,2023-08-28,Gold,Shaunland,Illinois,True
+CUST2408,Mary Chandler,Male,46.0,2022-02-04,Silver,Lake Heathermouth,Michigan,True
+CUST2409,Larry Smith,Female,39.0,2021-11-03,Silver,Davisbury,Illinois,True
+CUST2410,David Caldwell,Female,55.0,2023-02-16,Platinum,East Jesse,Delaware,True
+CUST2411,Karen Arnold,Other,54.0,2024-07-30,Gold,Michaelberg,Utah,True
+CUST2412,Raven Thompson MD,Male,34.0,2023-09-19,Silver,Lake Alexander,Washington,False
+CUST2413,Anna Rodgers,Other,41.0,2022-11-03,Gold,Wendymouth,New Hampshire,True
+CUST2414,Brandon Archer,Other,33.0,2023-06-07,Silver,Campbellfurt,Delaware,True
+CUST2415,Teresa Barry,Male,60.0,2022-09-23,Silver,Michaelburgh,Indiana,True
+CUST2416,Ryan Price,Male,47.0,2022-11-03,Silver,West Christophershire,Arizona,True
+CUST2417,Erin Peterson,Female,28.0,2022-02-21,Silver,Mikeshire,Connecticut,False
+CUST2418,Julian Villa PhD,Female,61.0,2022-08-23,Platinum,South Sharonshire,New Jersey,True
+CUST2419,Jasmine Bell,Other,63.0,2022-01-02,Gold,Kimberlyland,New Hampshire,True
+CUST2420,Meredith Buck,Female,62.0,2022-08-22,Silver,Port Reginald,North Dakota,True
+CUST2421,Mrs. Jessica Watts MD,Male,58.0,2024-02-13,Platinum,East Melissamouth,Nevada,False
+CUST2422,Erin Burns,Female,41.0,2024-01-20,Gold,Ambershire,West Virginia,True
+CUST2423,Anne Jackson,Other,32.0,2021-11-26,Gold,North Larry,Oregon,True
+CUST2424,Elizabeth Brooks,Male,26.0,2024-07-21,Gold,West Ryanburgh,Wyoming,True
+CUST2425,Robert Thompson,Female,27.0,2022-12-25,Gold,North Heather,Wyoming,True
+CUST2426,Lisa Moon,Female,65.0,2021-11-28,Silver,Lake Matthewfurt,Colorado,False
+CUST2427,Patricia Rodriguez,Other,41.0,2023-07-18,Silver,New Sandrafort,Iowa,True
+CUST2428,Desiree Montes,Female,62.0,2024-03-31,Silver,Burkemouth,South Carolina,True
+CUST2429,Mr. Blake Diaz,Other,48.0,2023-07-10,Silver,North Jessicahaven,New Mexico,True
+CUST2430,Donald Sloan,Other,60.0,2022-06-11,Platinum,Davidsonstad,Washington,True
+CUST2431,Lawrence Brown,Male,33.0,2023-11-19,Platinum,Amandashire,Iowa,True
+CUST2432,John Warner,Other,56.0,2022-05-03,Silver,Charlesville,Louisiana,True
+CUST2433,Allen Black,Male,51.0,2023-08-14,Gold,Georgehaven,Wisconsin,True
+CUST2434,Shane Charles,Female,51.0,2022-11-28,Silver,Stephenhaven,North Dakota,True
+CUST2435,Todd Morris,Other,41.0,2024-01-28,Platinum,Millsport,Texas,False
+CUST2436,Henry Fisher,Male,54.0,2022-09-01,Platinum,West Donald,Maine,True
+CUST2437,George Ruiz,Male,21.0,2023-03-17,Gold,Huffmanland,Tennessee,True
+CUST2438,Amy Alvarez,Other,50.0,2021-08-09,Silver,Boothfurt,Mississippi,True
+CUST2439,Kathryn Phillips,Male,54.0,2024-04-29,Gold,Ingramton,New York,True
+CUST2440,Brittany Benson,Other,27.0,2022-06-12,Silver,West Linda,California,False
+CUST2441,Mario Phillips,Male,38.0,2023-12-22,Silver,Ramirezberg,Washington,True
+CUST2442,Dr. Michael Hopkins Jr.,Other,46.0,2023-01-02,Silver,Solomonmouth,Florida,False
+CUST2443,Jeffrey Levy,Male,61.0,2021-10-08,Gold,Lake Michael,California,True
+CUST2444,Terry Patel,Male,63.0,2023-10-12,Platinum,Moodyberg,Minnesota,False
+CUST2445,Emily Martin,Other,49.0,2023-10-04,Silver,Lake Jennifermouth,South Carolina,True
+CUST2446,Brian Mcdowell,Male,50.0,2022-03-05,Gold,East Ashleyville,New Mexico,True
+CUST2447,David Thompson,Female,21.0,2024-05-18,Silver,Thomaston,Missouri,False
+CUST2448,Laurie Rodriguez,Female,26.0,2024-04-21,Gold,Jonathanfort,Vermont,True
+CUST2449,Renee Flynn,Other,44.0,2023-08-22,Silver,Traceyville,Vermont,True
+CUST2450,Emily Mclean,Female,54.0,2021-10-16,Silver,New Cheryltown,Kentucky,True
+CUST2451,Benjamin Lang,Male,53.0,2021-09-01,Silver,Lake Nicholasshire,Missouri,True
+CUST2452,Jason Washington,Female,61.0,2021-11-12,Gold,Lake William,New Hampshire,True
+CUST2453,Brittany Harrison,Female,64.0,2023-11-20,Platinum,North Alexandra,Arkansas,True
+CUST2454,Monica Bird,Male,43.0,2023-10-17,Silver,North Wayne,Wyoming,True
+CUST2455,Charles Phillips,Female,18.0,2023-07-01,Silver,Rosariobury,Idaho,True
+CUST2456,Corey Rojas,Other,31.0,2022-12-29,Gold,West Elizabeth,New York,False
+CUST2457,Johnny Williams,Other,22.0,2022-10-01,Silver,Robertstad,California,True
+CUST2458,Diana Anderson,Male,45.0,2023-08-13,Gold,Lake Alanside,Ohio,False
+CUST2459,Cynthia Mitchell,Female,62.0,2023-02-17,Silver,Darrelltown,Florida,True
+CUST2460,Kevin Lynn,Male,52.0,2024-06-02,Silver,West Scottchester,Indiana,True
+CUST2461,Christine Gross,Male,22.0,2021-10-07,Platinum,New Lisa,Alaska,True
+CUST2462,William Moore,Female,20.0,2021-11-25,Silver,New Marissa,Florida,False
+CUST2463,Jamie Tanner,Female,44.0,2022-03-10,Platinum,Port Marie,Massachusetts,False
+CUST2464,Joshua Carney,Male,26.0,2023-08-30,Gold,East Anthony,Hawaii,True
+CUST2465,Kristin Mays,Other,64.0,2021-10-25,Gold,Seanhaven,New Mexico,True
+CUST2466,Jay Flores,Other,44.0,2021-09-10,Silver,Daniellehaven,Maryland,True
+CUST2467,Austin Alvarez,Female,42.0,2023-05-08,Gold,Port Sarah,Delaware,True
+CUST2468,Michelle Smith,Female,42.0,2022-01-25,Gold,Katherineborough,North Dakota,True
+CUST2469,Joshua Lee,Female,23.0,2021-10-01,Platinum,Loweport,West Virginia,True
+CUST2470,Sara Franklin,Other,60.0,2022-06-29,Silver,Port Barrymouth,West Virginia,True
+CUST2471,Candice Brown,Other,26.0,2022-03-10,Silver,Kimberlybury,Washington,True
+CUST2472,John Jackson,Other,40.0,2024-07-02,Gold,Wongstad,Hawaii,True
+CUST2473,Stephanie Alexander,Male,29.0,2024-01-05,Gold,North Miguelville,Vermont,True
+CUST2474,Sarah Taylor,Other,43.0,2022-08-20,Silver,Port Melindaburgh,Arizona,False
+CUST2475,Patricia Flores,Other,26.0,2023-07-14,Platinum,Aliciaport,Florida,True
+CUST2476,Kimberly Hughes,Other,32.0,2024-03-17,Gold,South Amberside,Massachusetts,True
+CUST2477,Peter Watson,Male,19.0,2022-03-16,Platinum,Codybury,Iowa,True
+CUST2478,Sandra Parker,Female,47.0,2021-10-27,Gold,Juliatown,Delaware,False
+CUST2479,Nicholas Morrison,Other,64.0,2022-06-30,Silver,Sarahmouth,Wisconsin,False
+CUST2480,Tracy Mercado,Other,45.0,2022-12-15,Silver,East Sara,Louisiana,True
+CUST2481,David Olson,Other,42.0,2022-03-21,Silver,Lake Joseview,Colorado,False
+CUST2482,Amy Estes,Male,33.0,2022-04-15,Platinum,New Jerry,New Jersey,True
+CUST2483,Michelle Hunt,Female,40.0,2023-05-31,Gold,West Donald,Idaho,True
+CUST2484,Matthew Ellis,Male,35.0,2022-08-07,Platinum,Lake Amanda,Maryland,True
+CUST2485,Valerie Butler,Male,64.0,2024-06-16,Silver,Woodwardshire,Michigan,True
+CUST2486,Dennis Williams,Male,20.0,2022-03-30,Gold,Michaelchester,Connecticut,True
+CUST2487,Mario Wilson,Other,44.0,2022-03-25,Silver,Port Leroybury,Oklahoma,True
+CUST2488,Willie Jackson,Other,19.0,2021-10-02,Platinum,Teresaborough,Texas,True
+CUST2489,Heidi Hall,Male,31.0,2022-10-20,Gold,New Tyler,Delaware,False
+CUST2490,Charles Stokes,Male,24.0,2021-10-19,Silver,South Wayne,Kentucky,True
+CUST2491,David Snyder,Other,20.0,2022-09-28,Gold,Steveville,Indiana,False
+CUST2492,Morgan Walters,Female,56.0,2024-04-14,Gold,Lloydborough,Minnesota,False
+CUST2493,Jeffery Murray,Other,63.0,2024-07-19,Silver,Kathyberg,Texas,True
+CUST2494,Crystal Burke,Male,33.0,2024-07-08,Gold,South David,Virginia,False
+CUST2495,Helen Sanchez,Other,20.0,2022-11-20,Silver,North Misty,Alabama,False
+CUST2496,Michele Hughes,Female,46.0,2022-04-10,Gold,West James,New Hampshire,True
+CUST2497,Elizabeth Merritt,Male,52.0,2021-11-07,Silver,Wardbury,Alabama,False
+CUST2498,Ariana Chang,Male,21.0,2023-08-20,Silver,South Connor,Montana,True
+CUST2499,Christine Jones,Male,50.0,2024-06-14,Silver,East Heather,Wyoming,False
+CUST2500,Sarah Rose,Female,32.0,2022-07-15,Gold,South Zachary,New York,True
+CUST2501,Megan Olson,Other,54.0,2022-04-09,Silver,Littleton,Massachusetts,True
+CUST2502,Penny Silva,Female,54.0,2022-02-14,Gold,North David,Louisiana,False
+CUST2503,Kathryn Molina,Other,61.0,2024-03-15,Platinum,East Jordanport,Nebraska,True
+CUST2504,Peter Ingram,Female,33.0,2022-03-05,Gold,Vanessabury,South Carolina,True
+CUST2505,Louis Jones,Female,27.0,2024-07-27,Gold,Christinabury,Maryland,True
+CUST2506,Christopher Werner,Other,51.0,2022-07-21,Silver,Alejandroshire,Pennsylvania,True
+CUST2507,Jerry Mcintosh,Male,44.0,2022-01-07,Gold,Brownburgh,New Hampshire,True
+CUST2508,Beth Phillips,Female,35.0,2023-04-15,Gold,West Oliviaton,New Mexico,True
+CUST2509,Scott Wang,Male,53.0,2023-01-31,Silver,Howardmouth,Ohio,True
+CUST2510,Anne Murphy,Other,65.0,2024-02-20,Silver,South Amber,Nebraska,True
+CUST2511,Michelle Miller,Male,58.0,2023-07-28,Gold,South Brittanyton,New York,True
+CUST2512,Annette Wong,Other,45.0,2022-12-16,Silver,Williamchester,Massachusetts,True
+CUST2513,Sean Parsons,Other,49.0,2022-05-19,Platinum,Baxtermouth,Texas,True
+CUST2514,Daniel Martinez,Male,40.0,2023-03-02,Gold,South Monica,Hawaii,True
+CUST2515,Richard Hansen,Other,60.0,2024-07-29,Silver,Elizabethfurt,Hawaii,True
+CUST2516,Philip Caldwell,Female,51.0,2024-01-27,Gold,New William,Hawaii,True
+CUST2517,Mark Savage,Female,62.0,2021-09-30,Silver,East Lauramouth,Mississippi,True
+CUST2518,Geoffrey Jones,Female,44.0,2022-02-27,Silver,Danielmouth,Minnesota,False
+CUST2519,Charles Watson,Male,37.0,2022-01-23,Silver,East Mary,Georgia,True
+CUST2520,David Russell,Female,29.0,2021-12-24,Silver,East Amanda,Oklahoma,False
+CUST2521,Karl Gonzales,Other,48.0,2024-07-01,Silver,East Aaron,Tennessee,True
+CUST2522,Pamela Perry,Male,32.0,2022-09-14,Gold,Markshire,Illinois,True
+CUST2523,Veronica Chan,Female,63.0,2021-09-07,Silver,New Dawnville,North Carolina,True
+CUST2524,Tiffany Gonzalez,Male,47.0,2022-12-26,Silver,Smithtown,Wyoming,True
+CUST2525,Yvette Newman,Male,53.0,2022-09-07,Silver,West Erinborough,Montana,True
+CUST2526,Michael Gibson,Female,44.0,2022-07-21,Silver,Melissaburgh,South Carolina,True
+CUST2527,Julie Williams,Other,51.0,2022-11-28,Gold,North Cindy,New Jersey,False
+CUST2528,James Walls DDS,Male,42.0,2023-04-15,Gold,Carrieview,Louisiana,True
+CUST2529,Heather Mayo,Male,34.0,2024-05-12,Silver,Caseyborough,Arizona,False
+CUST2530,Aaron Payne,Male,39.0,2022-01-21,Silver,New Scottfurt,Arkansas,True
+CUST2531,Donald Barton,Other,23.0,2023-03-20,Gold,New Karenton,Massachusetts,True
+CUST2532,Stephen Brown,Female,41.0,2023-02-10,Gold,Jacksonbury,New Mexico,True
+CUST2533,Thomas Rivera,Male,52.0,2024-03-24,Silver,New Amber,Wisconsin,False
+CUST2534,Michael Phillips,Other,30.0,2023-05-05,Silver,East Kellymouth,California,True
+CUST2535,Alexander Cohen,Male,35.0,2022-10-12,Gold,Nelsonstad,Louisiana,True
+CUST2536,Deborah Taylor,Female,61.0,2022-02-13,Silver,Hamiltonside,Colorado,True
+CUST2537,Jordan Delgado,Other,56.0,2024-04-05,Gold,Jenniferview,Colorado,False
+CUST2538,Daniel Flores,Male,22.0,2021-11-01,Platinum,Georgeborough,Wisconsin,True
+CUST2539,Calvin Smith,Male,55.0,2022-04-16,Silver,Jonathantown,Montana,False
+CUST2540,James Martin,Other,60.0,2021-08-27,Gold,Gregoryland,Oregon,False
+CUST2541,Daniel Cantu,Other,31.0,2022-10-31,Silver,Robertsland,Alaska,True
+CUST2542,Danielle Steele,Female,31.0,2024-05-28,Gold,North Michael,New York,True
+CUST2543,Daniel Morgan,Female,37.0,2023-06-15,Silver,Christopherbury,Alaska,True
+CUST2544,Jennifer Wood,Male,31.0,2023-07-29,Gold,East Lisaport,Massachusetts,True
+CUST2545,Patricia Kelly,Male,65.0,2021-11-17,Silver,Lake Brittany,California,False
+CUST2546,Mark Coleman,Male,65.0,2023-03-14,Silver,Russellfurt,Wyoming,False
+CUST2547,Sally Anderson,Female,33.0,2023-10-25,Silver,Port Sarah,Oklahoma,True
+CUST2548,Peter Nelson,Other,56.0,2021-09-20,Platinum,Port Charlesshire,South Carolina,True
+CUST2549,Julia Woodard,Other,31.0,2022-06-29,Silver,Douglasborough,Maryland,True
+CUST2550,Anthony Nguyen,Female,33.0,2021-11-25,Silver,Joelmouth,Hawaii,True
+CUST2551,Gerald Ford,Other,38.0,2023-06-17,Platinum,Port Cassandra,Iowa,True
+CUST2552,Ashlee Valentine,Female,42.0,2022-08-15,Silver,South Kristi,Alabama,True
+CUST2553,Christine Long,Female,52.0,2021-08-13,Gold,Bellmouth,West Virginia,True
+CUST2554,Brandon Boyer,Other,40.0,2024-01-26,Gold,West Christopherside,Idaho,True
+CUST2555,Craig Cruz,Female,34.0,2024-04-09,Gold,West Sandra,Mississippi,True
+CUST2556,Nicholas Smith,Female,50.0,2023-08-25,Gold,Lake Carlside,New Mexico,True
+CUST2557,Jason Davis,Female,47.0,2022-02-21,Silver,New Pamelachester,Rhode Island,False
+CUST2558,Grant Gregory,Male,64.0,2024-05-27,Gold,Burchtown,Vermont,True
+CUST2559,Melissa Roberts,Female,38.0,2022-08-03,Silver,Victorside,Idaho,True
+CUST2560,Sarah Todd,Male,41.0,2023-02-05,Silver,West Kristenland,Florida,True
+CUST2561,Anthony Gonzalez,Female,44.0,2022-03-01,Silver,South Christinachester,Georgia,True
+CUST2562,Dana Williams,Male,54.0,2023-09-15,Gold,East Mason,Kentucky,True
+CUST2563,Michael Donaldson,Male,65.0,2024-05-02,Gold,Adamberg,Louisiana,True
+CUST2564,Gerald Stuart,Male,19.0,2021-09-30,Platinum,Nicolefort,Indiana,False
+CUST2565,Lisa Mason,Female,53.0,2023-08-14,Platinum,North Donald,Michigan,False
+CUST2566,Paul Daniels,Other,55.0,2022-11-12,Platinum,New Randy,Virginia,True
+CUST2567,Alexandria Webb MD,Other,44.0,2022-02-07,Silver,New Brittneybury,New Jersey,True
+CUST2568,Justin Montoya,Female,27.0,2024-01-02,Gold,Lake Erinville,Illinois,True
+CUST2569,Ronnie Olson,Male,39.0,2023-02-03,Gold,Gibsonmouth,South Carolina,True
+CUST2570,Jessica Powell,Male,42.0,2022-07-02,Silver,New Richard,Utah,False
+CUST2571,Craig Fuller DDS,Other,33.0,2022-12-17,Gold,Carolynland,Massachusetts,True
+CUST2572,Diane Moreno,Female,53.0,2023-07-04,Silver,Elliston,Idaho,True
+CUST2573,Victoria Pena,Other,61.0,2023-05-17,Platinum,New Phillip,Indiana,True
+CUST2574,Laura Smith,Female,34.0,2022-11-27,Gold,Cynthiamouth,Texas,True
+CUST2575,Stacey Williams,Female,64.0,2024-02-05,Gold,South Allisonview,Alabama,True
+CUST2576,Grant Robles,Other,65.0,2022-06-02,Gold,Emilyfurt,Rhode Island,True
+CUST2577,Emily Jefferson,Female,47.0,2022-03-29,Silver,South Thomasshire,Arizona,True
+CUST2578,Edward Turner,Male,64.0,2021-12-12,Platinum,Port Michael,Illinois,True
+CUST2579,Michael Blackwell,Female,28.0,2023-10-21,Platinum,Gregorystad,Massachusetts,True
+CUST2580,Tina Cooper,Male,64.0,2022-07-29,Silver,Myersbury,Michigan,True
+CUST2581,Dana Clay,Other,49.0,2023-02-18,Silver,Alyssaland,South Dakota,True
+CUST2582,Bonnie Walker,Male,52.0,2022-04-17,Silver,Chambersstad,Michigan,True
+CUST2583,Juan Richards,Other,21.0,2022-11-12,Platinum,East Leah,Oklahoma,True
+CUST2584,Andrea Douglas,Other,20.0,2022-09-28,Gold,Reyesside,Arkansas,True
+CUST2585,Michael Bell,Male,60.0,2023-07-25,Gold,Chasechester,Vermont,True
+CUST2586,Dr. Christina Kim MD,Male,18.0,2023-12-16,Silver,Racheltown,New Jersey,True
+CUST2587,Virginia Moran,Female,26.0,2023-03-08,Silver,Rhondamouth,Delaware,True
+CUST2588,Tina Lynch,Other,32.0,2021-11-16,Gold,New Joshua,Maine,False
+CUST2589,Mr. Timothy Riley,Male,63.0,2023-09-10,Platinum,East Kevinshire,Indiana,True
+CUST2590,Karen Curry,Male,18.0,2024-01-25,Silver,West Arthur,Maryland,True
+CUST2591,Scott Nelson,Male,50.0,2022-04-10,Silver,Rodriguezchester,California,True
+CUST2592,William Bennett,Female,41.0,2021-08-20,Gold,Hannahbury,Tennessee,True
+CUST2593,Holly Prince,Male,57.0,2022-07-18,Silver,New Natalie,Indiana,True
+CUST2594,Leah Barrera,Other,60.0,2023-11-06,Platinum,South Alexa,Hawaii,True
+CUST2595,Thomas Harris,Other,48.0,2023-07-31,Silver,Allenland,Montana,False
+CUST2596,Jamie Skinner,Other,49.0,2022-11-25,Platinum,North Charleneshire,Maine,True
+CUST2597,Amanda Bishop,Male,18.0,2022-07-02,Silver,Rebeccastad,Pennsylvania,True
+CUST2598,David Garcia,Other,53.0,2022-01-18,Platinum,Armstrongtown,Mississippi,False
+CUST2599,Brittany Arias,Female,18.0,2023-06-17,Silver,Lake Derrick,Indiana,True
+CUST2600,Harold Graham,Male,51.0,2024-02-12,Gold,West Sean,Arizona,True
+CUST2601,Crystal Carpenter,Other,35.0,2022-02-11,Silver,Bowerston,Wisconsin,False
+CUST2602,Theodore Maxwell,Other,36.0,2023-06-26,Gold,Sherryland,Iowa,False
+CUST2603,Amanda Turner,Male,50.0,2024-07-15,Platinum,Mitchellland,Virginia,True
+CUST2604,Victoria Baxter,Other,61.0,2023-12-30,Silver,South Michael,Minnesota,True
+CUST2605,Edwin Alvarez,Female,29.0,2021-11-17,Silver,West Lisa,Nevada,True
+CUST2606,Juan Hudson,Male,24.0,2023-06-07,Silver,East Erikchester,North Carolina,True
+CUST2607,Devon Norris,Other,27.0,2022-06-24,Silver,Jasonside,Virginia,True
+CUST2608,Scott Miller,Male,30.0,2023-10-23,Silver,Kelleyborough,Idaho,True
+CUST2609,Jeremy Adams,Other,51.0,2023-10-26,Gold,Williamburgh,Idaho,True
+CUST2610,Jessica Harris,Female,40.0,2022-09-10,Gold,Port Katrinaside,Arkansas,True
+CUST2611,Gabriel Walker,Female,43.0,2022-10-08,Silver,Jasonfurt,New Jersey,True
+CUST2612,Jenna Orr,Male,41.0,2022-01-10,Silver,Jenkinsside,Texas,False
+CUST2613,Christine Brown,Female,47.0,2022-03-26,Silver,Danielsburgh,New Mexico,True
+CUST2614,Richard Brown,Other,33.0,2024-07-22,Silver,Garciaside,New Mexico,True
+CUST2615,Chase Berry,Other,32.0,2023-01-16,Gold,Lopezchester,California,True
+CUST2616,William Cantu,Female,61.0,2023-02-28,Silver,Edwardsmouth,North Dakota,True
+CUST2617,James Hardy,Male,59.0,2022-07-06,Silver,Port Michelleport,Mississippi,True
+CUST2618,Tamara Robinson,Other,20.0,2024-07-03,Silver,Lake Morganshire,North Dakota,False
+CUST2619,Courtney Lucas PhD,Male,43.0,2023-10-31,Gold,East Kayla,Missouri,True
+CUST2620,Christopher Turner,Female,42.0,2023-09-10,Silver,Schneiderbury,New Mexico,True
+CUST2621,Aaron West,Other,48.0,2024-03-08,Gold,Bradleyton,Florida,True
+CUST2622,Marc Vazquez,Male,58.0,2022-07-26,Gold,New Justinton,New Jersey,True
+CUST2623,William Smith,Male,62.0,2023-09-28,Gold,North Briana,Washington,True
+CUST2624,Justin Clark,Male,23.0,2021-09-08,Platinum,West William,Montana,True
+CUST2625,Karen Ramirez,Female,45.0,2021-11-23,Gold,Sarahport,South Carolina,True
+CUST2626,Hunter Patel,Other,39.0,2024-06-26,Gold,Weissmouth,Georgia,True
+CUST2627,Vanessa Kim,Other,24.0,2023-07-14,Silver,Kimberlyport,Nebraska,True
+CUST2628,Michael Knapp,Other,20.0,2021-11-08,Gold,Millerland,New Jersey,True
+CUST2629,Lisa Chapman DDS,Male,31.0,2022-01-13,Silver,Jenkinsport,Iowa,False
+CUST2630,Angel Jenkins,Other,54.0,2023-11-14,Silver,Port Christineburgh,Vermont,True
+CUST2631,Timothy Hernandez,Female,35.0,2023-09-30,Silver,Deborahfort,Idaho,True
+CUST2632,Paul Hernandez,Male,22.0,2023-09-25,Gold,Carrieport,North Carolina,True
+CUST2633,Cassandra Alvarez,Other,35.0,2023-09-01,Silver,Jessicaville,Connecticut,True
+CUST2634,Joshua Carlson,Other,54.0,2021-11-24,Gold,South Cynthia,Hawaii,True
+CUST2635,Melanie Brown,Other,20.0,2021-08-06,Silver,Martinhaven,Arizona,True
+CUST2636,Lisa Pearson,Male,38.0,2021-09-21,Gold,Adamston,North Carolina,True
+CUST2637,Joseph Johnson,Male,31.0,2023-02-20,Platinum,West Juan,Tennessee,False
+CUST2638,Regina Morris,Other,27.0,2024-02-19,Platinum,North Steven,Washington,True
+CUST2639,Michael Carter,Other,43.0,2023-04-18,Silver,South Jasonchester,Georgia,True
+CUST2640,Ronald Daugherty,Male,37.0,2021-09-05,Silver,West Amanda,South Carolina,True
+CUST2641,Victoria Morales,Male,54.0,2021-11-28,Platinum,Larrystad,Indiana,False
+CUST2642,Alexis Romero,Male,54.0,2021-08-19,Silver,South Gregorymouth,Colorado,True
+CUST2643,Karen Anderson,Female,61.0,2022-12-10,Silver,Toddbury,Michigan,False
+CUST2644,Jasmin Patterson,Other,39.0,2024-01-16,Platinum,Andrewport,Iowa,True
+CUST2645,Emily Freeman,Female,65.0,2022-05-03,Silver,Reynoldsfort,Wyoming,False
+CUST2646,Carol Smith,Male,62.0,2021-11-26,Silver,North Anthonyville,Oregon,True
+CUST2647,Nathan Hart,Other,23.0,2022-11-11,Platinum,Kathleenport,Maryland,True
+CUST2648,James Johnson,Other,65.0,2022-10-04,Gold,Jamesbury,South Carolina,True
+CUST2649,Louis Walsh,Female,21.0,2022-04-15,Silver,New Hannah,Indiana,False
+CUST2650,Victoria Gallegos,Male,45.0,2022-01-20,Silver,Grahamview,Illinois,False
+CUST2651,Thomas Osborn,Male,22.0,2023-12-30,Gold,Lake Stephaniechester,Indiana,True
+CUST2652,Lonnie Stevens Jr.,Female,56.0,2022-04-10,Silver,Paigehaven,Utah,True
+CUST2653,Jessica Mcintosh,Other,56.0,2021-08-14,Silver,West Christopherburgh,Idaho,True
+CUST2654,Linda Ibarra,Female,38.0,2023-08-16,Silver,North Sabrina,Iowa,True
+CUST2655,Morgan Nichols,Male,58.0,2022-01-29,Gold,East Kristi,California,True
+CUST2656,Patrick Green,Female,46.0,2024-07-25,Gold,Williamstown,Hawaii,True
+CUST2657,Scott Walker,Female,32.0,2021-08-13,Silver,Melissamouth,Nebraska,True
+CUST2658,Victor Watts,Female,53.0,2022-05-23,Silver,New Tracey,Arizona,True
+CUST2659,Joshua Mccormick,Female,45.0,2021-08-18,Platinum,East Lanceborough,Montana,True
+CUST2660,Cory Nicholson,Male,61.0,2023-08-09,Gold,Lisafort,Delaware,True
+CUST2661,Erica Webb,Other,60.0,2021-11-10,Gold,New Tina,Virginia,True
+CUST2662,Melissa Smith,Female,23.0,2023-02-28,Gold,Karentown,New Mexico,True
+CUST2663,Danny Johnson,Other,36.0,2024-05-19,Platinum,West Steven,New Hampshire,True
+CUST2664,Jennifer Garcia,Male,63.0,2023-02-09,Silver,West Kendra,Oklahoma,True
+CUST2665,Ricardo Clark,Male,23.0,2024-03-12,Gold,South Amy,Kentucky,True
+CUST2666,Barbara Franklin,Female,27.0,2024-07-17,Silver,Leblancfort,Ohio,True
+CUST2667,Kristen Berry,Female,63.0,2024-01-28,Platinum,Hoganport,Oregon,True
+CUST2668,Stacey Terry,Other,27.0,2024-01-11,Platinum,Robertview,Nebraska,True
+CUST2669,Gabrielle Rogers,Other,42.0,2023-07-31,Gold,South Johnnyshire,Pennsylvania,True
+CUST2670,Kathryn Dawson,Female,41.0,2021-11-07,Platinum,Josephfurt,Pennsylvania,True
+CUST2671,Thomas White,Male,23.0,2023-03-07,Gold,Vanessaport,Mississippi,True
+CUST2672,Carolyn Duncan,Male,37.0,2024-03-05,Silver,West Emily,Oklahoma,True
+CUST2673,Michael Steele,Female,41.0,2022-12-17,Silver,Arnoldville,Montana,True
+CUST2674,Ebony Matthews,Female,24.0,2022-05-25,Silver,East David,North Dakota,True
+CUST2675,Kari Thomas PhD,Male,23.0,2022-07-28,Silver,Kimberlyhaven,Indiana,True
+CUST2676,Samuel Edwards,Male,45.0,2023-12-25,Platinum,Nicoletown,Florida,True
+CUST2677,Scott Patterson,Female,53.0,2024-07-12,Silver,West Eriktown,Virginia,True
+CUST2678,Christina Maldonado,Other,50.0,2023-07-15,Gold,Bergerchester,Kentucky,True
+CUST2679,Roy Wade,Female,24.0,2024-02-26,Platinum,Kathymouth,Massachusetts,True
+CUST2680,Kimberly Taylor,Male,23.0,2021-12-01,Gold,West George,Kentucky,True
+CUST2681,Joe Kim,Female,53.0,2021-09-29,Gold,New Sophiaburgh,Missouri,True
+CUST2682,Adriana Parsons,Male,56.0,2024-02-23,Platinum,Lake Julieton,South Carolina,True
+CUST2683,Jacqueline Proctor,Other,38.0,2023-12-17,Silver,Chloeport,Missouri,True
+CUST2684,Scott Thomas,Female,18.0,2023-02-20,Silver,Edwardsland,Michigan,True
+CUST2685,Anthony Morales,Female,44.0,2021-10-12,Silver,West Rebecca,Colorado,True
+CUST2686,Mrs. Karen Calhoun MD,Female,23.0,2024-06-29,Silver,Port Nathanton,Georgia,True
+CUST2687,Bryan Castillo,Other,53.0,2023-10-25,Platinum,South Regina,Iowa,True
+CUST2688,Diane Richards,Male,54.0,2024-06-27,Gold,Valeriestad,Indiana,True
+CUST2689,Lisa Hammond,Other,28.0,2024-03-12,Silver,North Kevin,Colorado,True
+CUST2690,Shawn Flores,Other,42.0,2022-12-18,Silver,West Kimberlychester,South Dakota,True
+CUST2691,Jeff Smith,Male,26.0,2024-01-22,Silver,Gailfurt,Virginia,True
+CUST2692,Erica Jones,Female,37.0,2022-03-11,Silver,Lauraborough,Nevada,False
+CUST2693,Franklin Moon,Female,49.0,2022-05-08,Silver,Pollardland,Delaware,True
+CUST2694,Henry Schwartz,Male,22.0,2021-12-02,Silver,South Danielbury,Montana,True
+CUST2695,Jennifer Parsons,Male,45.0,2022-02-03,Silver,Maryberg,Ohio,False
+CUST2696,Timothy Edwards,Female,44.0,2023-08-17,Platinum,Churchmouth,New York,True
+CUST2697,Timothy Church,Female,48.0,2024-04-27,Platinum,South Carlaborough,North Carolina,False
+CUST2698,Randy Leonard,Male,41.0,2022-01-04,Platinum,Flowersville,Washington,False
+CUST2699,Heather Barnes,Female,33.0,2022-07-13,Silver,West Kimberly,Idaho,True
+CUST2700,Brandon Thompson,Other,58.0,2023-01-30,Silver,Reedberg,South Carolina,True
+CUST2701,Julie Soto,Female,56.0,2023-01-28,Platinum,Jasonmouth,Connecticut,True
+CUST2702,Charles Scott,Other,30.0,2022-10-03,Gold,Allenfurt,Arizona,False
+CUST2703,Eric Anderson,Female,24.0,2022-09-10,Platinum,Kylemouth,New Mexico,False
+CUST2704,Jessica Johnson,Male,37.0,2021-10-09,Silver,South Kurtfort,Hawaii,True
+CUST2705,Mr. Jon Garrison,Male,43.0,2024-04-28,Silver,Mccoyland,Wisconsin,True
+CUST2706,Kara Castillo,Female,57.0,2022-10-27,Silver,Samanthaville,Oregon,True
+CUST2707,Stephanie Cross,Female,39.0,2023-06-17,Gold,Lanceview,Wisconsin,True
+CUST2708,Ariel Peterson,Female,39.0,2023-09-25,Silver,Alexandrastad,Wyoming,True
+CUST2709,Chelsea Reynolds,Female,59.0,2022-10-12,Silver,East Katrinafurt,Connecticut,True
+CUST2710,Mr. Leroy Miller,Other,26.0,2024-02-03,Gold,Cynthiaville,Louisiana,True
+CUST2711,Jennifer Yang,Female,38.0,2024-05-07,Gold,Smallberg,Oregon,True
+CUST2712,Elizabeth Thomas,Other,62.0,2023-03-18,Platinum,Lake Ashley,Washington,True
+CUST2713,Holly Payne,Male,48.0,2022-03-26,Gold,New Carlfurt,Oregon,True
+CUST2714,Tyler Mcdonald,Female,29.0,2023-03-31,Platinum,Port Rachael,Iowa,True
+CUST2715,Victoria Horn,Female,38.0,2023-07-28,Gold,Pamelaberg,Colorado,False
+CUST2716,Amy Cameron,Female,65.0,2022-08-07,Gold,Garciamouth,Wyoming,True
+CUST2717,Jesus Carter,Other,58.0,2022-02-25,Gold,Georgeshire,New York,True
+CUST2718,Ashley Anderson,Female,54.0,2023-07-10,Silver,Cranemouth,Vermont,True
+CUST2719,Kimberly Watson,Male,38.0,2023-09-18,Platinum,Port Janet,Washington,False
+CUST2720,Benjamin Wilson,Female,35.0,2023-05-23,Silver,Lake Nicoleburgh,Washington,True
+CUST2721,Susan Day,Female,41.0,2022-12-24,Silver,Smithberg,Maryland,False
+CUST2722,Edward Hensley,Male,54.0,2022-07-11,Platinum,South Cathy,Nevada,True
+CUST2723,Angela Edwards,Male,55.0,2022-03-07,Platinum,Jaredshire,Oregon,True
+CUST2724,Charles Parker,Other,29.0,2022-02-11,Gold,Diazstad,Illinois,True
+CUST2725,Vincent Gonzalez,Other,53.0,2022-04-18,Silver,West Dustinville,Wisconsin,True
+CUST2726,Stephanie Shaw,Male,64.0,2023-02-22,Gold,Kaylahaven,Pennsylvania,True
+CUST2727,Heather Butler,Female,63.0,2022-08-30,Platinum,Port Stevenland,New Mexico,True
+CUST2728,Omar Lowe,Male,46.0,2023-05-30,Gold,Port Dennis,Michigan,True
+CUST2729,Tamara Zavala,Female,62.0,2024-05-15,Gold,Port Michaelmouth,South Carolina,True
+CUST2730,Megan Ryan,Male,44.0,2024-04-14,Silver,Wardland,Missouri,True
+CUST2731,Holly Brown,Other,49.0,2023-11-08,Gold,East Cathyland,Louisiana,True
+CUST2732,Scott Hamilton,Male,58.0,2024-04-27,Silver,East Jesus,Illinois,True
+CUST2733,Ryan Young,Female,33.0,2023-12-02,Silver,South Benjaminshire,Mississippi,True
+CUST2734,Stephanie Fields,Female,60.0,2022-03-10,Platinum,Lake Alan,Oregon,True
+CUST2735,Michael Coleman,Male,63.0,2024-05-11,Silver,New Ginaton,Virginia,True
+CUST2736,Christopher Moss,Female,42.0,2021-11-22,Gold,North Stephenview,Montana,True
+CUST2737,Michael Watson,Male,46.0,2022-09-22,Platinum,South Christopher,Nevada,False
+CUST2738,David Garcia,Other,48.0,2024-03-08,Platinum,Sullivanshire,Kentucky,True
+CUST2739,Jennifer Sellers,Other,43.0,2024-06-20,Silver,East Jamesfort,Nevada,True
+CUST2740,David Chambers,Other,50.0,2023-05-21,Silver,Port Brendaton,Oregon,True
+CUST2741,Shawn Tate,Other,44.0,2023-03-19,Silver,Crawfordshire,Florida,False
+CUST2742,Brandon Moon,Other,20.0,2021-10-22,Gold,Beverlyfurt,Alaska,True
+CUST2743,Dr. Margaret Edwards,Female,62.0,2024-04-30,Silver,East Nicholas,South Carolina,True
+CUST2744,Connie Green,Other,56.0,2023-02-03,Silver,North Jasmine,California,True
+CUST2745,Michael Fischer,Other,23.0,2023-04-30,Silver,Richardsonport,Oklahoma,True
+CUST2746,Jacob Adams,Male,33.0,2022-01-13,Platinum,East Patriciaberg,Colorado,False
+CUST2747,Juan Porter,Other,60.0,2023-06-08,Gold,Whitneystad,Virginia,True
+CUST2748,Mikayla Lee,Female,28.0,2022-05-05,Platinum,Kimberlyside,California,False
+CUST2749,Mark Wilson,Other,57.0,2023-10-06,Silver,South Jeremy,Indiana,True
+CUST2750,Jennifer Cherry,Male,54.0,2021-10-16,Silver,Hernandezland,Mississippi,False
+CUST2751,James Mccarthy,Other,61.0,2022-04-30,Platinum,Port Nicholas,Hawaii,True
+CUST2752,Marc Thomas,Other,43.0,2022-09-28,Platinum,Charlesside,Washington,True
+CUST2753,Candace Jackson,Female,45.0,2021-11-11,Platinum,South Michael,Florida,True
+CUST2754,Connie Everett MD,Male,18.0,2023-08-06,Platinum,South James,Alabama,True
+CUST2755,Jessica Robinson,Male,34.0,2024-03-06,Silver,Port Scott,Vermont,True
+CUST2756,Matthew Nguyen,Male,50.0,2024-04-05,Platinum,Christopherview,Minnesota,False
+CUST2757,Steven Blair,Other,51.0,2023-04-01,Platinum,East Andrew,Vermont,False
+CUST2758,Kimberly Campbell,Other,55.0,2024-03-02,Silver,Salazarview,Utah,True
+CUST2759,Christine Jones,Other,54.0,2022-08-28,Silver,South Melissafurt,Indiana,True
+CUST2760,Amanda Hubbard DDS,Male,46.0,2023-07-12,Silver,East Justinberg,Connecticut,True
+CUST2761,Ryan Hunt,Female,43.0,2023-03-21,Silver,Larryside,Arkansas,True
+CUST2762,Misty Edwards,Female,61.0,2022-12-03,Silver,Lake Scottville,Indiana,True
+CUST2763,Joseph Duncan,Other,62.0,2023-06-03,Platinum,North Ashleyberg,Oklahoma,True
+CUST2764,Daniel Myers,Other,27.0,2023-04-24,Platinum,Dennisshire,Illinois,True
+CUST2765,Leroy Jackson,Female,19.0,2023-04-24,Silver,East Sethtown,Minnesota,True
+CUST2766,Gary Moore,Female,24.0,2024-02-22,Silver,Charlesfurt,North Carolina,True
+CUST2767,Tammy White,Female,44.0,2024-05-26,Silver,Port Gail,North Dakota,True
+CUST2768,Christopher Arnold,Male,25.0,2022-01-23,Silver,East Matthewland,New Mexico,True
+CUST2769,Christopher Lee,Other,27.0,2024-05-29,Gold,Staceyburgh,Montana,True
+CUST2770,Tammy Martin,Female,37.0,2022-01-24,Silver,Lopezport,Kentucky,False
+CUST2771,Stephen Williamson DVM,Female,47.0,2021-10-13,Silver,Ramosville,South Dakota,True
+CUST2772,Curtis Ryan,Male,51.0,2023-12-12,Platinum,East Andrea,Vermont,True
+CUST2773,Devin Craig,Female,40.0,2021-10-06,Silver,Ericshire,Washington,True
+CUST2774,Samantha Henson,Female,24.0,2022-03-25,Silver,Harringtonshire,Florida,True
+CUST2775,Erik Harrison,Female,64.0,2023-01-02,Platinum,Port Keithport,Arizona,True
+CUST2776,Michael Blair,Other,46.0,2023-10-08,Gold,Lake Robert,Oregon,True
+CUST2777,Adam Lang,Female,22.0,2024-07-26,Silver,Nicoleberg,Kentucky,True
+CUST2778,Melissa Long,Female,20.0,2023-10-11,Silver,East Christina,South Dakota,True
+CUST2779,Christina Sanders,Other,25.0,2021-09-17,Silver,West Joshualand,Delaware,True
+CUST2780,Laura Mitchell,Male,39.0,2022-06-30,Silver,Patrickstad,Maryland,False
+CUST2781,Jay Martinez,Other,24.0,2022-12-27,Silver,Jasonburgh,Louisiana,True
+CUST2782,Cynthia Allen,Other,28.0,2023-05-31,Silver,Port Katie,Rhode Island,True
+CUST2783,Ronald Gonzalez,Other,33.0,2021-11-07,Gold,New Shelby,Missouri,True
+CUST2784,Jeffery Jones,Other,29.0,2022-05-14,Gold,Jacquelineburgh,Connecticut,False
+CUST2785,Colin Thompson,Other,28.0,2023-06-03,Silver,Buchananport,Nevada,True
+CUST2786,Dr. Bryce Kelly,Female,53.0,2022-12-16,Platinum,East Nicole,Louisiana,False
+CUST2787,Jesus Campbell,Female,47.0,2024-04-30,Platinum,Robertschester,Arizona,True
+CUST2788,Richard Campbell,Male,43.0,2024-06-02,Silver,New Patriciaport,Arizona,True
+CUST2789,Wesley Prince,Other,29.0,2023-08-20,Gold,Port Brandonfort,Alabama,True
+CUST2790,Deborah Holder,Male,58.0,2021-11-24,Silver,New Jacqueline,Tennessee,False
+CUST2791,Julie Johnson,Other,45.0,2022-07-09,Silver,Stacyton,Oregon,False
+CUST2792,Richard Frederick,Female,19.0,2023-02-27,Silver,South Tiffany,South Dakota,True
+CUST2793,Derek Thomas,Other,57.0,2024-02-22,Silver,Alexandrafurt,Utah,True
+CUST2794,Christine Ball,Male,46.0,2022-12-07,Silver,Williamland,Maryland,True
+CUST2795,Carol Green,Other,45.0,2022-09-15,Platinum,Websterfort,Oregon,True
+CUST2796,Bailey Graves,Female,18.0,2023-06-10,Gold,East Samanthaville,Delaware,True
+CUST2797,Daniel Cooper,Other,31.0,2022-12-16,Silver,Owensport,New Hampshire,True
+CUST2798,Caleb Hanna,Male,35.0,2022-10-15,Silver,South Thomasstad,Arkansas,True
+CUST2799,Paula Porter,Other,22.0,2024-01-19,Silver,West Eddie,Georgia,True
+CUST2800,Tonya Kirby,Other,24.0,2023-05-27,Silver,West Michellehaven,Nevada,True
+CUST2801,Leah Ray,Other,29.0,2023-03-25,Silver,North Aprilville,Nevada,True
+CUST2802,Brenda Mitchell,Female,38.0,2023-12-24,Silver,Port John,Maryland,True
+CUST2803,James Brown,Male,47.0,2023-02-15,Platinum,New Kathrynborough,Massachusetts,True
+CUST2804,Shawn House,Male,34.0,2023-10-17,Platinum,Annahaven,Alabama,False
+CUST2805,Christopher Montgomery,Other,49.0,2023-09-13,Gold,Coxland,Virginia,True
+CUST2806,Brent Griffith,Other,58.0,2023-08-01,Silver,Lake Juliefort,California,True
+CUST2807,John Humphrey,Female,56.0,2023-12-08,Silver,West Jocelyn,Montana,True
+CUST2808,Ashlee Steele,Female,57.0,2024-07-02,Gold,South Sharon,Georgia,False
+CUST2809,Margaret Maddox,Female,55.0,2024-06-20,Gold,Brittneyview,Ohio,True
+CUST2810,Megan Martin,Male,40.0,2022-04-05,Gold,Markstad,New Hampshire,True
+CUST2811,Eric Hopkins,Female,47.0,2023-06-13,Silver,New Joshua,Massachusetts,False
+CUST2812,Jessica Baird,Other,29.0,2021-09-01,Silver,South Kathleenbury,Kentucky,True
+CUST2813,Justin Jensen,Other,63.0,2023-08-18,Silver,New Robert,South Dakota,False
+CUST2814,Catherine Marshall PhD,Female,57.0,2023-12-25,Gold,West John,Tennessee,True
+CUST2815,Lisa Cox,Other,23.0,2022-10-21,Gold,Heatherville,Alabama,True
+CUST2816,Kimberly Green,Other,26.0,2022-02-27,Silver,East Robertside,North Carolina,True
+CUST2817,Tracey Hill,Female,25.0,2023-10-14,Silver,Farmerville,Kansas,True
+CUST2818,Suzanne Murphy,Male,37.0,2022-11-24,Platinum,South Tammyhaven,Delaware,True
+CUST2819,Adam Green,Male,29.0,2022-10-07,Silver,North Georgeview,Texas,True
+CUST2820,Jose Guzman,Female,62.0,2024-01-15,Silver,Powellfurt,Michigan,False
+CUST2821,Brittany Pena,Male,50.0,2023-07-03,Silver,New Andrewborough,Alaska,True
+CUST2822,James Mcgee,Female,44.0,2021-12-10,Gold,Joannborough,Alabama,True
+CUST2823,Mitchell Smith,Other,26.0,2024-04-17,Silver,New Fernandotown,Illinois,True
+CUST2824,Justin Shepherd,Other,42.0,2021-11-17,Gold,New Ruthstad,New Jersey,False
+CUST2825,Joshua Johnston,Female,29.0,2024-05-26,Gold,East Julianfort,West Virginia,True
+CUST2826,Joseph Garcia,Female,58.0,2023-01-28,Platinum,New Bridget,Washington,True
+CUST2827,Samantha White,Other,62.0,2023-02-01,Silver,Lambport,Montana,True
+CUST2828,Samuel Ford,Other,29.0,2022-01-27,Silver,Lake Kristen,Wisconsin,True
+CUST2829,Amy Perkins,Other,28.0,2024-01-02,Gold,Alisonview,New Mexico,False
+CUST2830,Samuel Rowe,Female,36.0,2024-07-21,Gold,Thomasburgh,Minnesota,True
+CUST2831,Pamela Ferguson,Male,29.0,2023-05-03,Silver,Sophiamouth,Florida,True
+CUST2832,Joseph Davis,Female,46.0,2021-08-30,Gold,Royside,Idaho,True
+CUST2833,Cassandra Allen,Other,21.0,2022-05-01,Platinum,Brianland,Maryland,True
+CUST2834,Brittney Smith,Female,18.0,2021-09-06,Silver,Mariofurt,Georgia,True
+CUST2835,Jason Davis,Female,26.0,2022-11-20,Silver,New Jesus,Oklahoma,True
+CUST2836,Jodi Booker,Male,42.0,2022-05-07,Gold,Davisfort,New Jersey,True
+CUST2837,Michelle Bryant,Other,50.0,2021-11-27,Gold,New Renee,California,True
+CUST2838,Joseph Walton,Other,49.0,2023-06-10,Silver,North Tammy,Georgia,True
+CUST2839,Monica Petersen,Female,61.0,2022-12-15,Platinum,Lake Thomas,New Jersey,True
+CUST2840,Mason French,Female,44.0,2022-12-27,Gold,East Karenhaven,Utah,True
+CUST2841,Terry Castillo,Other,46.0,2021-08-17,Gold,South Cherylfort,Rhode Island,True
+CUST2842,Ann Martin,Female,28.0,2023-03-03,Gold,East Derrick,Indiana,True
+CUST2843,Crystal Hodge,Male,54.0,2021-12-19,Platinum,Stephanieside,North Carolina,True
+CUST2844,Richard Nguyen,Male,32.0,2023-08-22,Silver,Lake Stacey,Tennessee,True
+CUST2845,Whitney Mendoza,Female,20.0,2024-01-16,Platinum,Port Nicholas,Missouri,True
+CUST2846,Richard Baker,Female,32.0,2023-12-05,Gold,New Anthonyhaven,Utah,True
+CUST2847,Mary Carter,Other,36.0,2024-05-15,Silver,Gardnerville,Georgia,True
+CUST2848,Catherine Jones,Male,47.0,2024-02-10,Platinum,West Tonya,New Jersey,True
+CUST2849,Joshua Lopez,Other,65.0,2023-12-07,Platinum,Banksshire,Hawaii,True
+CUST2850,Kathy Andrews,Female,53.0,2022-02-03,Gold,Selenaberg,Montana,True
+CUST2851,Mckenzie Gonzalez,Other,25.0,2022-05-28,Silver,Courtneyfort,North Dakota,False
+CUST2852,Cynthia Lane,Other,25.0,2023-11-28,Platinum,Jeffreyborough,Alaska,False
+CUST2853,Chelsea Reynolds,Female,52.0,2022-05-24,Gold,West Victoriaport,Alabama,True
+CUST2854,Todd Allen,Female,52.0,2021-11-16,Silver,Hollymouth,Tennessee,False
+CUST2855,Erika Rodriguez,Male,64.0,2022-01-14,Silver,Port Dustinfurt,New York,True
+CUST2856,Jose Whitehead,Female,52.0,2023-03-02,Gold,Stephenstown,Arkansas,True
+CUST2857,Leonard Duncan,Male,45.0,2022-04-24,Platinum,New Richardside,New Jersey,True
+CUST2858,Willie Barber,Male,65.0,2023-06-23,Silver,Higginsview,North Carolina,True
+CUST2859,Howard Marshall,Other,33.0,2022-04-21,Silver,Port Anthonyside,South Carolina,True
+CUST2860,Charles Williams,Female,20.0,2023-05-07,Silver,Kevinmouth,Indiana,False
+CUST2861,Donna Wilkerson,Female,34.0,2024-07-10,Platinum,Isaacmouth,West Virginia,True
+CUST2862,Barbara Walsh,Female,23.0,2024-05-03,Silver,West Teresashire,Iowa,False
+CUST2863,Jessica Bennett,Female,25.0,2023-06-02,Silver,Shortborough,Maryland,True
+CUST2864,George Burgess,Male,31.0,2021-11-21,Silver,South Sarah,Mississippi,True
+CUST2865,Miranda Wilson,Other,55.0,2024-02-23,Silver,Georgeburgh,New Mexico,False
+CUST2866,Terri Smith,Other,40.0,2022-03-26,Silver,Lake Hannah,Illinois,True
+CUST2867,Nicholas Day,Other,57.0,2023-10-14,Silver,Coleport,Montana,True
+CUST2868,Matthew Chang,Other,45.0,2022-01-21,Gold,Christineland,Ohio,True
+CUST2869,Linda Jones,Male,57.0,2024-06-15,Gold,New Jerry,Indiana,True
+CUST2870,Emily Chavez,Male,31.0,2021-12-02,Platinum,Sarahchester,Nevada,False
+CUST2871,Jessica Bennett,Male,21.0,2023-09-07,Gold,Fletcherton,Delaware,True
+CUST2872,Jake Ellis,Other,40.0,2024-03-21,Silver,West Joshua,Nevada,True
+CUST2873,Robert Moore,Other,35.0,2023-09-30,Gold,South Brad,California,True
+CUST2874,Tracy Thomas,Other,52.0,2023-06-05,Silver,South Olivia,Idaho,False
+CUST2875,Mr. Derek Ryan,Male,38.0,2024-01-24,Platinum,Schwartzfurt,Minnesota,False
+CUST2876,Jennifer Petersen,Other,36.0,2024-06-08,Silver,New Lindsey,California,True
+CUST2877,Zachary Shelton,Female,54.0,2023-07-16,Silver,Port Davidhaven,Ohio,True
+CUST2878,Dylan Garcia,Female,50.0,2024-04-06,Silver,Tiffanyburgh,Oklahoma,True
+CUST2879,Paul Castillo,Other,24.0,2023-06-03,Silver,North David,Massachusetts,False
+CUST2880,Megan Howard,Male,44.0,2021-12-21,Silver,New Elizabethmouth,North Dakota,True
+CUST2881,Melissa Stokes,Male,35.0,2021-12-16,Gold,South Thomas,North Carolina,True
+CUST2882,Jennifer Smith,Other,26.0,2023-03-04,Silver,West Meaganburgh,Vermont,True
+CUST2883,Angela Alvarez,Other,26.0,2021-08-10,Gold,Johnsonstad,Utah,True
+CUST2884,Stuart Bryant PhD,Male,27.0,2024-07-14,Silver,South Michael,Kentucky,True
+CUST2885,Shannon Davila,Other,38.0,2021-11-20,Gold,North Gene,Arkansas,False
+CUST2886,Kaitlin Manning,Male,61.0,2023-05-21,Silver,Amandatown,California,True
+CUST2887,Cory Alexander,Female,49.0,2023-10-30,Gold,Port Diana,Nebraska,False
+CUST2888,Amanda Robinson,Male,54.0,2021-08-08,Platinum,East Andrew,Utah,True
+CUST2889,Erin Reynolds,Other,35.0,2022-11-11,Gold,East Amanda,Washington,False
+CUST2890,Tammie Palmer,Other,44.0,2021-12-04,Silver,East Matthew,Wyoming,True
+CUST2891,David Travis,Female,46.0,2022-08-22,Silver,Brendamouth,Arizona,False
+CUST2892,Kenneth Roberts,Male,58.0,2023-02-11,Platinum,Wardbury,Kentucky,True
+CUST2893,Christopher Moore,Male,43.0,2022-02-14,Gold,Sarahside,Massachusetts,True
+CUST2894,Victor Cohen,Other,65.0,2022-05-12,Silver,Thomasborough,North Carolina,False
+CUST2895,Patrick Gallegos,Female,62.0,2022-12-08,Silver,West Kaylatown,Wisconsin,True
+CUST2896,George Wright,Female,47.0,2022-04-25,Gold,West Hannahmouth,Kansas,True
+CUST2897,Jill Nguyen,Female,38.0,2022-03-27,Silver,Lake Dawn,New Mexico,True
+CUST2898,Katherine Griffith,Other,18.0,2024-02-20,Gold,Smithfurt,Idaho,True
+CUST2899,Sherri Jones,Other,23.0,2022-02-01,Silver,Port Jeffrey,Kentucky,True
+CUST2900,Anna Matthews,Other,47.0,2024-04-01,Silver,Port Matthewtown,Georgia,False
+CUST2901,Sheena Hamilton,Other,60.0,2022-05-01,Platinum,Johnsontown,Kentucky,False
+CUST2902,Stacey Miller,Other,40.0,2021-10-22,Silver,New Tyler,Iowa,False
+CUST2903,Diane Garza,Male,52.0,2024-03-24,Silver,Bushborough,West Virginia,True
+CUST2904,Kurt Herrera,Female,31.0,2022-03-17,Silver,East Brianbury,Mississippi,True
+CUST2905,Anthony Vega,Female,31.0,2023-08-21,Gold,Lake Sandra,Florida,True
+CUST2906,Carol Evans,Female,35.0,2023-07-01,Silver,Smithside,Maine,True
+CUST2907,Jon Lambert,Female,36.0,2021-08-03,Silver,North James,Oklahoma,True
+CUST2908,Kathryn Zuniga,Female,53.0,2021-12-29,Silver,Kathleenview,Delaware,False
+CUST2909,Lisa Carlson,Other,26.0,2022-01-04,Platinum,Port Ashleyville,North Carolina,True
+CUST2910,Erik Beard,Other,49.0,2024-06-13,Silver,Danielborough,Texas,True
+CUST2911,Richard Mata,Female,61.0,2023-07-15,Platinum,New Elizabethside,Hawaii,True
+CUST2912,Paul Williams,Male,20.0,2022-02-28,Silver,North Kimberly,Montana,True
+CUST2913,Jennifer Martinez,Male,58.0,2023-04-01,Silver,Charleston,Wisconsin,True
+CUST2914,Rachel Anderson,Female,19.0,2022-12-17,Platinum,Johnsonshire,Montana,True
+CUST2915,Alexander Garza,Male,28.0,2022-12-03,Silver,Robertview,New Mexico,False
+CUST2916,Allison Tran,Female,47.0,2023-12-30,Platinum,East Crystalside,Alaska,True
+CUST2917,James Anderson,Male,45.0,2023-11-20,Silver,Jamesview,Wyoming,True
+CUST2918,Megan Jordan,Male,62.0,2022-07-18,Platinum,East Calvin,Wisconsin,True
+CUST2919,Joe Clements,Male,59.0,2022-05-12,Platinum,Jamesbury,Alaska,True
+CUST2920,Cheryl King,Female,28.0,2022-11-28,Gold,Kristiborough,Maryland,True
+CUST2921,Kyle Clarke,Female,23.0,2023-05-09,Silver,Boonefurt,Wyoming,True
+CUST2922,Haley Cooper,Other,41.0,2023-07-11,Silver,Angelafurt,West Virginia,True
+CUST2923,Bradley Baker,Female,23.0,2023-11-05,Platinum,Krauseland,Louisiana,True
+CUST2924,Cynthia Hunter,Female,60.0,2022-10-05,Gold,New Travischester,Hawaii,True
+CUST2925,Timothy Norton,Other,28.0,2023-04-29,Silver,Smithberg,Missouri,True
+CUST2926,Joshua Boone,Male,43.0,2023-10-07,Gold,New Connie,Montana,False
+CUST2927,Mr. James Sanchez,Other,37.0,2024-04-01,Gold,Warrenland,Idaho,True
+CUST2928,Stephen Baker,Other,62.0,2024-02-23,Silver,Lake Mark,Montana,True
+CUST2929,Mitchell White,Male,45.0,2022-07-22,Silver,Howardton,Maryland,False
+CUST2930,John King,Other,23.0,2023-02-21,Platinum,Collierbury,South Carolina,True
+CUST2931,Allen Wilson,Other,24.0,2022-05-14,Silver,East Michael,Michigan,True
+CUST2932,Alex Allen,Male,31.0,2023-11-16,Silver,Smithport,Virginia,True
+CUST2933,Roy Lee,Female,22.0,2023-05-02,Silver,West Alyssabury,Arkansas,True
+CUST2934,William Smith,Male,55.0,2023-09-13,Gold,Phillipport,Maine,True
+CUST2935,Ruben Ruiz,Male,51.0,2022-09-09,Silver,Bishopton,Arkansas,True
+CUST2936,Isabella Rose,Other,46.0,2022-08-15,Silver,Evansview,North Dakota,False
+CUST2937,Michael Jackson,Male,18.0,2023-02-07,Silver,Ashleyland,Washington,True
+CUST2938,Teresa Morales,Other,39.0,2023-05-18,Silver,Port Michael,Alabama,False
+CUST2939,Ann Rios,Male,45.0,2023-05-22,Gold,South Michael,North Carolina,True
+CUST2940,Scott Reed,Other,26.0,2023-08-17,Gold,Wisefurt,Connecticut,True
+CUST2941,Jared Bender,Female,22.0,2024-01-10,Platinum,Ballchester,Kentucky,True
+CUST2942,Samuel Wagner,Male,42.0,2022-11-18,Platinum,Scottfort,North Dakota,False
+CUST2943,Nathan Yoder,Male,64.0,2021-08-16,Platinum,Lake Roy,Vermont,True
+CUST2944,David Castro,Male,24.0,2024-03-05,Gold,South Jeremy,Texas,True
+CUST2945,Jesse Miller,Female,41.0,2024-01-16,Gold,East Kristineport,Oregon,True
+CUST2946,Martha Brooks,Female,26.0,2023-06-13,Gold,Lake William,Georgia,True
+CUST2947,Carl Stewart,Female,26.0,2024-02-09,Gold,South Maryville,Virginia,False
+CUST2948,Michelle Wright,Other,61.0,2022-05-25,Silver,Lake Becky,Florida,False
+CUST2949,Kyle Green,Male,22.0,2021-10-01,Gold,Huffmanton,Illinois,False
+CUST2950,Roy Watson,Other,54.0,2022-03-07,Silver,Lake Pamelaville,Connecticut,True
+CUST2951,April Matthews,Male,57.0,2023-09-27,Platinum,Fostertown,Arizona,True
+CUST2952,Courtney Stewart,Other,28.0,2023-09-23,Platinum,West Robert,Oregon,True
+CUST2953,Caitlin Lawson,Female,40.0,2022-11-11,Gold,New Terry,Kansas,True
+CUST2954,Timothy Graham,Other,31.0,2024-02-11,Gold,Leemouth,Hawaii,True
+CUST2955,Katherine Allen,Other,65.0,2024-03-24,Silver,East Haydenhaven,Wyoming,True
+CUST2956,Angela Allen,Male,44.0,2023-03-18,Silver,Port Joshuahaven,Wyoming,False
+CUST2957,Joseph Duran,Other,61.0,2024-01-25,Platinum,Michaelbury,Connecticut,True
+CUST2958,Pamela Fry,Female,31.0,2024-04-19,Gold,Ronnieburgh,Kansas,True
+CUST2959,Heidi Fowler,Male,24.0,2022-09-15,Gold,West Margaretburgh,Missouri,False
+CUST2960,Jerry Sanchez,Male,25.0,2021-08-08,Platinum,Josephmouth,Idaho,True
+CUST2961,Debra Farrell,Other,64.0,2022-09-10,Gold,Lake Garrett,Iowa,True
+CUST2962,Steven Camacho,Female,40.0,2022-12-09,Platinum,Terranceville,Mississippi,True
+CUST2963,Zachary Woods,Female,38.0,2022-10-10,Gold,New Kelly,Michigan,True
+CUST2964,Richard Anderson,Male,33.0,2021-12-26,Gold,Krauseland,Kansas,True
+CUST2965,Rose Hicks,Female,59.0,2021-12-22,Platinum,Christieton,Maryland,True
+CUST2966,Maureen Parker,Male,33.0,2023-04-12,Gold,North Victoria,Massachusetts,True
+CUST2967,Mr. Gary Nichols,Other,56.0,2023-07-25,Silver,Port Erikville,Mississippi,True
+CUST2968,Cheryl Berry,Other,64.0,2024-06-18,Silver,East Courtneytown,North Dakota,True
+CUST2969,Craig Rodriguez,Other,36.0,2022-09-13,Silver,Sandrahaven,New Jersey,True
+CUST2970,Patricia Jones,Other,19.0,2024-07-30,Gold,New Brendaview,Rhode Island,False
+CUST2971,Lindsey Daniel,Other,37.0,2021-11-09,Silver,East Theresatown,Utah,True
+CUST2972,Steven Hart,Male,51.0,2023-03-05,Silver,Danieltown,Maryland,True
+CUST2973,Thomas Daugherty,Other,50.0,2023-04-26,Gold,Casechester,Vermont,True
+CUST2974,Anita Roberts,Male,65.0,2024-06-10,Silver,North Morganside,Arkansas,True
+CUST2975,Jennifer Henry,Female,36.0,2023-04-27,Silver,South Christopherbury,Michigan,False
+CUST2976,Virginia Allen,Other,21.0,2024-01-20,Platinum,Evansfurt,West Virginia,True
+CUST2977,Micheal Koch,Male,49.0,2022-05-28,Silver,Kevinview,Alabama,False
+CUST2978,Danielle Griffin,Female,25.0,2023-08-18,Platinum,North Annetteton,Wisconsin,True
+CUST2979,John Wright,Male,49.0,2023-10-17,Silver,Luischester,South Carolina,True
+CUST2980,Taylor Meyers,Other,56.0,2024-05-22,Gold,Atkinsonstad,Illinois,True
+CUST2981,Mrs. Laura Hall,Male,51.0,2022-06-07,Silver,West Jeffrey,New Jersey,True
+CUST2982,Mary Arias,Male,41.0,2022-07-01,Silver,Weavershire,Maryland,True
+CUST2983,Chris Pace,Female,26.0,2022-09-06,Silver,Wheelerborough,Florida,True
+CUST2984,Dr. Mary Reed,Female,54.0,2023-01-09,Gold,Martinborough,Minnesota,True
+CUST2985,Jeffrey Burns,Female,41.0,2021-09-02,Platinum,Shawville,Utah,True
+CUST2986,Julie Howell DVM,Other,61.0,2022-10-27,Silver,Port Jimmy,Connecticut,True
+CUST2987,Jennifer Larson,Male,48.0,2023-09-25,Silver,East Jessica,North Carolina,False
+CUST2988,Vincent Walker,Male,19.0,2022-03-27,Silver,Lindseyville,Maryland,True
+CUST2989,Nathaniel Weiss,Other,22.0,2022-06-17,Silver,Tamaramouth,South Carolina,True
+CUST2990,Joseph Ponce,Male,34.0,2023-05-20,Platinum,Fieldsshire,Idaho,False
+CUST2991,Darin Gonzalez,Male,20.0,2023-05-06,Silver,Martinfurt,Nevada,True
+CUST2992,Michael Hawkins,Male,43.0,2022-05-06,Platinum,North Gregoryland,Wisconsin,False
+CUST2993,Briana Richards,Other,36.0,2022-07-21,Silver,Deborahshire,Utah,True
+CUST2994,Regina Smith,Other,63.0,2023-11-09,Silver,Port Mariaville,Kansas,False
+CUST2995,Rachel Durham,Other,44.0,2023-12-01,Silver,Port John,Tennessee,True
+CUST2996,Paul Jones,Female,62.0,2024-05-13,Gold,Lake Dustin,South Dakota,True
+CUST2997,Michael Mccarthy,Female,23.0,2022-07-13,Silver,North Melissaview,Montana,True
+CUST2998,Amanda Diaz,Other,52.0,2022-04-10,Silver,Thomasfurt,Maryland,True
+CUST2999,Anthony Smith,Other,57.0,2021-10-28,Gold,Brownfort,New Jersey,True

@@ -1,0 +1,11 @@
+﻿Warehouse_ID,Warehouse_Name,Region,delayed_shipments,shipment_count,delayed_status_rate
+WH037,"Robinson, Thomas and Richardson Warehouse",East,30,222,0.1351
+WH033,"Larson, Cooper and Robertson Warehouse",South,29,208,0.1394
+WH001,Hill-Mendez Warehouse,South,27,207,0.1304
+WH015,Campbell PLC Warehouse,East,27,186,0.1452
+WH017,Powell Inc Warehouse,South,27,216,0.125
+WH024,Beasley Ltd Warehouse,West,26,225,0.1156
+WH038,Baldwin-Anderson Warehouse,North,26,202,0.1287
+WH045,Chaney-Miller Warehouse,Central,26,199,0.1307
+WH006,Deleon Ltd Warehouse,North,25,188,0.133
+WH009,"Castro, Baker and Mann Warehouse",North,25,205,0.122

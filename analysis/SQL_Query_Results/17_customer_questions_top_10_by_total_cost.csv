@@ -1,0 +1,11 @@
+﻿Customer_ID,Customer_Name,Loyalty_Tier,shipment_count,total_cost,returns,return_rate
+CUST2169,Katherine Smith,Silver,12,157125.67,0,0.0
+CUST2228,Amanda Simmons,Silver,9,145265.6,2,0.2222
+CUST2038,Jennifer Wiggins,Silver,10,140808.87,0,0.0
+CUST2315,Frank Lam,Gold,11,134249.2,0,0.0
+CUST1068,Michael Haynes,Gold,11,133224.66,3,0.2727
+CUST2482,Amy Estes,Platinum,10,132113.91,0,0.0
+CUST1832,Lori Sanchez,Platinum,12,128300.01,1,0.0833
+CUST2492,Morgan Walters,Gold,12,128184.71,0,0.0
+CUST2335,Darren Maldonado,Gold,10,126401.92,3,0.3
+CUST1544,Timothy Woods,Platinum,12,126348.41,1,0.0833

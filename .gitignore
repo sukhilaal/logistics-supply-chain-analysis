@@ -1,0 +1,12 @@
+# Rebuilt locally by build_project.py; not part of the submission data contract.
+data/.*.json
+analysis/*.json
+!analysis/summary.json
+outputs/**/overview.png
+outputs/**/delivery.png
+outputs/**/*.inspect.ndjson
+outputs/**/workbook_inspection.txt
+outputs/**/*.zip
+node_modules/
+__pycache__/
+*.pyc

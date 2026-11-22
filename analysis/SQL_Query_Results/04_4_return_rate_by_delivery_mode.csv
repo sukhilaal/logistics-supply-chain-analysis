@@ -1,0 +1,4 @@
+﻿Delivery_Mode,shipment_count,returns,return_rate
+Rail,3389,378,0.1115
+Surface,3295,332,0.1008
+Air,3316,331,0.0998

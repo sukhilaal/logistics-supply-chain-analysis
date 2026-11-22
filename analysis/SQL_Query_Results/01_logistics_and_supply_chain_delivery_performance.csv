@@ -1,0 +1,11 @@
+﻿Customer_ID,Customer_Name,Loyalty_Tier,shipment_count,total_cost
+CUST1315,Vincent Cortez,Gold,13,97762.59
+CUST2562,Dana Williams,Gold,13,81672.33
+CUST2169,Katherine Smith,Silver,12,157125.67
+CUST1832,Lori Sanchez,Platinum,12,128300.01
+CUST2492,Morgan Walters,Gold,12,128184.71
+CUST1544,Timothy Woods,Platinum,12,126348.41
+CUST2074,Thomas King,Silver,12,112495.76
+CUST1409,Stephen Watson,Silver,12,90685.36
+CUST2011,Jennifer Hudson,Platinum,12,86416.48
+CUST1827,Anthony Anthony,Silver,12,82292.15

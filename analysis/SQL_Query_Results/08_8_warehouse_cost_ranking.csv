@@ -1,0 +1,51 @@
+﻿Warehouse_ID,Warehouse_Name,Region,shipments,total_cost
+WH007,"Lara, Medina and Werner Warehouse",West,227,2294108.09
+WH001,Hill-Mendez Warehouse,South,207,2168038.19
+WH017,Powell Inc Warehouse,South,216,2131538.72
+WH008,White-Morales Warehouse,South,222,2078648.0
+WH021,Cunningham-Chan Warehouse,West,210,2064688.85
+WH011,Colon-Torres Warehouse,Central,213,2044411.09
+WH024,Beasley Ltd Warehouse,West,225,2024063.83
+WH033,"Larson, Cooper and Robertson Warehouse",South,208,2001505.65
+WH027,Vasquez-Deleon Warehouse,South,195,1997050.74
+WH037,"Robinson, Thomas and Richardson Warehouse",East,222,1992660.74
+WH032,"White, Davis and Reed Warehouse",West,220,1978789.14
+WH002,"Mcmillan, Jones and Steele Warehouse",East,218,1970385.54
+WH016,"Martinez, Crawford and Hall Warehouse",East,205,1956606.34
+WH038,Baldwin-Anderson Warehouse,North,202,1956122.19
+WH005,Smith Inc Warehouse,West,201,1952782.94
+WH050,"Harmon, Bradshaw and Bender Warehouse",West,201,1945671.34
+WH047,"Kelley, Baker and Chambers Warehouse",Central,204,1936065.96
+WH031,Hicks LLC Warehouse,North,197,1920371.03
+WH006,Deleon Ltd Warehouse,North,188,1919715.88
+WH009,"Castro, Baker and Mann Warehouse",North,205,1905566.41
+WH004,"Rojas, Pacheco and Lawson Warehouse",South,200,1904950.45
+WH013,Johnson Group Warehouse,South,212,1894654.03
+WH026,"Johns, Berry and Butler Warehouse",Central,205,1894480.47
+WH042,Jimenez-Baxter Warehouse,West,195,1878616.67
+WH029,Taylor-Hamilton Warehouse,North,194,1871056.6
+WH036,Henderson-Rodriguez Warehouse,South,198,1857573.97
+WH019,Love Group Warehouse,North,212,1847976.34
+WH041,Grimes LLC Warehouse,Central,197,1841485.92
+WH018,Myers-Alvarez Warehouse,East,196,1840248.04
+WH034,Nichols-Caldwell Warehouse,North,203,1829248.91
+WH044,Adams-Kline Warehouse,East,191,1821641.63
+WH020,Rogers-Flores Warehouse,North,198,1781433.2
+WH014,Brown PLC Warehouse,South,190,1779395.33
+WH043,"Carlson, Clark and Gould Warehouse",West,203,1776968.71
+WH045,Chaney-Miller Warehouse,Central,199,1775633.26
+WH049,Juarez-Roman Warehouse,East,190,1754266.97
+WH035,Smith-Parker Warehouse,West,192,1738950.72
+WH028,"Park, Ryan and Burns Warehouse",North,206,1723224.88
+WH022,Brown-Logan Warehouse,North,185,1714116.11
+WH012,Knight-Smith Warehouse,South,192,1707782.31
+WH023,Campbell-Kim Warehouse,Central,190,1706608.68
+WH030,"Morales, Li and Ponce Warehouse",Central,179,1691645.16
+WH048,Garcia Group Warehouse,Central,185,1674675.02
+WH040,Smith Inc Warehouse,North,189,1660091.07
+WH039,Gutierrez-Brown Warehouse,North,188,1656799.79
+WH010,"Lee, Ward and Walker Warehouse",North,194,1646695.77
+WH015,Campbell PLC Warehouse,East,186,1619995.52
+WH003,"Robinson, Hanson and Coleman Warehouse",South,183,1601537.27
+WH046,Arnold-Adams Warehouse,East,180,1580385.82
+WH025,"Gilbert, Leach and Poole Warehouse",East,182,1573047.15

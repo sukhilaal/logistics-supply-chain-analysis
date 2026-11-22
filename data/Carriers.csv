@@ -1,0 +1,26 @@
+﻿Carrier_ID,Carrier_Name,Mode_Speciality,Avg_Cost_per_km,On_Time_Percentage
+CR001,Ochoa Group Logistics,Air,11.79,85.85
+CR002,Moore-Jordan Logistics,Air,4.81,97.04
+CR003,"Robinson, Young and Heath Logistics",Air,5.8,80.05
+CR004,"Davis, Odom and Dillon Logistics",Rail,13.53,97.58
+CR005,"White, Lynn and Williams Logistics",Air,12.11,80.91
+CR006,Young and Sons Logistics,Rail,11.73,73.01
+CR007,Baker Ltd Logistics,Rail,14.8,82.17
+CR008,Morrow-Greer Logistics,Air,14.67,74.13
+CR009,Bradley-Horton Logistics,Surface,4.12,96.72
+CR010,Bates-Thomas Logistics,Rail,7.96,95.97
+CR011,"Collins, Williams and White Logistics",Surface,14.69,72.46
+CR012,Torres-Clark Logistics,Air,9.07,88.48
+CR013,Collier and Sons Logistics,Surface,3.9,86.47
+CR014,"Campbell, Morris and Day Logistics",Surface,10.95,73.79
+CR015,Nguyen Ltd Logistics,Surface,6.13,79.14
+CR016,"Conway, Allen and Schneider Logistics",Surface,11.41,91.33
+CR017,Castaneda LLC Logistics,Surface,8.43,76.77
+CR018,Ward LLC Logistics,Air,4.63,92.33
+CR019,"Arnold, Hooper and Floyd Logistics",Air,4.86,74.77
+CR020,"Cook, Peck and Estrada Logistics",Surface,6.77,73.5
+CR021,Thompson-Harvey Logistics,Surface,14.58,76.02
+CR022,Robinson-Williams Logistics,Surface,8.56,94.72
+CR023,Jackson Inc Logistics,Air,4.89,89.9
+CR024,"Williams, Brown and Jackson Logistics",Rail,11.36,71.17
+CR025,Green-Obrien Logistics,Surface,4.78,90.62

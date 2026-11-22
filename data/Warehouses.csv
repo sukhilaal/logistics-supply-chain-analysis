@@ -1,0 +1,51 @@
+﻿Warehouse_ID,Warehouse_Name,Region,City,State,Capacity_Tonnes,Is_Active
+WH001,Hill-Mendez Warehouse,South,Hortonbury,Connecticut,349.72,True
+WH002,"Mcmillan, Jones and Steele Warehouse",East,Julieshire,Minnesota,171.12,True
+WH003,"Robinson, Hanson and Coleman Warehouse",South,New Kimberly,Montana,976.88,True
+WH004,"Rojas, Pacheco and Lawson Warehouse",South,Jillianmouth,Utah,582.75,True
+WH005,Smith Inc Warehouse,West,Brownstad,California,627.79,True
+WH006,Deleon Ltd Warehouse,North,Harveytown,Colorado,379.15,True
+WH007,"Lara, Medina and Werner Warehouse",West,Lake Marcborough,Pennsylvania,756.96,True
+WH008,White-Morales Warehouse,South,Darrenfurt,Wyoming,152.12,True
+WH009,"Castro, Baker and Mann Warehouse",North,New Jennifer,Mississippi,932.16,True
+WH010,"Lee, Ward and Walker Warehouse",North,Walkertown,Idaho,508.03,True
+WH011,Colon-Torres Warehouse,Central,East Renee,Wisconsin,149.53,True
+WH012,Knight-Smith Warehouse,South,Robertchester,Massachusetts,207.5,True
+WH013,Johnson Group Warehouse,South,East Donald,Virginia,731.35,True
+WH014,Brown PLC Warehouse,South,East Bethtown,North Dakota,546.77,True
+WH015,Campbell PLC Warehouse,East,Nathanielhaven,Arizona,570.7,True
+WH016,"Martinez, Crawford and Hall Warehouse",East,South Michael,Florida,250.27,True
+WH017,Powell Inc Warehouse,South,West Carl,Montana,774.8,True
+WH018,Myers-Alvarez Warehouse,East,Williamsburgh,Delaware,759.64,True
+WH019,Love Group Warehouse,North,Lake Chelsea,Illinois,794.29,True
+WH020,Rogers-Flores Warehouse,North,Jennifertown,Minnesota,401.51,True
+WH021,Cunningham-Chan Warehouse,West,Port Timothy,South Carolina,344.78,True
+WH022,Brown-Logan Warehouse,North,Nicholsberg,Maryland,336.65,True
+WH023,Campbell-Kim Warehouse,Central,Cortezshire,Washington,664.78,True
+WH024,Beasley Ltd Warehouse,West,New Christinafurt,Arizona,509.68,True
+WH025,"Gilbert, Leach and Poole Warehouse",East,North Kelsey,South Dakota,149.9,True
+WH026,"Johns, Berry and Butler Warehouse",Central,West Williamstad,Kentucky,250.19,True
+WH027,Vasquez-Deleon Warehouse,South,Boltonborough,Pennsylvania,329.6,True
+WH028,"Park, Ryan and Burns Warehouse",North,Hartmanbury,Mississippi,904.84,True
+WH029,Taylor-Hamilton Warehouse,North,Nicholasport,Virginia,305.56,True
+WH030,"Morales, Li and Ponce Warehouse",Central,Michaelmouth,Kentucky,102.31,True
+WH031,Hicks LLC Warehouse,North,East Sheila,Indiana,320.1,True
+WH032,"White, Davis and Reed Warehouse",West,New Bradhaven,South Carolina,427.58,True
+WH033,"Larson, Cooper and Robertson Warehouse",South,Carlaside,Georgia,261.06,True
+WH034,Nichols-Caldwell Warehouse,North,North Christina,Colorado,597.58,False
+WH035,Smith-Parker Warehouse,West,Davidfurt,Iowa,302.06,True
+WH036,Henderson-Rodriguez Warehouse,South,Brianfort,Maine,474.63,False
+WH037,"Robinson, Thomas and Richardson Warehouse",East,Galvanville,California,344.13,False
+WH038,Baldwin-Anderson Warehouse,North,Watsontown,Nebraska,614.38,True
+WH039,Gutierrez-Brown Warehouse,North,Warrenhaven,Kansas,551.84,True
+WH040,Smith Inc Warehouse,North,West Tiffanytown,South Carolina,261.41,True
+WH041,Grimes LLC Warehouse,Central,Johnathanmouth,West Virginia,983.27,True
+WH042,Jimenez-Baxter Warehouse,West,Byrdbury,Oklahoma,162.03,True
+WH043,"Carlson, Clark and Gould Warehouse",West,Mitchellstad,Mississippi,879.43,True
+WH044,Adams-Kline Warehouse,East,Barnesland,Alaska,394.57,True
+WH045,Chaney-Miller Warehouse,Central,South Edwardbury,Virginia,511.07,True
+WH046,Arnold-Adams Warehouse,East,Joshuafort,Nebraska,280.6,True
+WH047,"Kelley, Baker and Chambers Warehouse",Central,West Timothyfurt,Illinois,806.06,True
+WH048,Garcia Group Warehouse,Central,Walshchester,Maryland,318.33,True
+WH049,Juarez-Roman Warehouse,East,West John,Kansas,632.52,True
+WH050,"Harmon, Bradshaw and Bender Warehouse",West,Lake Chad,Texas,998.01,True

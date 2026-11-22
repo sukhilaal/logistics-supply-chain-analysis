@@ -1,0 +1,51 @@
+﻿Warehouse_ID,Warehouse_Name,Region,Capacity_Tonnes,shipment_count,return_rate,avg_dispatch_to_delivery_days
+WH050,"Harmon, Bradshaw and Bender Warehouse",West,998.01,201,0.0995,5.47
+WH041,Grimes LLC Warehouse,Central,983.27,197,0.1117,5.85
+WH003,"Robinson, Hanson and Coleman Warehouse",South,976.88,183,0.082,5.59
+WH009,"Castro, Baker and Mann Warehouse",North,932.16,205,0.1366,5.54
+WH028,"Park, Ryan and Burns Warehouse",North,904.84,206,0.1214,5.45
+WH043,"Carlson, Clark and Gould Warehouse",West,879.43,203,0.1084,5.43
+WH047,"Kelley, Baker and Chambers Warehouse",Central,806.06,204,0.0686,5.48
+WH019,Love Group Warehouse,North,794.29,212,0.0755,5.28
+WH017,Powell Inc Warehouse,South,774.8,216,0.1111,5.41
+WH018,Myers-Alvarez Warehouse,East,759.64,196,0.0867,5.52
+WH007,"Lara, Medina and Werner Warehouse",West,756.96,227,0.0925,5.59
+WH013,Johnson Group Warehouse,South,731.35,212,0.1179,5.54
+WH023,Campbell-Kim Warehouse,Central,664.78,190,0.1,5.72
+WH049,Juarez-Roman Warehouse,East,632.52,190,0.1211,5.61
+WH005,Smith Inc Warehouse,West,627.79,201,0.1244,5.26
+WH038,Baldwin-Anderson Warehouse,North,614.38,202,0.0941,5.67
+WH034,Nichols-Caldwell Warehouse,North,597.58,203,0.0936,5.16
+WH004,"Rojas, Pacheco and Lawson Warehouse",South,582.75,200,0.13,5.52
+WH015,Campbell PLC Warehouse,East,570.7,186,0.0806,5.56
+WH039,Gutierrez-Brown Warehouse,North,551.84,188,0.0745,5.56
+WH014,Brown PLC Warehouse,South,546.77,190,0.1053,5.44
+WH045,Chaney-Miller Warehouse,Central,511.07,199,0.1055,5.39
+WH024,Beasley Ltd Warehouse,West,509.68,225,0.12,5.28
+WH010,"Lee, Ward and Walker Warehouse",North,508.03,194,0.1237,5.34
+WH036,Henderson-Rodriguez Warehouse,South,474.63,198,0.0758,5.42
+WH032,"White, Davis and Reed Warehouse",West,427.58,220,0.1409,5.71
+WH020,Rogers-Flores Warehouse,North,401.51,198,0.096,5.47
+WH044,Adams-Kline Warehouse,East,394.57,191,0.1257,5.64
+WH006,Deleon Ltd Warehouse,North,379.15,188,0.133,5.84
+WH001,Hill-Mendez Warehouse,South,349.72,207,0.0821,5.54
+WH021,Cunningham-Chan Warehouse,West,344.78,210,0.1,5.71
+WH037,"Robinson, Thomas and Richardson Warehouse",East,344.13,222,0.1171,5.64
+WH022,Brown-Logan Warehouse,North,336.65,185,0.0703,5.52
+WH027,Vasquez-Deleon Warehouse,South,329.6,195,0.0923,5.7
+WH031,Hicks LLC Warehouse,North,320.1,197,0.1371,5.23
+WH048,Garcia Group Warehouse,Central,318.33,185,0.1784,5.81
+WH029,Taylor-Hamilton Warehouse,North,305.56,194,0.0876,5.76
+WH035,Smith-Parker Warehouse,West,302.06,192,0.1146,5.52
+WH046,Arnold-Adams Warehouse,East,280.6,180,0.0722,5.51
+WH040,Smith Inc Warehouse,North,261.41,189,0.1217,5.6
+WH033,"Larson, Cooper and Robertson Warehouse",South,261.06,208,0.1298,5.83
+WH016,"Martinez, Crawford and Hall Warehouse",East,250.27,205,0.0927,5.28
+WH026,"Johns, Berry and Butler Warehouse",Central,250.19,205,0.0732,5.63
+WH012,Knight-Smith Warehouse,South,207.5,192,0.0833,5.75
+WH002,"Mcmillan, Jones and Steele Warehouse",East,171.12,218,0.0963,5.63
+WH042,Jimenez-Baxter Warehouse,West,162.03,195,0.0974,5.45
+WH008,White-Morales Warehouse,South,152.12,222,0.0856,5.15
+WH025,"Gilbert, Leach and Poole Warehouse",East,149.9,182,0.0714,5.35
+WH011,Colon-Torres Warehouse,Central,149.53,213,0.1033,5.86
+WH030,"Morales, Li and Ponce Warehouse",Central,102.31,179,0.1397,5.16

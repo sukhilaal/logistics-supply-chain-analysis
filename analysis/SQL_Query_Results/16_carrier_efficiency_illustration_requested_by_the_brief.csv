@@ -1,0 +1,26 @@
+﻿Carrier_ID,Carrier_Name,Mode_Speciality,On_Time_Percentage,Avg_Cost_per_km,efficiency_score_0_100,shipment_volume,observed_return_rate
+CR009,Bradley-Horton Logistics,Surface,96.72,4.12,97.35,408,0.1127
+CR002,Moore-Jordan Logistics,Air,97.04,4.81,94.35,395,0.1063
+CR013,Collier and Sons Logistics,Surface,86.47,3.9,93.23,398,0.0955
+CR018,Ward LLC Logistics,Air,92.33,4.63,92.82,370,0.0811
+CR025,Green-Obrien Logistics,Surface,90.62,4.78,91.27,379,0.1082
+CR023,Jackson Inc Logistics,Air,89.9,4.89,90.41,408,0.1201
+CR019,"Arnold, Hooper and Floyd Logistics",Air,74.77,4.86,82.98,418,0.1148
+CR003,"Robinson, Young and Heath Logistics",Air,80.05,5.8,81.31,403,0.0794
+CR010,Bates-Thomas Logistics,Rail,95.97,7.96,79.36,414,0.099
+CR015,Nguyen Ltd Logistics,Surface,79.14,6.13,79.34,384,0.1094
+CR022,Robinson-Williams Logistics,Surface,94.72,8.56,75.98,389,0.0874
+CR020,"Cook, Peck and Estrada Logistics",Surface,73.5,6.77,73.58,359,0.1142
+CR012,Torres-Clark Logistics,Air,88.48,9.07,70.52,423,0.1158
+CR017,Castaneda LLC Logistics,Surface,76.77,8.43,67.61,381,0.1155
+CR016,"Conway, Allen and Schneider Logistics",Surface,91.33,11.41,61.22,429,0.1352
+CR001,Ochoa Group Logistics,Air,85.85,11.79,56.73,445,0.1124
+CR004,"Davis, Odom and Dillon Logistics",Rail,97.58,13.53,54.62,395,0.1089
+CR014,"Campbell, Morris and Day Logistics",Surface,73.79,10.95,54.56,405,0.0963
+CR005,"White, Lynn and Williams Logistics",Air,80.91,12.11,52.79,430,0.093
+CR024,"Williams, Brown and Jackson Logistics",Rail,71.17,11.36,51.36,383,0.0705
+CR006,Young and Sons Logistics,Rail,73.01,11.73,50.59,402,0.1169
+CR007,Baker Ltd Logistics,Rail,82.17,14.8,41.09,410,0.0756
+CR021,Thompson-Harvey Logistics,Surface,76.02,14.58,39.02,428,0.1005
+CR008,Morrow-Greer Logistics,Air,74.13,14.67,37.66,378,0.119
+CR011,"Collins, Williams and White Logistics",Surface,72.46,14.69,36.73,366,0.112
